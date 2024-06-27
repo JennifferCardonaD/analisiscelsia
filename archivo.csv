@@ -1,0 +1,5001 @@
+id,referenica,marca,capacidad,ciudad,responsable
+4474,ACH43,Kalley,1737,Cali,Juan P
+3255,ACH43,Kalley,1901,Bogota,Jose Cano
+15,ACH01,SONY,1948,Pereira,Jose Cano
+3114,ACH43,Kalley,1518,Bucaramanga,Juan Jose
+9866,ACH43,RICO,1361,Bucaramanga,Camila B
+1892,ACH43,RICO,629,Pereira,Jose Cano
+9251,ACH43,RICO,565,Medellin,Jennifer
+1975,ACH43,SONY,563,Bucaramanga,Jose Cano
+8529,ACH43,RICO,779,Cali,Camila B
+6851,ACH022,SONY,584,Medellin,Jennifer
+2519,ACH01,SONY,1604,Medellin,Jennifer
+7483,ACH022,RICO,851,Bogota,Camila B
+5827,ACH022,SONY,1842,Cali,Jennifer
+1166,ACH022,SONY,110,Bucaramanga,Juan P
+3402,ACH022,RICO,989,Pereira,Juan P
+5944,ACH43,Kalley,1355,Bucaramanga,Juan P
+2539,ACH022,RICO,850,Bucaramanga,Juan P
+4003,ACH43,Kalley,906,Cali,Jose Cano
+5565,ACH01,RICO,331,Medellin,Camila B
+2886,ACH43,Kalley,1887,Bogota,Juan Jose
+9323,ACH43,RICO,792,Pereira,Jose Cano
+503,ACH022,SONY,1737,Bucaramanga,Juan Jose
+4230,ACH01,RICO,1864,Cali,Juan P
+8923,ACH01,RICO,1685,Bucaramanga,Camila B
+9940,ACH43,Kalley,1329,Pereira,Juan P
+5595,ACH022,Kalley,1192,Medellin,Juan P
+5163,ACH01,SONY,471,Medellin,Juan P
+919,ACH01,Kalley,1043,Medellin,Camila B
+7495,ACH022,SONY,1282,Medellin,Juan P
+1853,ACH43,RICO,1767,Cali,Juan Jose
+8676,ACH43,SONY,231,Pereira,Juan Jose
+7868,ACH022,SONY,1230,Pereira,Juan Jose
+5770,ACH43,RICO,1326,Cali,Juan Jose
+7802,ACH43,SONY,1296,Bucaramanga,Juan P
+4440,ACH43,SONY,657,Bogota,Juan Jose
+354,ACH43,Kalley,628,Bucaramanga,Camila B
+2002,ACH43,SONY,129,Medellin,Juan Jose
+5786,ACH022,SONY,969,Medellin,Jennifer
+6786,ACH01,SONY,1801,Bucaramanga,Juan Jose
+3952,ACH022,RICO,581,Bogota,Juan P
+8796,ACH022,Kalley,171,Pereira,Jennifer
+8037,ACH022,SONY,403,Medellin,Camila B
+6541,ACH43,RICO,903,Bucaramanga,Juan P
+5914,ACH01,SONY,784,Pereira,Juan Jose
+2777,ACH022,Kalley,916,Bogota,Camila B
+7853,ACH01,RICO,1106,Bogota,Jose Cano
+1289,ACH022,SONY,632,Medellin,Jose Cano
+2217,ACH43,RICO,1661,Medellin,Jennifer
+88,ACH01,SONY,258,Cali,Jose Cano
+3892,ACH022,RICO,1666,Medellin,Jennifer
+8554,ACH01,Kalley,1770,Medellin,Jose Cano
+9018,ACH01,Kalley,617,Bucaramanga,Camila B
+6727,ACH022,RICO,1651,Bogota,Juan Jose
+8110,ACH022,SONY,1153,Cali,Jennifer
+1368,ACH43,SONY,301,Bucaramanga,Jennifer
+2831,ACH43,Kalley,534,Pereira,Jennifer
+3236,ACH022,SONY,345,Bogota,Juan P
+5327,ACH43,SONY,1175,Cali,Jennifer
+6503,ACH022,Kalley,373,Cali,Juan Jose
+8484,ACH01,RICO,712,Bogota,Jennifer
+1473,ACH43,SONY,1495,Cali,Juan P
+8792,ACH01,RICO,903,Bogota,Camila B
+8358,ACH01,RICO,1551,Medellin,Camila B
+4139,ACH43,RICO,1379,Cali,Camila B
+6332,ACH022,Kalley,706,Cali,Camila B
+9185,ACH022,SONY,1297,Cali,Camila B
+1375,ACH43,SONY,1483,Bogota,Juan P
+3292,ACH022,RICO,1442,Bogota,Jennifer
+3615,ACH01,SONY,149,Cali,Jennifer
+3681,ACH43,RICO,1714,Medellin,Jennifer
+5026,ACH43,SONY,893,Pereira,Juan P
+1186,ACH01,RICO,1030,Cali,Juan P
+6190,ACH43,RICO,475,Bucaramanga,Jennifer
+6727,ACH01,RICO,1695,Medellin,Jose Cano
+6647,ACH43,Kalley,1509,Bucaramanga,Jose Cano
+6365,ACH43,Kalley,1816,Medellin,Juan P
+5327,ACH43,RICO,188,Bogota,Jose Cano
+2864,ACH43,SONY,888,Bucaramanga,Juan P
+5639,ACH43,Kalley,363,Bucaramanga,Camila B
+5755,ACH022,SONY,1932,Medellin,Juan Jose
+5978,ACH022,RICO,1441,Pereira,Camila B
+9199,ACH43,Kalley,1060,Bucaramanga,Jennifer
+1128,ACH01,Kalley,1931,Pereira,Camila B
+1355,ACH022,RICO,1362,Cali,Juan P
+4911,ACH43,Kalley,250,Bogota,Juan P
+277,ACH022,Kalley,1893,Pereira,Juan Jose
+8330,ACH022,Kalley,446,Pereira,Juan Jose
+5832,ACH43,SONY,583,Pereira,Juan Jose
+1603,ACH022,RICO,540,Pereira,Camila B
+8015,ACH43,SONY,1918,Bogota,Juan Jose
+3651,ACH43,SONY,291,Cali,Camila B
+3519,ACH43,SONY,165,Bucaramanga,Jennifer
+5003,ACH01,Kalley,550,Bogota,Jose Cano
+511,ACH01,SONY,209,Medellin,Juan P
+4351,ACH01,Kalley,818,Pereira,Juan Jose
+2592,ACH01,Kalley,1870,Cali,Juan Jose
+3002,ACH01,SONY,1856,Cali,Jennifer
+2552,ACH022,SONY,196,Pereira,Jose Cano
+4993,ACH01,Kalley,110,Pereira,Juan P
+8222,ACH022,SONY,1526,Bogota,Camila B
+2428,ACH43,Kalley,1211,Cali,Jose Cano
+2371,ACH022,SONY,867,Cali,Jose Cano
+2877,ACH43,SONY,983,Bucaramanga,Jose Cano
+9455,ACH022,SONY,1755,Cali,Juan Jose
+4400,ACH022,SONY,308,Bucaramanga,Juan Jose
+3563,ACH01,Kalley,380,Pereira,Jose Cano
+7625,ACH01,RICO,1007,Bucaramanga,Jose Cano
+3612,ACH01,SONY,1541,Cali,Jose Cano
+560,ACH43,Kalley,153,Pereira,Juan Jose
+9875,ACH43,RICO,1224,Cali,Juan Jose
+1833,ACH43,SONY,1325,Bucaramanga,Camila B
+9582,ACH022,RICO,246,Pereira,Juan P
+9912,ACH01,Kalley,510,Cali,Jennifer
+6048,ACH022,RICO,1619,Pereira,Juan Jose
+5081,ACH022,RICO,580,Bucaramanga,Juan Jose
+9910,ACH022,SONY,891,Bogota,Camila B
+7000,ACH43,Kalley,353,Cali,Camila B
+3053,ACH43,SONY,1456,Pereira,Juan Jose
+5647,ACH43,SONY,1661,Bucaramanga,Juan Jose
+1495,ACH022,Kalley,1159,Pereira,Juan P
+5357,ACH01,SONY,433,Cali,Camila B
+9745,ACH43,Kalley,1980,Cali,Juan Jose
+3045,ACH01,RICO,286,Pereira,Juan P
+526,ACH43,Kalley,1638,Medellin,Jose Cano
+5140,ACH01,RICO,1131,Pereira,Juan Jose
+5173,ACH43,RICO,1726,Medellin,Jose Cano
+1606,ACH43,SONY,849,Bogota,Jose Cano
+7047,ACH01,RICO,1370,Cali,Juan P
+4056,ACH022,SONY,1840,Medellin,Jennifer
+4614,ACH022,Kalley,974,Pereira,Juan Jose
+4534,ACH01,RICO,883,Bogota,Camila B
+6041,ACH43,RICO,1982,Bogota,Camila B
+6270,ACH43,Kalley,531,Bucaramanga,Juan P
+4849,ACH43,SONY,1812,Cali,Juan P
+8057,ACH022,RICO,1735,Bucaramanga,Jose Cano
+3553,ACH01,RICO,172,Bogota,Jennifer
+5872,ACH022,Kalley,785,Medellin,Juan Jose
+3728,ACH01,Kalley,342,Cali,Juan Jose
+2106,ACH01,Kalley,395,Pereira,Juan P
+9640,ACH022,SONY,510,Bogota,Jose Cano
+5685,ACH43,RICO,763,Bogota,Camila B
+8733,ACH43,RICO,1556,Medellin,Camila B
+3808,ACH022,Kalley,182,Medellin,Jose Cano
+4538,ACH01,SONY,678,Bucaramanga,Jennifer
+3318,ACH01,RICO,1999,Cali,Camila B
+9077,ACH43,RICO,115,Bogota,Juan Jose
+8613,ACH43,RICO,951,Medellin,Juan P
+7269,ACH022,SONY,519,Cali,Juan Jose
+9359,ACH43,Kalley,330,Cali,Juan Jose
+6157,ACH022,Kalley,1871,Cali,Juan P
+1018,ACH01,Kalley,1395,Cali,Camila B
+877,ACH022,Kalley,1365,Cali,Jennifer
+9427,ACH022,RICO,1742,Cali,Jennifer
+9177,ACH43,SONY,1136,Pereira,Juan P
+18,ACH43,RICO,1253,Bogota,Camila B
+3069,ACH01,Kalley,1617,Pereira,Jose Cano
+7035,ACH01,SONY,945,Cali,Camila B
+6057,ACH022,RICO,675,Bucaramanga,Juan P
+3801,ACH022,Kalley,1549,Medellin,Camila B
+9969,ACH022,Kalley,1156,Pereira,Juan Jose
+9949,ACH01,SONY,1371,Cali,Juan P
+5440,ACH43,SONY,905,Cali,Jennifer
+318,ACH022,RICO,121,Cali,Juan P
+775,ACH01,Kalley,1047,Bucaramanga,Jose Cano
+4349,ACH43,SONY,1762,Medellin,Jennifer
+6783,ACH01,Kalley,291,Bucaramanga,Jennifer
+4110,ACH01,Kalley,1569,Medellin,Jose Cano
+7204,ACH43,SONY,1513,Pereira,Juan Jose
+3566,ACH01,Kalley,1090,Medellin,Jennifer
+4491,ACH43,SONY,312,Bogota,Juan Jose
+6786,ACH43,RICO,218,Bogota,Jennifer
+4498,ACH01,RICO,1611,Cali,Camila B
+1674,ACH43,Kalley,1965,Bucaramanga,Juan Jose
+5964,ACH01,RICO,1045,Medellin,Juan Jose
+7673,ACH43,SONY,777,Bucaramanga,Juan Jose
+8681,ACH43,Kalley,1352,Pereira,Jose Cano
+8674,ACH01,SONY,1194,Medellin,Jose Cano
+7600,ACH43,Kalley,1013,Bogota,Jennifer
+9648,ACH01,SONY,1846,Cali,Jennifer
+292,ACH022,Kalley,1786,Pereira,Camila B
+7676,ACH022,SONY,1522,Pereira,Jose Cano
+6228,ACH43,RICO,1673,Pereira,Jose Cano
+4856,ACH43,SONY,1057,Pereira,Jennifer
+8743,ACH01,RICO,989,Bucaramanga,Jose Cano
+4859,ACH43,Kalley,1239,Medellin,Jose Cano
+504,ACH01,RICO,798,Bucaramanga,Juan P
+1781,ACH022,RICO,297,Bogota,Jose Cano
+3415,ACH022,RICO,1093,Medellin,Juan P
+7993,ACH01,RICO,414,Bogota,Jose Cano
+1332,ACH43,SONY,962,Medellin,Jose Cano
+3413,ACH022,SONY,282,Bucaramanga,Jennifer
+7353,ACH43,Kalley,1103,Bogota,Jose Cano
+9550,ACH01,RICO,1540,Pereira,Juan P
+1856,ACH01,Kalley,1906,Cali,Jennifer
+6973,ACH43,Kalley,1935,Bucaramanga,Juan Jose
+3917,ACH43,SONY,984,Bogota,Jennifer
+5391,ACH022,Kalley,561,Cali,Jennifer
+8592,ACH43,SONY,1530,Medellin,Jose Cano
+2404,ACH01,SONY,1114,Bogota,Jennifer
+3989,ACH022,Kalley,1397,Medellin,Jennifer
+6960,ACH022,Kalley,796,Bucaramanga,Camila B
+361,ACH01,Kalley,460,Bucaramanga,Jennifer
+7585,ACH43,Kalley,1986,Pereira,Camila B
+733,ACH01,SONY,1817,Bogota,Juan P
+5972,ACH43,RICO,1871,Bogota,Jose Cano
+3672,ACH43,RICO,123,Bucaramanga,Jose Cano
+2942,ACH022,Kalley,1292,Medellin,Juan P
+1124,ACH022,SONY,1172,Bucaramanga,Jennifer
+2111,ACH01,RICO,1501,Pereira,Jose Cano
+5360,ACH022,SONY,125,Medellin,Jose Cano
+8154,ACH022,SONY,861,Bucaramanga,Juan Jose
+5082,ACH43,RICO,734,Cali,Juan Jose
+1404,ACH43,SONY,282,Medellin,Jose Cano
+6655,ACH43,Kalley,224,Bogota,Juan Jose
+7051,ACH022,Kalley,1171,Bogota,Camila B
+8762,ACH022,Kalley,684,Cali,Juan Jose
+570,ACH43,SONY,1028,Bucaramanga,Juan P
+8085,ACH022,RICO,994,Bogota,Jose Cano
+7376,ACH43,SONY,1412,Pereira,Jose Cano
+5931,ACH01,SONY,907,Cali,Jennifer
+5461,ACH01,Kalley,890,Pereira,Jose Cano
+288,ACH022,SONY,570,Bogota,Camila B
+995,ACH43,RICO,461,Cali,Camila B
+5078,ACH01,RICO,772,Bucaramanga,Juan P
+9896,ACH022,SONY,688,Pereira,Juan P
+4028,ACH022,RICO,589,Bucaramanga,Juan Jose
+2700,ACH01,RICO,179,Cali,Jennifer
+5588,ACH43,SONY,689,Bogota,Jennifer
+9572,ACH022,Kalley,553,Bogota,Juan P
+2375,ACH01,Kalley,1177,Cali,Camila B
+6156,ACH01,SONY,225,Medellin,Juan Jose
+7629,ACH01,SONY,1970,Bucaramanga,Jennifer
+8904,ACH43,SONY,326,Bucaramanga,Juan Jose
+1953,ACH43,RICO,337,Bogota,Camila B
+4803,ACH43,Kalley,751,Bogota,Juan P
+5424,ACH43,SONY,745,Bogota,Jennifer
+3726,ACH01,SONY,203,Pereira,Jose Cano
+7735,ACH022,RICO,501,Bogota,Juan Jose
+5850,ACH022,RICO,946,Bogota,Juan Jose
+8310,ACH01,RICO,1340,Pereira,Jennifer
+3121,ACH01,RICO,1108,Bogota,Jennifer
+345,ACH01,RICO,732,Pereira,Jose Cano
+5568,ACH43,SONY,1175,Bucaramanga,Jennifer
+388,ACH01,Kalley,690,Bogota,Camila B
+6512,ACH43,Kalley,660,Bucaramanga,Juan P
+9510,ACH43,Kalley,1658,Bogota,Jennifer
+4422,ACH43,Kalley,1557,Bogota,Jose Cano
+1250,ACH43,Kalley,1875,Bogota,Jose Cano
+9581,ACH01,Kalley,855,Medellin,Juan Jose
+9761,ACH43,Kalley,632,Pereira,Juan P
+2004,ACH43,RICO,1481,Bucaramanga,Juan P
+8902,ACH43,SONY,1535,Bogota,Camila B
+270,ACH022,Kalley,915,Medellin,Camila B
+6241,ACH01,RICO,1412,Cali,Camila B
+4702,ACH022,SONY,1487,Medellin,Camila B
+4326,ACH01,RICO,549,Bogota,Juan Jose
+766,ACH43,SONY,1068,Bogota,Juan P
+931,ACH01,RICO,1469,Pereira,Juan Jose
+6931,ACH022,RICO,875,Pereira,Camila B
+3728,ACH43,SONY,620,Cali,Juan Jose
+6332,ACH022,Kalley,1733,Bogota,Jennifer
+1618,ACH43,Kalley,315,Pereira,Camila B
+1694,ACH43,SONY,1769,Pereira,Juan Jose
+5851,ACH43,Kalley,1412,Medellin,Jennifer
+7171,ACH022,SONY,1785,Pereira,Juan P
+4539,ACH43,SONY,172,Cali,Jose Cano
+5081,ACH01,Kalley,1176,Bogota,Jose Cano
+9048,ACH022,Kalley,1601,Cali,Jose Cano
+263,ACH022,RICO,1061,Bucaramanga,Jennifer
+573,ACH01,SONY,1394,Medellin,Camila B
+7965,ACH01,SONY,1989,Bucaramanga,Jennifer
+1234,ACH43,SONY,1053,Pereira,Camila B
+5511,ACH01,RICO,726,Medellin,Jose Cano
+9797,ACH01,Kalley,392,Pereira,Juan P
+6369,ACH022,RICO,1010,Bogota,Camila B
+5682,ACH01,Kalley,1762,Bogota,Camila B
+3548,ACH01,Kalley,1256,Pereira,Jose Cano
+4057,ACH43,SONY,1049,Cali,Camila B
+9917,ACH43,Kalley,751,Bucaramanga,Camila B
+1551,ACH43,RICO,1252,Pereira,Jose Cano
+9575,ACH022,SONY,1032,Medellin,Camila B
+325,ACH022,SONY,448,Medellin,Juan Jose
+3365,ACH022,Kalley,125,Pereira,Juan Jose
+5868,ACH022,SONY,964,Bucaramanga,Juan Jose
+1557,ACH022,Kalley,283,Medellin,Jose Cano
+5994,ACH43,Kalley,1003,Bogota,Camila B
+1240,ACH43,Kalley,1021,Medellin,Juan P
+8432,ACH022,Kalley,1937,Cali,Camila B
+5172,ACH022,RICO,197,Cali,Juan P
+2791,ACH01,Kalley,1815,Medellin,Jennifer
+9707,ACH01,Kalley,677,Bogota,Juan Jose
+4061,ACH01,SONY,1432,Bogota,Jennifer
+2722,ACH01,Kalley,664,Pereira,Juan Jose
+3479,ACH01,SONY,964,Pereira,Camila B
+343,ACH43,Kalley,1290,Medellin,Juan P
+5967,ACH43,RICO,1131,Bucaramanga,Jennifer
+140,ACH43,Kalley,1990,Pereira,Jose Cano
+5751,ACH01,Kalley,1639,Pereira,Juan P
+5278,ACH01,SONY,1116,Cali,Jose Cano
+4887,ACH01,Kalley,1241,Pereira,Jose Cano
+9234,ACH01,Kalley,727,Bucaramanga,Juan Jose
+947,ACH01,Kalley,1993,Pereira,Jose Cano
+2002,ACH022,RICO,835,Bogota,Jennifer
+9346,ACH01,RICO,1395,Bogota,Jose Cano
+3493,ACH43,RICO,1850,Medellin,Jennifer
+9072,ACH01,Kalley,799,Bogota,Juan P
+9103,ACH01,SONY,633,Bucaramanga,Camila B
+1553,ACH43,Kalley,797,Pereira,Jennifer
+8767,ACH01,Kalley,1416,Medellin,Jennifer
+6382,ACH022,RICO,774,Medellin,Jennifer
+1420,ACH01,SONY,335,Bogota,Juan Jose
+4730,ACH43,RICO,844,Cali,Jose Cano
+7627,ACH43,RICO,1479,Cali,Jennifer
+8329,ACH022,RICO,851,Medellin,Jennifer
+1978,ACH022,SONY,1525,Cali,Juan Jose
+7857,ACH022,RICO,285,Bucaramanga,Juan Jose
+6993,ACH43,SONY,1501,Medellin,Juan P
+4453,ACH43,SONY,1722,Medellin,Juan Jose
+1474,ACH01,SONY,1793,Cali,Jose Cano
+9667,ACH01,RICO,501,Cali,Jose Cano
+5928,ACH43,SONY,1037,Bucaramanga,Juan P
+2164,ACH01,Kalley,1547,Medellin,Juan Jose
+5135,ACH01,Kalley,962,Pereira,Camila B
+6805,ACH022,RICO,1145,Bogota,Jennifer
+7071,ACH01,SONY,1667,Pereira,Jose Cano
+9922,ACH01,SONY,380,Bogota,Juan P
+5899,ACH43,SONY,1719,Medellin,Juan Jose
+2189,ACH01,RICO,1351,Pereira,Camila B
+7644,ACH43,RICO,908,Pereira,Juan Jose
+376,ACH43,SONY,1805,Bogota,Camila B
+9430,ACH01,RICO,1242,Bogota,Jennifer
+2299,ACH43,RICO,264,Bucaramanga,Jennifer
+8822,ACH01,RICO,1307,Bogota,Juan P
+4813,ACH01,RICO,759,Medellin,Camila B
+6332,ACH01,Kalley,1692,Cali,Jennifer
+7072,ACH022,Kalley,1631,Bucaramanga,Juan Jose
+876,ACH01,RICO,599,Bogota,Juan Jose
+8100,ACH022,RICO,1458,Pereira,Juan Jose
+5007,ACH01,Kalley,988,Bogota,Camila B
+5926,ACH01,Kalley,1003,Bogota,Jennifer
+587,ACH43,SONY,296,Bucaramanga,Juan P
+6396,ACH01,SONY,1565,Pereira,Camila B
+3504,ACH01,Kalley,1269,Bogota,Juan P
+9361,ACH022,RICO,875,Cali,Jennifer
+2938,ACH022,Kalley,674,Bucaramanga,Juan Jose
+3239,ACH01,SONY,1445,Bogota,Juan Jose
+2387,ACH01,Kalley,1496,Cali,Juan P
+2783,ACH022,Kalley,123,Medellin,Camila B
+6597,ACH022,Kalley,1911,Cali,Jennifer
+8437,ACH022,SONY,1514,Cali,Jennifer
+6275,ACH01,Kalley,1410,Bucaramanga,Jennifer
+3967,ACH01,SONY,1402,Bogota,Juan Jose
+595,ACH01,SONY,995,Pereira,Jennifer
+5113,ACH43,Kalley,1160,Medellin,Juan Jose
+2608,ACH022,RICO,1370,Bogota,Jennifer
+6785,ACH01,RICO,1184,Pereira,Camila B
+4871,ACH43,RICO,328,Bogota,Jennifer
+7821,ACH43,Kalley,1850,Bucaramanga,Camila B
+5748,ACH43,SONY,998,Cali,Jennifer
+5283,ACH01,RICO,908,Bogota,Jose Cano
+3189,ACH01,Kalley,880,Medellin,Juan Jose
+4692,ACH43,SONY,1018,Bogota,Juan Jose
+3662,ACH01,SONY,704,Pereira,Jose Cano
+2155,ACH43,RICO,216,Pereira,Jose Cano
+5202,ACH01,RICO,1151,Medellin,Jose Cano
+2755,ACH022,SONY,1727,Bogota,Camila B
+8808,ACH022,Kalley,1772,Bogota,Jose Cano
+3954,ACH43,Kalley,795,Pereira,Juan Jose
+2468,ACH43,Kalley,1667,Medellin,Camila B
+7575,ACH43,RICO,1044,Pereira,Jose Cano
+9617,ACH43,Kalley,600,Medellin,Juan P
+889,ACH43,Kalley,998,Cali,Juan Jose
+6502,ACH022,Kalley,817,Cali,Juan Jose
+5950,ACH01,Kalley,1949,Bucaramanga,Camila B
+8318,ACH43,SONY,867,Bogota,Jennifer
+7671,ACH01,SONY,1916,Pereira,Juan P
+5643,ACH022,SONY,136,Bogota,Jose Cano
+7962,ACH43,Kalley,1521,Pereira,Jennifer
+5023,ACH43,RICO,381,Bucaramanga,Juan P
+1603,ACH01,Kalley,800,Cali,Jennifer
+9667,ACH022,SONY,243,Bucaramanga,Camila B
+4683,ACH022,Kalley,1426,Cali,Juan Jose
+2400,ACH43,SONY,676,Medellin,Juan Jose
+5177,ACH022,RICO,207,Bucaramanga,Camila B
+2604,ACH43,Kalley,1800,Bogota,Juan P
+5171,ACH01,SONY,1468,Cali,Jennifer
+4295,ACH022,RICO,1054,Pereira,Camila B
+928,ACH43,SONY,720,Pereira,Juan Jose
+3552,ACH022,Kalley,1530,Medellin,Jose Cano
+3427,ACH01,RICO,179,Bucaramanga,Camila B
+7515,ACH022,RICO,907,Cali,Jose Cano
+4971,ACH43,Kalley,1655,Medellin,Juan Jose
+7194,ACH022,Kalley,1154,Bucaramanga,Camila B
+1872,ACH022,SONY,297,Bucaramanga,Jennifer
+6398,ACH01,RICO,1736,Cali,Jennifer
+5492,ACH43,SONY,1182,Bogota,Jose Cano
+6977,ACH01,Kalley,206,Medellin,Juan Jose
+6399,ACH43,Kalley,1149,Medellin,Camila B
+3064,ACH01,Kalley,417,Medellin,Camila B
+6912,ACH022,Kalley,1062,Pereira,Jennifer
+511,ACH43,Kalley,839,Bucaramanga,Juan Jose
+889,ACH022,SONY,1662,Medellin,Camila B
+6947,ACH43,Kalley,399,Medellin,Jose Cano
+2823,ACH022,SONY,453,Medellin,Camila B
+2803,ACH022,Kalley,1732,Bucaramanga,Camila B
+218,ACH43,SONY,639,Bogota,Juan Jose
+5808,ACH43,SONY,1349,Medellin,Juan P
+9956,ACH022,Kalley,115,Bucaramanga,Camila B
+2595,ACH022,RICO,1293,Bogota,Juan P
+6858,ACH022,RICO,414,Pereira,Jose Cano
+5215,ACH022,Kalley,1706,Bucaramanga,Juan Jose
+964,ACH01,Kalley,579,Cali,Juan Jose
+9046,ACH01,SONY,316,Bucaramanga,Juan Jose
+3141,ACH43,Kalley,1025,Bogota,Jennifer
+1344,ACH43,Kalley,1943,Bucaramanga,Camila B
+1412,ACH022,SONY,381,Cali,Jose Cano
+5194,ACH01,SONY,1784,Bucaramanga,Camila B
+8744,ACH022,SONY,1698,Bucaramanga,Juan P
+168,ACH022,Kalley,1111,Pereira,Jose Cano
+5631,ACH022,Kalley,1289,Pereira,Juan P
+1954,ACH01,SONY,1447,Bucaramanga,Juan Jose
+1535,ACH022,SONY,1159,Cali,Juan Jose
+9785,ACH01,SONY,422,Bogota,Jose Cano
+9180,ACH022,RICO,1474,Bogota,Camila B
+2472,ACH022,SONY,1193,Cali,Jose Cano
+6690,ACH01,Kalley,730,Medellin,Juan Jose
+1418,ACH43,Kalley,956,Bucaramanga,Jose Cano
+8759,ACH022,RICO,1942,Medellin,Camila B
+78,ACH43,SONY,758,Cali,Juan Jose
+5725,ACH43,SONY,312,Bucaramanga,Jose Cano
+2751,ACH022,RICO,869,Bogota,Camila B
+3802,ACH43,Kalley,163,Pereira,Jennifer
+1945,ACH01,SONY,1357,Bucaramanga,Camila B
+7573,ACH022,Kalley,1846,Medellin,Camila B
+4506,ACH01,Kalley,1860,Bucaramanga,Jose Cano
+9880,ACH022,SONY,1375,Pereira,Juan Jose
+3306,ACH01,RICO,1224,Medellin,Jose Cano
+2029,ACH022,RICO,531,Medellin,Camila B
+1260,ACH022,SONY,858,Bogota,Juan P
+7453,ACH01,Kalley,964,Medellin,Juan P
+7089,ACH01,Kalley,491,Bucaramanga,Juan P
+5546,ACH022,RICO,1539,Bogota,Juan Jose
+7907,ACH01,Kalley,1337,Pereira,Jennifer
+4451,ACH022,SONY,1735,Medellin,Jose Cano
+409,ACH01,SONY,1367,Cali,Jose Cano
+4730,ACH01,RICO,353,Medellin,Jose Cano
+6209,ACH43,SONY,1020,Medellin,Camila B
+6870,ACH022,RICO,1553,Bucaramanga,Jennifer
+7509,ACH01,RICO,495,Cali,Jennifer
+8961,ACH01,RICO,1228,Bucaramanga,Jennifer
+90,ACH01,SONY,643,Medellin,Jose Cano
+9286,ACH022,RICO,291,Pereira,Jose Cano
+9594,ACH43,Kalley,974,Medellin,Jose Cano
+2892,ACH01,Kalley,1541,Pereira,Juan Jose
+9303,ACH022,Kalley,1196,Bucaramanga,Jose Cano
+1158,ACH01,SONY,1509,Bogota,Jose Cano
+8274,ACH022,Kalley,923,Medellin,Juan P
+9597,ACH01,RICO,840,Bogota,Juan Jose
+3556,ACH43,SONY,666,Medellin,Jose Cano
+8603,ACH022,Kalley,440,Bogota,Juan P
+8666,ACH022,SONY,1236,Bucaramanga,Juan Jose
+5791,ACH022,RICO,1867,Pereira,Jose Cano
+2544,ACH01,SONY,1827,Medellin,Juan P
+2433,ACH022,Kalley,1591,Bucaramanga,Jose Cano
+2932,ACH01,Kalley,1979,Bucaramanga,Juan P
+4295,ACH01,RICO,842,Bogota,Camila B
+841,ACH022,RICO,453,Bogota,Juan P
+380,ACH022,RICO,1843,Bucaramanga,Juan Jose
+4633,ACH01,Kalley,111,Medellin,Camila B
+5875,ACH43,SONY,1901,Pereira,Jennifer
+2164,ACH01,Kalley,1615,Cali,Juan P
+9732,ACH022,SONY,523,Medellin,Camila B
+2467,ACH43,Kalley,1667,Cali,Juan P
+1753,ACH01,RICO,444,Bogota,Juan P
+2173,ACH022,SONY,381,Cali,Juan Jose
+739,ACH01,RICO,568,Bogota,Jose Cano
+2886,ACH022,SONY,1170,Cali,Juan P
+5612,ACH01,SONY,1421,Pereira,Jennifer
+8006,ACH01,SONY,1492,Bucaramanga,Juan Jose
+2920,ACH01,RICO,1599,Medellin,Jennifer
+2811,ACH43,Kalley,1971,Bogota,Jose Cano
+5577,ACH43,SONY,1396,Pereira,Camila B
+2193,ACH43,SONY,1201,Bogota,Camila B
+1408,ACH022,Kalley,845,Pereira,Juan P
+5285,ACH43,RICO,1364,Bogota,Camila B
+3888,ACH01,RICO,1738,Medellin,Camila B
+5607,ACH43,SONY,396,Cali,Juan Jose
+948,ACH022,Kalley,621,Pereira,Camila B
+6885,ACH022,RICO,686,Medellin,Juan P
+4053,ACH43,Kalley,1817,Pereira,Jose Cano
+5461,ACH01,SONY,375,Cali,Jennifer
+1650,ACH43,Kalley,714,Cali,Juan P
+9901,ACH022,RICO,1252,Bucaramanga,Jose Cano
+1430,ACH01,Kalley,1017,Cali,Jennifer
+1480,ACH43,SONY,532,Bucaramanga,Juan Jose
+902,ACH022,SONY,131,Bogota,Juan Jose
+9931,ACH022,SONY,1103,Cali,Juan Jose
+8606,ACH022,SONY,1883,Medellin,Jose Cano
+6948,ACH43,Kalley,1361,Bucaramanga,Camila B
+8926,ACH022,RICO,1218,Pereira,Jose Cano
+3598,ACH022,RICO,1534,Medellin,Camila B
+9915,ACH022,RICO,1348,Bucaramanga,Camila B
+220,ACH01,SONY,681,Cali,Juan Jose
+8930,ACH43,RICO,980,Bogota,Jennifer
+7410,ACH43,SONY,622,Pereira,Camila B
+8412,ACH01,Kalley,1070,Pereira,Juan P
+788,ACH022,Kalley,1496,Cali,Juan P
+1782,ACH43,Kalley,1781,Bucaramanga,Jose Cano
+4280,ACH022,Kalley,1858,Bucaramanga,Camila B
+3018,ACH01,SONY,1534,Cali,Juan Jose
+7167,ACH022,Kalley,352,Bogota,Juan P
+8105,ACH43,SONY,1939,Medellin,Juan Jose
+1254,ACH022,SONY,1143,Pereira,Camila B
+9416,ACH01,RICO,383,Cali,Camila B
+4580,ACH022,RICO,925,Pereira,Juan P
+1581,ACH01,Kalley,410,Bucaramanga,Jennifer
+7602,ACH43,SONY,623,Medellin,Juan P
+9838,ACH01,RICO,154,Cali,Jose Cano
+4499,ACH43,Kalley,663,Pereira,Jennifer
+5767,ACH01,SONY,719,Bogota,Jose Cano
+4841,ACH022,SONY,1398,Bogota,Juan P
+8457,ACH01,RICO,1483,Pereira,Jennifer
+8713,ACH43,SONY,787,Cali,Juan P
+4766,ACH022,Kalley,727,Bogota,Juan Jose
+1788,ACH43,Kalley,137,Medellin,Camila B
+7439,ACH01,Kalley,406,Cali,Jose Cano
+2958,ACH01,RICO,1404,Medellin,Juan Jose
+1522,ACH022,Kalley,761,Bogota,Camila B
+4634,ACH43,SONY,352,Bucaramanga,Camila B
+330,ACH01,RICO,1117,Pereira,Camila B
+4827,ACH01,Kalley,457,Cali,Camila B
+9526,ACH022,SONY,1859,Bogota,Juan Jose
+8867,ACH43,Kalley,241,Medellin,Jennifer
+1162,ACH022,Kalley,1855,Pereira,Camila B
+9906,ACH022,RICO,509,Medellin,Camila B
+1750,ACH022,SONY,740,Bogota,Jose Cano
+1189,ACH43,Kalley,1672,Bucaramanga,Jose Cano
+7624,ACH022,RICO,1208,Cali,Juan P
+9338,ACH022,Kalley,367,Medellin,Jennifer
+8927,ACH01,Kalley,962,Pereira,Juan P
+738,ACH01,RICO,871,Bucaramanga,Camila B
+5878,ACH01,RICO,923,Medellin,Juan P
+6465,ACH43,Kalley,1784,Medellin,Juan P
+21,ACH01,RICO,149,Cali,Jose Cano
+1935,ACH43,RICO,1873,Pereira,Juan Jose
+4030,ACH01,RICO,1915,Pereira,Jose Cano
+4941,ACH022,Kalley,1701,Bucaramanga,Camila B
+9374,ACH022,Kalley,544,Medellin,Jose Cano
+8748,ACH01,RICO,1190,Cali,Jose Cano
+8577,ACH022,SONY,1163,Medellin,Juan Jose
+5476,ACH022,Kalley,956,Bucaramanga,Jennifer
+2696,ACH01,RICO,114,Bucaramanga,Juan Jose
+8066,ACH43,RICO,373,Cali,Juan Jose
+2487,ACH022,Kalley,915,Bucaramanga,Jennifer
+8763,ACH43,RICO,268,Pereira,Jennifer
+3280,ACH01,RICO,1307,Medellin,Juan Jose
+6156,ACH01,RICO,1005,Cali,Camila B
+9617,ACH022,Kalley,1712,Medellin,Jennifer
+9395,ACH43,Kalley,690,Medellin,Jose Cano
+6050,ACH43,Kalley,102,Medellin,Camila B
+5987,ACH43,SONY,366,Bogota,Camila B
+322,ACH01,Kalley,1766,Medellin,Camila B
+4484,ACH43,SONY,1054,Pereira,Juan Jose
+6166,ACH01,RICO,112,Pereira,Camila B
+189,ACH43,SONY,1259,Bogota,Juan P
+9335,ACH43,SONY,143,Bogota,Juan Jose
+9391,ACH022,RICO,816,Medellin,Jose Cano
+1902,ACH022,Kalley,1148,Pereira,Juan P
+9380,ACH022,SONY,1545,Medellin,Camila B
+4379,ACH01,SONY,1845,Pereira,Juan Jose
+70,ACH01,Kalley,805,Bogota,Juan P
+9584,ACH022,Kalley,1312,Pereira,Camila B
+6227,ACH01,Kalley,117,Bucaramanga,Juan P
+4505,ACH01,Kalley,1009,Medellin,Jennifer
+3875,ACH022,Kalley,1599,Pereira,Juan P
+2103,ACH01,Kalley,736,Bucaramanga,Jennifer
+4040,ACH43,Kalley,925,Pereira,Camila B
+633,ACH01,RICO,1506,Bucaramanga,Juan P
+7071,ACH43,Kalley,363,Cali,Jennifer
+5893,ACH01,Kalley,1361,Bogota,Jennifer
+1302,ACH43,Kalley,474,Cali,Jose Cano
+9186,ACH43,RICO,918,Medellin,Jose Cano
+5380,ACH43,SONY,1212,Medellin,Jose Cano
+5752,ACH022,SONY,1823,Cali,Jose Cano
+4988,ACH43,Kalley,381,Bogota,Camila B
+6266,ACH01,RICO,708,Pereira,Camila B
+1145,ACH43,SONY,789,Bucaramanga,Juan P
+9902,ACH022,Kalley,1370,Medellin,Camila B
+5897,ACH43,RICO,1759,Cali,Juan Jose
+8033,ACH01,RICO,145,Bucaramanga,Juan P
+409,ACH022,Kalley,939,Cali,Juan P
+8187,ACH022,RICO,159,Bucaramanga,Jose Cano
+9900,ACH022,RICO,1765,Bucaramanga,Jose Cano
+4437,ACH43,Kalley,745,Pereira,Jennifer
+9642,ACH43,SONY,1436,Bogota,Juan Jose
+1323,ACH43,RICO,1697,Bogota,Jose Cano
+5517,ACH01,SONY,461,Medellin,Camila B
+1079,ACH022,SONY,1042,Pereira,Jennifer
+151,ACH43,RICO,1716,Bogota,Juan Jose
+5757,ACH01,Kalley,955,Bucaramanga,Jennifer
+1874,ACH01,RICO,446,Pereira,Jose Cano
+67,ACH01,Kalley,232,Medellin,Camila B
+8069,ACH01,SONY,1709,Bucaramanga,Camila B
+6371,ACH43,SONY,1951,Bucaramanga,Jennifer
+8180,ACH022,Kalley,1887,Cali,Juan Jose
+4969,ACH022,RICO,140,Medellin,Camila B
+9283,ACH022,Kalley,877,Pereira,Jennifer
+9334,ACH43,RICO,321,Pereira,Jennifer
+8851,ACH01,Kalley,156,Bucaramanga,Jose Cano
+5822,ACH43,RICO,841,Bogota,Juan Jose
+2226,ACH43,RICO,522,Medellin,Juan Jose
+3233,ACH022,RICO,1959,Bucaramanga,Juan P
+3842,ACH022,SONY,954,Bucaramanga,Camila B
+3228,ACH43,SONY,910,Medellin,Camila B
+3536,ACH022,SONY,464,Bucaramanga,Juan Jose
+1590,ACH01,RICO,1014,Cali,Camila B
+3867,ACH43,RICO,1627,Medellin,Juan P
+9536,ACH022,RICO,1051,Bucaramanga,Camila B
+6865,ACH01,SONY,675,Bogota,Juan P
+5928,ACH022,RICO,559,Pereira,Juan Jose
+7853,ACH01,RICO,1827,Pereira,Juan Jose
+9330,ACH01,SONY,1856,Medellin,Juan Jose
+716,ACH43,RICO,1599,Bucaramanga,Jennifer
+3754,ACH01,Kalley,417,Bucaramanga,Camila B
+5612,ACH022,RICO,1505,Pereira,Jennifer
+2645,ACH022,SONY,1237,Bogota,Juan P
+8634,ACH43,SONY,938,Pereira,Camila B
+6148,ACH43,SONY,1952,Pereira,Juan Jose
+5970,ACH43,RICO,801,Medellin,Camila B
+5753,ACH022,Kalley,1873,Pereira,Camila B
+9954,ACH022,Kalley,1023,Bucaramanga,Jose Cano
+9884,ACH01,SONY,256,Pereira,Camila B
+7224,ACH43,Kalley,1227,Pereira,Camila B
+4043,ACH022,Kalley,1150,Cali,Juan P
+5016,ACH022,Kalley,641,Bogota,Jennifer
+6193,ACH43,RICO,474,Bucaramanga,Juan Jose
+7097,ACH43,SONY,1262,Bogota,Jennifer
+6645,ACH022,RICO,165,Medellin,Jose Cano
+7787,ACH01,Kalley,849,Cali,Juan P
+1996,ACH022,SONY,691,Pereira,Camila B
+6230,ACH43,RICO,1316,Pereira,Juan P
+2216,ACH022,SONY,1061,Medellin,Jose Cano
+2984,ACH01,RICO,821,Medellin,Camila B
+8155,ACH01,Kalley,313,Pereira,Jose Cano
+1824,ACH01,SONY,204,Medellin,Camila B
+6698,ACH022,Kalley,682,Pereira,Juan P
+3280,ACH022,SONY,1574,Bogota,Jennifer
+9402,ACH01,Kalley,913,Bucaramanga,Juan P
+540,ACH01,RICO,1969,Bucaramanga,Jennifer
+2265,ACH022,RICO,1549,Bogota,Camila B
+150,ACH022,SONY,1133,Pereira,Camila B
+5249,ACH43,SONY,1653,Bogota,Jose Cano
+7202,ACH43,Kalley,763,Pereira,Jennifer
+7632,ACH43,SONY,202,Cali,Jennifer
+4075,ACH01,SONY,245,Medellin,Juan Jose
+469,ACH022,RICO,865,Cali,Camila B
+9317,ACH43,RICO,505,Cali,Jose Cano
+7199,ACH022,Kalley,537,Pereira,Juan Jose
+781,ACH01,Kalley,1283,Medellin,Jennifer
+3900,ACH43,RICO,870,Bucaramanga,Jennifer
+6033,ACH01,Kalley,1934,Medellin,Jose Cano
+2825,ACH01,Kalley,1968,Medellin,Jennifer
+9848,ACH01,RICO,1741,Bucaramanga,Camila B
+2618,ACH01,RICO,1878,Cali,Camila B
+7914,ACH43,SONY,1506,Bucaramanga,Juan Jose
+7090,ACH43,SONY,1419,Cali,Jennifer
+5068,ACH01,RICO,1538,Cali,Jennifer
+5338,ACH022,SONY,925,Cali,Camila B
+7349,ACH022,RICO,323,Bucaramanga,Juan Jose
+3155,ACH43,Kalley,1906,Bucaramanga,Juan Jose
+6708,ACH43,SONY,490,Bucaramanga,Jose Cano
+5606,ACH022,SONY,945,Pereira,Jennifer
+5558,ACH43,SONY,814,Cali,Jennifer
+6021,ACH022,Kalley,334,Cali,Jose Cano
+1516,ACH022,RICO,338,Pereira,Juan P
+6963,ACH022,SONY,1275,Pereira,Juan Jose
+97,ACH01,RICO,1135,Bogota,Jose Cano
+9086,ACH01,RICO,234,Bogota,Camila B
+3892,ACH022,SONY,1992,Bucaramanga,Jennifer
+5266,ACH022,Kalley,756,Cali,Juan P
+2165,ACH022,Kalley,231,Bogota,Juan Jose
+6278,ACH43,Kalley,1527,Bucaramanga,Jose Cano
+1125,ACH022,RICO,1096,Cali,Jose Cano
+658,ACH022,SONY,331,Pereira,Jose Cano
+7647,ACH022,RICO,723,Pereira,Camila B
+7418,ACH022,SONY,292,Cali,Juan Jose
+8414,ACH022,RICO,1485,Medellin,Jennifer
+8962,ACH022,SONY,234,Bogota,Juan Jose
+4567,ACH022,SONY,1821,Cali,Jose Cano
+173,ACH43,Kalley,397,Pereira,Juan P
+7886,ACH43,RICO,1908,Pereira,Jennifer
+5204,ACH022,Kalley,1696,Cali,Juan P
+1140,ACH01,RICO,704,Medellin,Jose Cano
+7738,ACH01,Kalley,1613,Pereira,Juan Jose
+4624,ACH43,SONY,349,Cali,Juan P
+259,ACH43,Kalley,615,Cali,Jennifer
+89,ACH01,SONY,933,Medellin,Camila B
+5137,ACH022,RICO,1618,Cali,Juan P
+248,ACH01,RICO,1214,Cali,Jennifer
+2925,ACH022,RICO,1640,Pereira,Juan P
+511,ACH022,Kalley,1407,Medellin,Juan Jose
+3394,ACH022,Kalley,404,Medellin,Camila B
+5009,ACH43,RICO,1238,Medellin,Juan Jose
+3197,ACH022,SONY,780,Medellin,Jose Cano
+4938,ACH01,RICO,1913,Pereira,Juan P
+1538,ACH022,RICO,1772,Bogota,Jennifer
+3768,ACH43,RICO,632,Pereira,Camila B
+9531,ACH01,Kalley,1668,Bucaramanga,Camila B
+2181,ACH01,Kalley,1914,Pereira,Juan P
+3834,ACH01,Kalley,965,Cali,Jennifer
+5976,ACH43,SONY,1938,Bucaramanga,Juan Jose
+3998,ACH022,SONY,1345,Bogota,Jennifer
+6282,ACH43,RICO,1226,Bucaramanga,Camila B
+2469,ACH01,SONY,826,Bucaramanga,Juan Jose
+1390,ACH01,SONY,360,Bucaramanga,Juan Jose
+2267,ACH022,Kalley,1955,Bogota,Jose Cano
+6062,ACH022,Kalley,920,Medellin,Jose Cano
+1465,ACH022,Kalley,1534,Cali,Jose Cano
+6171,ACH022,Kalley,386,Cali,Jose Cano
+676,ACH01,SONY,380,Bucaramanga,Juan Jose
+1643,ACH022,Kalley,1400,Bogota,Juan Jose
+1911,ACH01,RICO,1829,Cali,Jennifer
+9720,ACH01,SONY,860,Pereira,Jennifer
+7314,ACH43,Kalley,1140,Cali,Camila B
+5546,ACH43,RICO,1000,Bucaramanga,Jennifer
+826,ACH01,Kalley,1182,Cali,Juan P
+2672,ACH01,Kalley,1663,Medellin,Camila B
+6707,ACH022,SONY,951,Cali,Camila B
+4672,ACH01,Kalley,948,Pereira,Juan P
+3112,ACH43,Kalley,1788,Bogota,Juan Jose
+7443,ACH43,SONY,1052,Bucaramanga,Camila B
+6218,ACH022,Kalley,1822,Bucaramanga,Juan P
+4990,ACH022,SONY,1185,Cali,Juan P
+3158,ACH43,SONY,1438,Cali,Camila B
+1702,ACH022,RICO,1143,Cali,Jennifer
+4328,ACH01,RICO,1582,Bucaramanga,Jose Cano
+3928,ACH022,Kalley,484,Bucaramanga,Camila B
+68,ACH43,SONY,1774,Medellin,Juan Jose
+3802,ACH01,SONY,466,Bucaramanga,Juan Jose
+1080,ACH022,RICO,1089,Bucaramanga,Juan Jose
+4238,ACH022,SONY,458,Cali,Jose Cano
+8058,ACH022,Kalley,998,Bogota,Juan P
+3102,ACH022,Kalley,773,Bucaramanga,Jose Cano
+432,ACH43,Kalley,1034,Bucaramanga,Juan Jose
+8181,ACH43,SONY,1810,Medellin,Jose Cano
+3637,ACH01,RICO,259,Pereira,Juan Jose
+2581,ACH43,RICO,1246,Medellin,Juan Jose
+742,ACH022,SONY,806,Bucaramanga,Juan P
+901,ACH43,RICO,1100,Cali,Juan Jose
+3594,ACH022,Kalley,1895,Bogota,Juan Jose
+1331,ACH43,SONY,222,Cali,Juan P
+252,ACH43,SONY,706,Pereira,Juan P
+1976,ACH01,Kalley,1170,Medellin,Jose Cano
+6429,ACH43,SONY,786,Pereira,Juan Jose
+7394,ACH01,RICO,1084,Medellin,Jennifer
+8187,ACH01,Kalley,517,Pereira,Juan Jose
+9409,ACH43,Kalley,828,Pereira,Juan Jose
+2304,ACH43,RICO,1120,Pereira,Jennifer
+6194,ACH43,Kalley,715,Medellin,Jennifer
+7205,ACH43,Kalley,1693,Pereira,Jose Cano
+8056,ACH43,SONY,739,Bogota,Juan P
+2136,ACH43,SONY,1646,Medellin,Camila B
+2810,ACH43,RICO,525,Medellin,Jennifer
+3018,ACH01,Kalley,151,Cali,Jennifer
+9812,ACH43,SONY,486,Bogota,Juan Jose
+3415,ACH01,SONY,1680,Bucaramanga,Jennifer
+1289,ACH43,SONY,1321,Pereira,Jennifer
+9402,ACH43,RICO,419,Pereira,Juan Jose
+6936,ACH43,RICO,1247,Medellin,Juan Jose
+9998,ACH01,Kalley,198,Pereira,Jose Cano
+6056,ACH43,Kalley,495,Cali,Camila B
+4109,ACH01,RICO,1582,Cali,Jose Cano
+8064,ACH01,Kalley,331,Medellin,Juan P
+9581,ACH43,SONY,1843,Pereira,Camila B
+8685,ACH01,RICO,123,Pereira,Juan P
+9583,ACH022,RICO,128,Bogota,Juan Jose
+502,ACH43,SONY,1025,Bucaramanga,Juan Jose
+1954,ACH022,Kalley,641,Bogota,Camila B
+565,ACH022,SONY,324,Pereira,Jose Cano
+8628,ACH43,RICO,1662,Medellin,Juan P
+1897,ACH022,RICO,1575,Bucaramanga,Camila B
+5713,ACH01,Kalley,1154,Pereira,Juan P
+4259,ACH022,Kalley,1225,Medellin,Juan P
+667,ACH022,Kalley,1847,Medellin,Jose Cano
+7472,ACH01,RICO,1284,Cali,Juan Jose
+8027,ACH43,RICO,940,Pereira,Juan P
+1808,ACH01,RICO,818,Medellin,Juan Jose
+6207,ACH01,Kalley,1895,Bucaramanga,Jose Cano
+9501,ACH43,Kalley,1574,Medellin,Juan Jose
+2378,ACH022,RICO,1964,Bucaramanga,Juan P
+6058,ACH022,SONY,492,Bogota,Jose Cano
+438,ACH43,RICO,1979,Pereira,Jennifer
+7426,ACH022,SONY,1080,Bogota,Juan P
+537,ACH43,RICO,309,Cali,Jennifer
+4742,ACH43,RICO,1379,Bogota,Jennifer
+1843,ACH43,RICO,1059,Bogota,Juan Jose
+2869,ACH01,Kalley,1805,Bogota,Juan P
+4764,ACH43,Kalley,664,Bogota,Camila B
+1420,ACH43,Kalley,1720,Cali,Jennifer
+5808,ACH022,RICO,379,Bucaramanga,Jennifer
+7544,ACH43,Kalley,1062,Bogota,Juan P
+2413,ACH022,Kalley,1685,Medellin,Juan P
+6612,ACH022,SONY,1514,Bucaramanga,Camila B
+7266,ACH43,RICO,733,Bucaramanga,Jose Cano
+7379,ACH01,SONY,1485,Pereira,Juan Jose
+9278,ACH43,RICO,821,Medellin,Juan P
+77,ACH01,RICO,1397,Bucaramanga,Juan Jose
+4987,ACH43,SONY,784,Pereira,Jose Cano
+6198,ACH43,SONY,1139,Cali,Jose Cano
+544,ACH43,SONY,320,Bogota,Jennifer
+1231,ACH43,RICO,730,Bogota,Juan Jose
+1551,ACH022,SONY,772,Cali,Juan Jose
+8333,ACH43,SONY,1788,Bogota,Camila B
+5559,ACH022,Kalley,478,Bucaramanga,Jose Cano
+7905,ACH022,RICO,422,Bucaramanga,Juan P
+1431,ACH01,RICO,1809,Bogota,Jennifer
+7009,ACH022,SONY,1502,Bucaramanga,Juan P
+3421,ACH43,SONY,327,Bogota,Juan P
+1773,ACH022,RICO,1998,Cali,Jose Cano
+5968,ACH01,Kalley,538,Medellin,Jose Cano
+5620,ACH43,RICO,912,Medellin,Jennifer
+2848,ACH022,SONY,876,Cali,Jose Cano
+6273,ACH43,Kalley,904,Pereira,Juan P
+116,ACH01,Kalley,1641,Pereira,Juan P
+2223,ACH022,SONY,179,Bogota,Camila B
+1256,ACH022,SONY,675,Bucaramanga,Jose Cano
+86,ACH43,RICO,814,Cali,Jennifer
+4603,ACH022,RICO,819,Cali,Jennifer
+4859,ACH43,Kalley,1254,Bucaramanga,Camila B
+3987,ACH43,RICO,445,Cali,Camila B
+1960,ACH022,RICO,1378,Pereira,Juan P
+861,ACH43,SONY,1063,Medellin,Camila B
+5774,ACH022,SONY,1540,Medellin,Juan Jose
+9275,ACH43,RICO,1601,Pereira,Jose Cano
+7265,ACH01,SONY,604,Bogota,Camila B
+5165,ACH43,Kalley,132,Bucaramanga,Juan P
+3717,ACH01,RICO,546,Pereira,Juan Jose
+5823,ACH43,RICO,623,Cali,Juan P
+1221,ACH022,RICO,434,Medellin,Juan P
+4974,ACH01,Kalley,1893,Cali,Juan Jose
+44,ACH43,SONY,1509,Pereira,Juan P
+5894,ACH43,RICO,1359,Cali,Jose Cano
+5966,ACH43,Kalley,1924,Bogota,Juan P
+2318,ACH43,RICO,1165,Medellin,Juan Jose
+2745,ACH43,RICO,1892,Cali,Juan P
+555,ACH01,SONY,1262,Bucaramanga,Juan Jose
+8353,ACH022,SONY,727,Bucaramanga,Juan Jose
+641,ACH022,Kalley,1839,Pereira,Jose Cano
+5098,ACH022,Kalley,1348,Medellin,Juan Jose
+9471,ACH01,Kalley,1042,Cali,Juan P
+5426,ACH01,SONY,1671,Bogota,Juan P
+6725,ACH01,RICO,1881,Medellin,Juan P
+1703,ACH022,Kalley,971,Medellin,Juan P
+6198,ACH43,RICO,1811,Cali,Juan P
+452,ACH43,SONY,380,Cali,Camila B
+7154,ACH01,RICO,1735,Cali,Jennifer
+7249,ACH022,RICO,1814,Cali,Jennifer
+3202,ACH01,RICO,1708,Cali,Juan Jose
+3023,ACH43,Kalley,1059,Bogota,Jose Cano
+5831,ACH022,SONY,485,Bucaramanga,Juan P
+2619,ACH43,RICO,804,Pereira,Juan Jose
+4706,ACH01,Kalley,288,Medellin,Juan Jose
+1798,ACH43,SONY,373,Pereira,Jennifer
+774,ACH022,RICO,1878,Bogota,Jose Cano
+5892,ACH022,Kalley,501,Medellin,Jennifer
+837,ACH01,Kalley,683,Bogota,Jose Cano
+478,ACH43,RICO,1314,Bogota,Camila B
+8541,ACH022,SONY,1301,Cali,Jennifer
+4724,ACH01,Kalley,890,Medellin,Juan P
+1427,ACH022,RICO,1983,Bogota,Jennifer
+5964,ACH022,RICO,288,Cali,Juan Jose
+1882,ACH022,SONY,379,Bogota,Juan P
+5536,ACH43,Kalley,1277,Medellin,Camila B
+4924,ACH022,SONY,1262,Bucaramanga,Jose Cano
+7604,ACH01,Kalley,1031,Pereira,Jennifer
+9931,ACH01,RICO,797,Bucaramanga,Camila B
+9212,ACH43,SONY,512,Bucaramanga,Jennifer
+8996,ACH022,SONY,636,Medellin,Juan Jose
+6068,ACH01,SONY,204,Bucaramanga,Camila B
+5362,ACH43,RICO,373,Bucaramanga,Juan P
+2360,ACH022,Kalley,1662,Cali,Juan Jose
+2550,ACH43,SONY,951,Bogota,Jose Cano
+7044,ACH01,Kalley,1618,Medellin,Jose Cano
+8014,ACH43,RICO,1370,Bogota,Jennifer
+3243,ACH01,RICO,635,Cali,Juan P
+654,ACH43,Kalley,1218,Medellin,Jose Cano
+495,ACH43,SONY,1726,Bogota,Juan P
+381,ACH022,Kalley,918,Bucaramanga,Camila B
+6389,ACH01,Kalley,816,Pereira,Jose Cano
+3731,ACH01,RICO,668,Bucaramanga,Juan Jose
+2500,ACH43,RICO,1658,Pereira,Juan P
+9274,ACH022,RICO,383,Bogota,Juan P
+6592,ACH43,SONY,1317,Medellin,Juan P
+4564,ACH43,RICO,1053,Pereira,Juan Jose
+5486,ACH01,RICO,1114,Bucaramanga,Juan Jose
+6607,ACH43,Kalley,1043,Cali,Jennifer
+8711,ACH022,RICO,219,Medellin,Juan P
+7104,ACH43,Kalley,1022,Pereira,Juan Jose
+2725,ACH01,SONY,494,Cali,Juan P
+1310,ACH022,Kalley,1493,Bogota,Juan Jose
+2582,ACH43,SONY,941,Cali,Camila B
+6406,ACH01,RICO,651,Cali,Juan Jose
+4472,ACH01,Kalley,1033,Cali,Camila B
+129,ACH022,Kalley,390,Bucaramanga,Jose Cano
+3787,ACH43,SONY,1362,Cali,Camila B
+5657,ACH43,SONY,1247,Bogota,Jennifer
+7555,ACH022,RICO,1789,Cali,Juan P
+1217,ACH022,Kalley,1229,Bucaramanga,Jose Cano
+3997,ACH43,SONY,1031,Cali,Jose Cano
+5428,ACH01,SONY,178,Medellin,Juan Jose
+7955,ACH01,Kalley,706,Cali,Jose Cano
+4151,ACH022,SONY,1273,Pereira,Juan Jose
+184,ACH43,SONY,571,Pereira,Juan Jose
+2241,ACH01,RICO,189,Cali,Camila B
+4479,ACH43,Kalley,100,Medellin,Jennifer
+7803,ACH022,RICO,1383,Medellin,Jose Cano
+5611,ACH022,Kalley,1483,Cali,Camila B
+9214,ACH43,RICO,1264,Pereira,Jose Cano
+1453,ACH022,SONY,153,Bucaramanga,Juan Jose
+535,ACH01,SONY,778,Bogota,Juan Jose
+6850,ACH022,RICO,263,Cali,Camila B
+9048,ACH43,Kalley,1818,Pereira,Juan P
+5197,ACH43,Kalley,1830,Medellin,Camila B
+4646,ACH43,RICO,556,Pereira,Juan P
+8440,ACH01,SONY,846,Pereira,Jose Cano
+2942,ACH43,SONY,1870,Medellin,Juan P
+6531,ACH022,SONY,958,Bucaramanga,Jennifer
+4010,ACH022,Kalley,1442,Bucaramanga,Juan Jose
+6402,ACH43,RICO,1285,Bucaramanga,Juan P
+5625,ACH01,SONY,1732,Bucaramanga,Camila B
+3231,ACH43,RICO,1946,Pereira,Juan P
+3097,ACH022,Kalley,915,Medellin,Camila B
+2054,ACH022,SONY,1635,Medellin,Jose Cano
+8490,ACH022,SONY,1165,Medellin,Jose Cano
+112,ACH022,SONY,642,Bogota,Jennifer
+3076,ACH01,SONY,488,Medellin,Camila B
+3667,ACH43,Kalley,871,Bogota,Jennifer
+8225,ACH022,RICO,712,Bogota,Juan Jose
+334,ACH43,SONY,1324,Cali,Jennifer
+1129,ACH022,SONY,1073,Cali,Juan Jose
+8080,ACH01,RICO,1590,Medellin,Juan Jose
+9056,ACH022,SONY,1433,Medellin,Jose Cano
+4380,ACH43,SONY,974,Medellin,Camila B
+1833,ACH022,RICO,153,Cali,Camila B
+5244,ACH022,RICO,510,Bucaramanga,Juan P
+3775,ACH022,RICO,407,Pereira,Jose Cano
+7892,ACH01,RICO,952,Bogota,Jennifer
+92,ACH43,Kalley,1523,Bogota,Jose Cano
+3201,ACH43,Kalley,1183,Pereira,Jose Cano
+408,ACH43,RICO,731,Bucaramanga,Juan Jose
+5439,ACH01,Kalley,209,Bucaramanga,Jose Cano
+1199,ACH43,Kalley,743,Bogota,Jennifer
+9072,ACH01,Kalley,1963,Bucaramanga,Juan P
+2885,ACH022,SONY,918,Medellin,Juan P
+2935,ACH43,SONY,409,Bogota,Juan Jose
+2818,ACH43,RICO,136,Cali,Jennifer
+8168,ACH43,SONY,963,Cali,Jose Cano
+4164,ACH01,Kalley,1175,Bucaramanga,Jennifer
+6513,ACH43,Kalley,1199,Bogota,Juan Jose
+9269,ACH01,Kalley,1848,Pereira,Jose Cano
+5739,ACH022,Kalley,721,Cali,Jennifer
+9892,ACH022,Kalley,163,Cali,Jennifer
+7713,ACH43,SONY,1783,Pereira,Juan P
+3486,ACH43,RICO,1376,Cali,Juan Jose
+7383,ACH43,SONY,403,Medellin,Jennifer
+9438,ACH01,SONY,1080,Pereira,Jennifer
+8918,ACH022,RICO,897,Pereira,Jose Cano
+6166,ACH022,Kalley,347,Cali,Jose Cano
+5853,ACH01,SONY,481,Pereira,Jose Cano
+644,ACH01,SONY,1560,Medellin,Juan Jose
+2057,ACH43,RICO,1617,Cali,Camila B
+2611,ACH01,Kalley,1585,Medellin,Jennifer
+3837,ACH43,RICO,1210,Pereira,Camila B
+3022,ACH022,RICO,1506,Cali,Camila B
+5395,ACH022,RICO,1915,Cali,Camila B
+8413,ACH01,RICO,1435,Pereira,Jennifer
+3170,ACH01,RICO,660,Pereira,Jennifer
+1264,ACH01,SONY,705,Bucaramanga,Juan Jose
+6672,ACH01,Kalley,1935,Medellin,Camila B
+8140,ACH01,RICO,337,Bucaramanga,Juan P
+3354,ACH022,RICO,1211,Pereira,Jose Cano
+3745,ACH43,SONY,1991,Cali,Jennifer
+5156,ACH01,RICO,299,Bogota,Juan P
+1260,ACH43,Kalley,532,Cali,Juan P
+9414,ACH01,RICO,136,Pereira,Camila B
+3120,ACH01,Kalley,699,Medellin,Juan P
+4343,ACH022,RICO,1665,Bogota,Camila B
+9611,ACH022,RICO,385,Pereira,Juan Jose
+4799,ACH43,Kalley,1175,Bucaramanga,Juan P
+5941,ACH022,Kalley,1714,Cali,Camila B
+7432,ACH01,RICO,894,Cali,Jose Cano
+6894,ACH022,Kalley,1772,Pereira,Juan Jose
+7551,ACH022,SONY,1290,Cali,Juan Jose
+5184,ACH43,RICO,100,Bucaramanga,Jose Cano
+7009,ACH022,RICO,410,Bogota,Juan Jose
+7445,ACH43,Kalley,109,Pereira,Camila B
+9464,ACH022,Kalley,1041,Pereira,Juan P
+7302,ACH43,Kalley,1430,Medellin,Jennifer
+8772,ACH01,SONY,631,Medellin,Juan Jose
+5388,ACH022,Kalley,1001,Cali,Camila B
+2637,ACH43,SONY,1268,Bucaramanga,Juan P
+6268,ACH01,RICO,1350,Bogota,Juan Jose
+6237,ACH43,SONY,1423,Cali,Camila B
+5298,ACH022,SONY,431,Bucaramanga,Juan Jose
+4592,ACH01,RICO,140,Bucaramanga,Juan Jose
+4861,ACH01,Kalley,1702,Pereira,Jennifer
+5566,ACH022,SONY,807,Cali,Jose Cano
+3446,ACH022,RICO,1142,Bucaramanga,Jennifer
+6231,ACH43,SONY,1851,Cali,Camila B
+2357,ACH01,SONY,251,Bogota,Jennifer
+5266,ACH43,RICO,1096,Cali,Jose Cano
+8599,ACH43,Kalley,1411,Cali,Juan Jose
+912,ACH022,Kalley,962,Cali,Juan Jose
+6720,ACH43,RICO,1835,Medellin,Jennifer
+1213,ACH022,RICO,1885,Bogota,Juan Jose
+8575,ACH01,Kalley,1788,Bogota,Juan Jose
+4465,ACH022,SONY,1728,Bogota,Jose Cano
+1811,ACH01,RICO,439,Bucaramanga,Camila B
+4282,ACH022,Kalley,1731,Medellin,Camila B
+3411,ACH43,SONY,1919,Bucaramanga,Jennifer
+1211,ACH022,Kalley,593,Pereira,Camila B
+6835,ACH01,RICO,1123,Pereira,Juan Jose
+3653,ACH01,SONY,1749,Pereira,Camila B
+3776,ACH43,SONY,1695,Bogota,Jose Cano
+1955,ACH43,RICO,1568,Pereira,Camila B
+7394,ACH022,SONY,1146,Medellin,Juan Jose
+3199,ACH43,Kalley,1692,Bogota,Juan P
+5451,ACH01,Kalley,391,Bucaramanga,Camila B
+2557,ACH43,Kalley,1230,Cali,Jose Cano
+6414,ACH022,SONY,1851,Bucaramanga,Camila B
+2968,ACH43,SONY,370,Bucaramanga,Juan Jose
+6720,ACH43,RICO,1506,Pereira,Jose Cano
+6742,ACH022,SONY,1009,Cali,Jennifer
+5630,ACH01,Kalley,1184,Cali,Camila B
+9593,ACH01,SONY,1752,Pereira,Juan Jose
+2598,ACH01,RICO,1044,Pereira,Juan Jose
+7411,ACH022,RICO,576,Cali,Camila B
+144,ACH022,RICO,323,Medellin,Jennifer
+7515,ACH01,SONY,1503,Cali,Juan Jose
+2621,ACH022,Kalley,778,Bucaramanga,Camila B
+1756,ACH022,RICO,1043,Cali,Camila B
+2879,ACH43,Kalley,1757,Bogota,Camila B
+4017,ACH43,RICO,1731,Cali,Jennifer
+229,ACH022,SONY,665,Pereira,Jennifer
+468,ACH022,Kalley,1152,Medellin,Camila B
+6850,ACH01,RICO,864,Bogota,Juan Jose
+926,ACH022,Kalley,475,Bucaramanga,Camila B
+8523,ACH43,Kalley,1049,Bucaramanga,Juan Jose
+701,ACH43,SONY,598,Cali,Jose Cano
+5504,ACH01,Kalley,1625,Medellin,Jose Cano
+2054,ACH022,RICO,314,Bucaramanga,Camila B
+2411,ACH43,RICO,790,Pereira,Juan Jose
+9217,ACH022,SONY,1910,Cali,Juan Jose
+2906,ACH01,Kalley,878,Bucaramanga,Juan P
+4211,ACH022,SONY,503,Pereira,Juan P
+6803,ACH43,Kalley,1555,Cali,Jose Cano
+5890,ACH022,RICO,562,Medellin,Jennifer
+1050,ACH01,RICO,884,Medellin,Jose Cano
+3997,ACH43,RICO,987,Cali,Jennifer
+8597,ACH43,SONY,1692,Pereira,Jose Cano
+987,ACH43,Kalley,904,Medellin,Juan P
+7923,ACH01,SONY,1652,Medellin,Jose Cano
+718,ACH022,RICO,1013,Pereira,Camila B
+7288,ACH022,Kalley,261,Pereira,Juan Jose
+6578,ACH43,Kalley,696,Bogota,Juan Jose
+5316,ACH43,Kalley,273,Pereira,Jennifer
+2430,ACH022,Kalley,105,Bucaramanga,Jennifer
+5974,ACH01,SONY,589,Cali,Juan P
+5665,ACH01,SONY,376,Cali,Juan P
+277,ACH01,SONY,1188,Medellin,Jennifer
+2055,ACH01,SONY,1578,Cali,Jose Cano
+9506,ACH43,Kalley,457,Pereira,Juan Jose
+1852,ACH01,SONY,1163,Bucaramanga,Jennifer
+2882,ACH01,RICO,1403,Cali,Jose Cano
+1458,ACH43,RICO,1401,Bucaramanga,Juan Jose
+5673,ACH022,SONY,1911,Pereira,Camila B
+4205,ACH43,Kalley,310,Bogota,Camila B
+3275,ACH022,SONY,104,Bogota,Juan P
+4386,ACH022,RICO,159,Medellin,Jose Cano
+6710,ACH43,RICO,634,Bucaramanga,Jose Cano
+4096,ACH43,Kalley,1271,Cali,Jennifer
+2119,ACH01,SONY,817,Cali,Jose Cano
+2136,ACH43,SONY,1068,Bogota,Jose Cano
+2014,ACH01,RICO,1709,Bogota,Camila B
+2832,ACH022,RICO,437,Bogota,Juan Jose
+4786,ACH01,SONY,283,Bogota,Juan P
+4285,ACH022,RICO,769,Bogota,Jose Cano
+4035,ACH43,Kalley,1849,Pereira,Juan P
+8572,ACH022,Kalley,1458,Cali,Jose Cano
+7413,ACH43,SONY,291,Pereira,Camila B
+3394,ACH43,Kalley,138,Pereira,Juan P
+6220,ACH022,SONY,638,Medellin,Jennifer
+2802,ACH43,RICO,415,Pereira,Juan Jose
+8823,ACH43,RICO,1231,Bogota,Camila B
+8186,ACH022,Kalley,372,Cali,Juan Jose
+2109,ACH01,RICO,339,Bucaramanga,Juan Jose
+2370,ACH022,SONY,700,Bogota,Jose Cano
+7906,ACH01,SONY,1290,Bucaramanga,Jose Cano
+9199,ACH022,Kalley,550,Cali,Camila B
+7429,ACH01,RICO,1957,Pereira,Camila B
+2309,ACH01,Kalley,687,Cali,Jose Cano
+5190,ACH022,SONY,1329,Bogota,Juan Jose
+8419,ACH022,SONY,1527,Cali,Camila B
+684,ACH01,RICO,453,Pereira,Juan Jose
+4715,ACH43,Kalley,1433,Bucaramanga,Camila B
+1572,ACH01,Kalley,320,Medellin,Camila B
+7838,ACH43,Kalley,559,Pereira,Camila B
+4694,ACH022,SONY,160,Cali,Jose Cano
+8676,ACH01,Kalley,597,Bucaramanga,Juan P
+4221,ACH43,SONY,1290,Pereira,Jose Cano
+6055,ACH43,Kalley,779,Bogota,Camila B
+9701,ACH022,Kalley,913,Bogota,Jennifer
+4625,ACH01,Kalley,712,Pereira,Jennifer
+7066,ACH43,Kalley,1061,Cali,Juan Jose
+2157,ACH43,SONY,802,Bogota,Camila B
+9539,ACH022,RICO,1891,Bucaramanga,Juan P
+7856,ACH01,SONY,1720,Pereira,Camila B
+7036,ACH022,RICO,804,Bucaramanga,Jose Cano
+4575,ACH022,Kalley,1053,Cali,Juan Jose
+7973,ACH43,Kalley,1551,Bogota,Juan Jose
+3804,ACH01,SONY,107,Cali,Jennifer
+5657,ACH43,SONY,513,Pereira,Jennifer
+9349,ACH022,SONY,1800,Cali,Camila B
+6021,ACH01,RICO,1648,Pereira,Jose Cano
+6938,ACH43,SONY,596,Bogota,Juan P
+6905,ACH01,Kalley,353,Bogota,Juan Jose
+7633,ACH022,RICO,1498,Cali,Jennifer
+9767,ACH43,RICO,1738,Pereira,Jose Cano
+4198,ACH01,Kalley,1522,Cali,Camila B
+8375,ACH022,Kalley,1349,Pereira,Camila B
+9577,ACH43,SONY,1048,Bogota,Jose Cano
+9759,ACH43,Kalley,1350,Medellin,Juan P
+8380,ACH01,RICO,1821,Bucaramanga,Jose Cano
+2329,ACH43,SONY,1395,Cali,Juan P
+7020,ACH43,RICO,1518,Pereira,Camila B
+8496,ACH01,Kalley,1458,Bogota,Juan Jose
+9889,ACH01,RICO,181,Bogota,Jose Cano
+8508,ACH022,Kalley,1324,Bogota,Jose Cano
+9138,ACH01,RICO,1918,Bogota,Jennifer
+9985,ACH01,RICO,140,Bogota,Jennifer
+2534,ACH01,Kalley,1731,Medellin,Jose Cano
+8025,ACH01,SONY,1931,Pereira,Jennifer
+6455,ACH022,SONY,777,Bogota,Jennifer
+7400,ACH01,RICO,982,Bucaramanga,Juan P
+118,ACH01,Kalley,350,Bogota,Jose Cano
+2381,ACH43,RICO,1757,Bucaramanga,Camila B
+289,ACH01,SONY,1457,Bucaramanga,Juan P
+4318,ACH01,RICO,1521,Pereira,Camila B
+2703,ACH43,Kalley,194,Medellin,Juan Jose
+5926,ACH01,SONY,802,Cali,Camila B
+3003,ACH022,RICO,1538,Pereira,Jose Cano
+4542,ACH022,SONY,757,Bogota,Jose Cano
+1429,ACH022,SONY,1805,Medellin,Jose Cano
+9051,ACH022,RICO,110,Pereira,Juan Jose
+1433,ACH022,Kalley,966,Bucaramanga,Camila B
+525,ACH43,RICO,245,Bogota,Juan P
+3055,ACH43,SONY,212,Medellin,Juan Jose
+1909,ACH43,RICO,1951,Bogota,Juan P
+4349,ACH022,Kalley,1439,Pereira,Jose Cano
+7959,ACH43,RICO,1714,Medellin,Jennifer
+5650,ACH022,SONY,398,Bogota,Juan Jose
+4066,ACH022,RICO,1812,Bogota,Juan Jose
+6733,ACH01,RICO,1232,Bucaramanga,Camila B
+8567,ACH01,RICO,239,Bucaramanga,Camila B
+415,ACH022,RICO,1890,Bogota,Jennifer
+3331,ACH43,RICO,441,Medellin,Juan P
+5109,ACH43,Kalley,1477,Pereira,Juan Jose
+9298,ACH43,Kalley,601,Pereira,Juan Jose
+1897,ACH022,Kalley,1811,Cali,Juan Jose
+5480,ACH01,RICO,1379,Cali,Camila B
+9678,ACH01,SONY,947,Medellin,Juan P
+1292,ACH022,SONY,953,Bucaramanga,Juan Jose
+8199,ACH43,SONY,1671,Cali,Juan Jose
+2126,ACH01,RICO,798,Medellin,Jennifer
+5997,ACH43,Kalley,1514,Bogota,Camila B
+1350,ACH43,Kalley,621,Bogota,Camila B
+7659,ACH01,RICO,1194,Bogota,Juan Jose
+8974,ACH01,SONY,536,Pereira,Camila B
+6632,ACH43,SONY,632,Bucaramanga,Jose Cano
+1593,ACH022,Kalley,797,Bucaramanga,Juan P
+9477,ACH01,SONY,199,Bogota,Jennifer
+9504,ACH01,RICO,337,Medellin,Camila B
+5064,ACH01,RICO,288,Cali,Juan P
+4136,ACH43,Kalley,893,Bogota,Juan P
+1939,ACH022,SONY,1074,Medellin,Juan Jose
+9011,ACH43,SONY,1077,Bucaramanga,Juan P
+1209,ACH022,RICO,1978,Cali,Camila B
+2325,ACH01,Kalley,929,Bucaramanga,Juan P
+3220,ACH01,SONY,828,Medellin,Jennifer
+4072,ACH43,Kalley,492,Pereira,Jennifer
+3862,ACH01,RICO,1991,Bucaramanga,Jose Cano
+2732,ACH01,Kalley,1857,Pereira,Jennifer
+4287,ACH022,SONY,210,Cali,Jennifer
+3358,ACH43,RICO,1373,Medellin,Juan Jose
+981,ACH022,SONY,1583,Pereira,Jose Cano
+1311,ACH01,RICO,879,Pereira,Jennifer
+6643,ACH43,SONY,1934,Medellin,Juan P
+3463,ACH022,SONY,560,Pereira,Jennifer
+8004,ACH43,SONY,401,Medellin,Juan Jose
+7530,ACH022,Kalley,734,Bogota,Camila B
+3278,ACH43,Kalley,1891,Medellin,Jose Cano
+8791,ACH43,Kalley,1075,Cali,Jennifer
+1924,ACH022,RICO,694,Cali,Camila B
+8815,ACH022,RICO,257,Bucaramanga,Juan Jose
+9385,ACH43,RICO,894,Bucaramanga,Juan P
+9630,ACH022,RICO,1711,Cali,Juan P
+3569,ACH01,SONY,1859,Bogota,Juan P
+3043,ACH43,RICO,203,Medellin,Juan P
+6937,ACH022,SONY,723,Medellin,Jennifer
+1696,ACH01,RICO,1741,Bogota,Juan P
+7569,ACH022,RICO,1756,Bogota,Jose Cano
+695,ACH01,RICO,1257,Bucaramanga,Juan Jose
+620,ACH01,SONY,311,Cali,Jose Cano
+7263,ACH022,SONY,1428,Pereira,Juan Jose
+7344,ACH43,SONY,163,Cali,Jose Cano
+697,ACH43,RICO,1256,Bogota,Juan Jose
+2929,ACH43,RICO,535,Bogota,Camila B
+4991,ACH43,SONY,1048,Bucaramanga,Jose Cano
+9589,ACH43,Kalley,191,Medellin,Juan Jose
+4014,ACH43,RICO,237,Medellin,Jose Cano
+3316,ACH43,SONY,1607,Cali,Juan Jose
+8037,ACH43,Kalley,863,Medellin,Juan P
+3083,ACH43,SONY,166,Bogota,Juan Jose
+989,ACH01,Kalley,1411,Bucaramanga,Camila B
+9492,ACH43,RICO,1859,Cali,Camila B
+5219,ACH01,RICO,1690,Bogota,Juan Jose
+7512,ACH022,RICO,1617,Cali,Camila B
+9778,ACH43,Kalley,153,Cali,Jennifer
+9669,ACH022,RICO,1813,Bogota,Camila B
+4660,ACH022,Kalley,732,Medellin,Juan Jose
+7084,ACH01,SONY,1014,Cali,Jennifer
+4176,ACH01,RICO,866,Bogota,Juan Jose
+6800,ACH022,RICO,841,Medellin,Juan Jose
+2480,ACH022,SONY,919,Pereira,Jennifer
+5775,ACH01,SONY,1674,Bucaramanga,Jose Cano
+4210,ACH022,RICO,481,Pereira,Camila B
+9319,ACH43,Kalley,991,Pereira,Juan Jose
+7096,ACH43,Kalley,490,Medellin,Jose Cano
+6685,ACH022,RICO,1037,Bucaramanga,Camila B
+5453,ACH43,RICO,1768,Bucaramanga,Camila B
+4117,ACH43,Kalley,1564,Pereira,Jose Cano
+5204,ACH01,SONY,1581,Bogota,Camila B
+672,ACH022,Kalley,1408,Pereira,Jennifer
+8064,ACH022,SONY,434,Bucaramanga,Camila B
+6000,ACH43,Kalley,1201,Pereira,Juan Jose
+7265,ACH01,Kalley,1108,Pereira,Juan P
+5741,ACH43,Kalley,1923,Bogota,Jennifer
+7311,ACH01,Kalley,1499,Bucaramanga,Jennifer
+6569,ACH43,Kalley,177,Medellin,Camila B
+2453,ACH022,RICO,419,Cali,Camila B
+2707,ACH01,RICO,150,Cali,Juan Jose
+7783,ACH01,SONY,1189,Bogota,Juan Jose
+6182,ACH43,RICO,1747,Bogota,Juan Jose
+4218,ACH01,SONY,1332,Bogota,Camila B
+3393,ACH43,SONY,822,Bucaramanga,Camila B
+5736,ACH01,RICO,480,Pereira,Jennifer
+5530,ACH01,RICO,670,Medellin,Juan Jose
+5353,ACH01,SONY,871,Cali,Jennifer
+7368,ACH022,RICO,102,Cali,Jennifer
+7557,ACH01,Kalley,1849,Bucaramanga,Juan P
+4854,ACH01,SONY,813,Bucaramanga,Juan P
+6600,ACH01,Kalley,502,Bogota,Jennifer
+4923,ACH022,SONY,737,Pereira,Jennifer
+3009,ACH01,RICO,1056,Pereira,Jennifer
+4082,ACH01,RICO,471,Medellin,Camila B
+6140,ACH43,Kalley,1364,Bogota,Juan P
+6584,ACH022,SONY,1625,Medellin,Juan P
+8561,ACH022,SONY,408,Bogota,Juan P
+6440,ACH022,RICO,1582,Cali,Jennifer
+9817,ACH022,RICO,1831,Bucaramanga,Jose Cano
+3253,ACH01,Kalley,1777,Cali,Jennifer
+945,ACH01,RICO,563,Cali,Juan Jose
+3395,ACH43,RICO,278,Pereira,Juan P
+1822,ACH43,Kalley,999,Medellin,Jennifer
+4672,ACH43,SONY,1497,Cali,Juan P
+7434,ACH01,Kalley,1135,Bogota,Juan Jose
+7148,ACH01,SONY,569,Pereira,Jennifer
+9692,ACH43,SONY,132,Cali,Juan P
+2909,ACH022,RICO,579,Medellin,Jose Cano
+6428,ACH01,SONY,1066,Cali,Juan Jose
+8198,ACH01,Kalley,1899,Bogota,Juan P
+2967,ACH022,Kalley,1260,Bogota,Jose Cano
+7059,ACH022,SONY,1558,Medellin,Jose Cano
+4289,ACH01,Kalley,1883,Bogota,Jennifer
+9835,ACH022,SONY,269,Bucaramanga,Juan P
+7871,ACH01,Kalley,553,Bogota,Juan P
+375,ACH01,Kalley,1328,Bucaramanga,Juan Jose
+7206,ACH022,RICO,358,Medellin,Juan Jose
+5684,ACH022,SONY,690,Bucaramanga,Jose Cano
+2502,ACH43,Kalley,256,Pereira,Camila B
+9260,ACH43,Kalley,1547,Medellin,Juan Jose
+9944,ACH43,Kalley,1714,Cali,Juan Jose
+8411,ACH01,SONY,1857,Bogota,Jennifer
+9864,ACH01,Kalley,1593,Cali,Juan P
+9145,ACH43,SONY,1379,Cali,Juan P
+5255,ACH43,RICO,1685,Bogota,Juan P
+2626,ACH022,SONY,149,Bogota,Camila B
+8588,ACH022,Kalley,1528,Pereira,Camila B
+7336,ACH01,SONY,1485,Medellin,Jennifer
+4915,ACH022,RICO,120,Bucaramanga,Jennifer
+4316,ACH022,SONY,324,Cali,Juan Jose
+7224,ACH43,Kalley,1594,Medellin,Juan P
+1561,ACH022,Kalley,245,Bucaramanga,Camila B
+3075,ACH022,SONY,805,Bogota,Jose Cano
+4317,ACH43,SONY,1998,Cali,Juan Jose
+8644,ACH022,Kalley,962,Pereira,Juan Jose
+7200,ACH01,Kalley,803,Cali,Juan P
+1715,ACH01,RICO,405,Cali,Camila B
+8456,ACH43,RICO,1255,Cali,Juan Jose
+9344,ACH022,SONY,253,Bucaramanga,Camila B
+2583,ACH01,SONY,703,Bucaramanga,Juan P
+2458,ACH01,Kalley,845,Bucaramanga,Juan Jose
+1281,ACH01,Kalley,262,Pereira,Jennifer
+8599,ACH43,RICO,238,Medellin,Juan Jose
+1829,ACH022,SONY,791,Pereira,Juan P
+6768,ACH022,Kalley,268,Medellin,Juan Jose
+6629,ACH01,Kalley,776,Pereira,Jennifer
+8252,ACH022,RICO,440,Cali,Juan Jose
+535,ACH43,RICO,1459,Medellin,Juan P
+9185,ACH43,SONY,1429,Pereira,Jose Cano
+7321,ACH01,SONY,1266,Medellin,Jennifer
+4378,ACH01,SONY,1951,Pereira,Juan Jose
+7291,ACH01,Kalley,1164,Pereira,Camila B
+2133,ACH43,Kalley,1236,Bucaramanga,Camila B
+2262,ACH43,SONY,1605,Cali,Jose Cano
+4515,ACH022,Kalley,685,Bogota,Juan Jose
+9484,ACH01,Kalley,678,Medellin,Juan P
+6452,ACH01,RICO,123,Bucaramanga,Camila B
+5754,ACH01,Kalley,1327,Pereira,Juan P
+9740,ACH43,RICO,967,Cali,Juan P
+7097,ACH01,Kalley,860,Bogota,Juan Jose
+8550,ACH01,SONY,244,Pereira,Juan Jose
+7982,ACH43,Kalley,697,Medellin,Jennifer
+4739,ACH01,SONY,1874,Pereira,Juan P
+6887,ACH43,SONY,304,Medellin,Jose Cano
+9859,ACH43,Kalley,601,Pereira,Jennifer
+7864,ACH022,RICO,1307,Bogota,Juan P
+8910,ACH43,RICO,305,Medellin,Jennifer
+7728,ACH01,RICO,231,Bogota,Camila B
+4316,ACH43,Kalley,1298,Cali,Jennifer
+5110,ACH01,Kalley,1522,Pereira,Juan Jose
+2375,ACH022,RICO,935,Cali,Jennifer
+8907,ACH022,RICO,363,Bucaramanga,Camila B
+3839,ACH43,Kalley,1127,Medellin,Jennifer
+710,ACH43,RICO,673,Bucaramanga,Juan Jose
+2071,ACH43,RICO,1760,Cali,Camila B
+7361,ACH022,Kalley,750,Medellin,Juan Jose
+1193,ACH43,Kalley,866,Medellin,Juan Jose
+4187,ACH43,Kalley,953,Bucaramanga,Jennifer
+2658,ACH022,SONY,1115,Bogota,Juan P
+6123,ACH43,Kalley,1999,Pereira,Juan Jose
+5429,ACH43,Kalley,656,Medellin,Camila B
+4254,ACH43,Kalley,123,Cali,Juan P
+2227,ACH01,SONY,1764,Pereira,Camila B
+8414,ACH01,SONY,1092,Cali,Jose Cano
+88,ACH01,RICO,509,Bucaramanga,Camila B
+7355,ACH43,Kalley,1565,Cali,Camila B
+9620,ACH01,RICO,333,Medellin,Camila B
+1790,ACH01,Kalley,1504,Bogota,Jose Cano
+5009,ACH43,SONY,339,Bucaramanga,Camila B
+8169,ACH43,Kalley,1041,Cali,Juan Jose
+885,ACH022,RICO,560,Pereira,Juan Jose
+4000,ACH01,RICO,196,Bucaramanga,Juan P
+4613,ACH01,RICO,1098,Bucaramanga,Juan Jose
+3988,ACH43,RICO,1579,Bogota,Camila B
+8727,ACH01,SONY,1661,Medellin,Juan P
+9693,ACH022,RICO,1883,Medellin,Jose Cano
+9561,ACH022,Kalley,969,Medellin,Jennifer
+3781,ACH43,Kalley,506,Pereira,Jose Cano
+9284,ACH01,Kalley,222,Cali,Camila B
+4050,ACH01,Kalley,1592,Cali,Jennifer
+7172,ACH022,RICO,1993,Medellin,Jennifer
+5395,ACH43,Kalley,1177,Bucaramanga,Jose Cano
+7699,ACH022,SONY,1843,Medellin,Jennifer
+2679,ACH43,RICO,1599,Medellin,Jennifer
+8855,ACH01,RICO,391,Cali,Juan Jose
+6153,ACH43,Kalley,415,Cali,Jose Cano
+4735,ACH43,SONY,1613,Cali,Camila B
+9607,ACH022,RICO,1980,Bucaramanga,Juan P
+6159,ACH022,Kalley,1374,Medellin,Camila B
+2575,ACH43,Kalley,632,Bucaramanga,Jose Cano
+4437,ACH022,RICO,1496,Bogota,Camila B
+7000,ACH01,Kalley,834,Cali,Juan Jose
+6869,ACH022,RICO,674,Cali,Juan Jose
+1353,ACH01,SONY,517,Bogota,Camila B
+6163,ACH01,SONY,203,Pereira,Juan P
+4125,ACH022,RICO,704,Pereira,Camila B
+8584,ACH01,Kalley,1681,Bogota,Juan Jose
+8176,ACH022,SONY,701,Bogota,Jose Cano
+4468,ACH01,SONY,899,Bucaramanga,Jose Cano
+1903,ACH022,RICO,1489,Medellin,Camila B
+9006,ACH43,SONY,1225,Cali,Jennifer
+5844,ACH01,RICO,1966,Pereira,Camila B
+298,ACH43,SONY,926,Cali,Jennifer
+6839,ACH022,SONY,1758,Bogota,Camila B
+2359,ACH022,Kalley,1218,Pereira,Jennifer
+2587,ACH43,Kalley,189,Cali,Juan P
+6918,ACH01,SONY,321,Cali,Juan Jose
+9883,ACH022,RICO,455,Cali,Jose Cano
+2020,ACH01,Kalley,651,Medellin,Jennifer
+8143,ACH01,RICO,1644,Bogota,Juan Jose
+3612,ACH022,SONY,1194,Bogota,Jose Cano
+4533,ACH01,RICO,1675,Bucaramanga,Jennifer
+4939,ACH01,RICO,938,Bucaramanga,Jose Cano
+179,ACH01,SONY,529,Bucaramanga,Jose Cano
+670,ACH43,SONY,1433,Cali,Jennifer
+3988,ACH43,RICO,777,Pereira,Camila B
+8403,ACH01,SONY,678,Pereira,Juan Jose
+4388,ACH01,SONY,1747,Bucaramanga,Jose Cano
+6610,ACH01,Kalley,785,Bucaramanga,Jennifer
+5915,ACH022,SONY,103,Bogota,Jose Cano
+2019,ACH022,RICO,809,Medellin,Juan Jose
+782,ACH022,RICO,1487,Pereira,Juan Jose
+4419,ACH022,SONY,1097,Bucaramanga,Jose Cano
+8690,ACH022,Kalley,1694,Cali,Camila B
+272,ACH01,Kalley,561,Bucaramanga,Juan P
+4724,ACH43,Kalley,1899,Cali,Juan P
+6599,ACH022,SONY,277,Medellin,Camila B
+4395,ACH022,Kalley,991,Cali,Juan Jose
+1573,ACH01,Kalley,1761,Bucaramanga,Camila B
+9167,ACH01,RICO,1875,Medellin,Jose Cano
+2978,ACH43,Kalley,389,Medellin,Juan Jose
+5084,ACH01,RICO,789,Bucaramanga,Juan Jose
+446,ACH022,Kalley,1838,Bogota,Juan P
+6069,ACH022,Kalley,406,Medellin,Camila B
+5745,ACH43,SONY,856,Bucaramanga,Camila B
+2454,ACH43,SONY,106,Medellin,Jose Cano
+4255,ACH43,SONY,1451,Medellin,Jennifer
+4532,ACH022,RICO,462,Bogota,Camila B
+3052,ACH01,SONY,1920,Pereira,Camila B
+7207,ACH022,RICO,1191,Bucaramanga,Jose Cano
+8131,ACH022,RICO,1946,Bucaramanga,Jennifer
+1369,ACH43,Kalley,976,Pereira,Jennifer
+4106,ACH43,RICO,1874,Bucaramanga,Jose Cano
+9083,ACH43,SONY,1886,Medellin,Juan P
+4366,ACH43,SONY,915,Bogota,Juan Jose
+5600,ACH01,RICO,1364,Bogota,Juan Jose
+1654,ACH01,Kalley,181,Pereira,Camila B
+480,ACH01,SONY,226,Pereira,Juan Jose
+5227,ACH022,Kalley,575,Medellin,Jennifer
+6337,ACH022,RICO,1943,Bucaramanga,Juan Jose
+2062,ACH022,Kalley,809,Bogota,Camila B
+3700,ACH01,RICO,1831,Pereira,Jennifer
+3521,ACH01,SONY,1296,Medellin,Juan P
+6932,ACH01,Kalley,1878,Cali,Jose Cano
+2149,ACH022,SONY,1739,Bogota,Juan P
+7797,ACH01,Kalley,201,Cali,Camila B
+9336,ACH022,RICO,210,Cali,Jennifer
+2383,ACH022,Kalley,407,Bogota,Jose Cano
+3720,ACH43,SONY,791,Medellin,Juan P
+4851,ACH43,SONY,1675,Medellin,Camila B
+6720,ACH01,RICO,1702,Bogota,Jennifer
+6974,ACH43,Kalley,1747,Bogota,Camila B
+4699,ACH01,SONY,1442,Pereira,Juan Jose
+58,ACH01,RICO,1793,Bucaramanga,Camila B
+5527,ACH43,Kalley,1304,Medellin,Juan P
+4683,ACH43,SONY,510,Bogota,Camila B
+4063,ACH01,RICO,1451,Bucaramanga,Jennifer
+7314,ACH01,SONY,1136,Medellin,Camila B
+8725,ACH01,Kalley,1143,Bucaramanga,Juan P
+7596,ACH43,RICO,1766,Cali,Jose Cano
+8502,ACH022,SONY,258,Medellin,Juan P
+1593,ACH01,RICO,492,Medellin,Camila B
+1836,ACH022,Kalley,1552,Medellin,Juan Jose
+4160,ACH022,RICO,415,Bogota,Camila B
+8967,ACH43,SONY,367,Bucaramanga,Juan Jose
+7112,ACH43,Kalley,1915,Bogota,Jose Cano
+1434,ACH022,SONY,1624,Bogota,Juan Jose
+1387,ACH022,Kalley,1086,Bucaramanga,Juan P
+4,ACH43,SONY,1425,Cali,Juan Jose
+4383,ACH022,Kalley,1336,Pereira,Jennifer
+2632,ACH01,SONY,1257,Cali,Camila B
+1003,ACH022,SONY,937,Bogota,Jose Cano
+1531,ACH022,RICO,149,Pereira,Jennifer
+4416,ACH43,RICO,1275,Bucaramanga,Jennifer
+7368,ACH01,RICO,490,Bucaramanga,Jennifer
+7662,ACH43,RICO,482,Pereira,Camila B
+4547,ACH01,SONY,1126,Bogota,Camila B
+3229,ACH01,Kalley,1907,Bucaramanga,Camila B
+5754,ACH022,Kalley,433,Bucaramanga,Jennifer
+9948,ACH01,SONY,803,Pereira,Jennifer
+7651,ACH01,RICO,184,Medellin,Jennifer
+3177,ACH43,RICO,1261,Cali,Juan Jose
+6792,ACH022,SONY,1595,Medellin,Jose Cano
+7392,ACH022,Kalley,363,Pereira,Juan P
+3999,ACH43,RICO,1047,Pereira,Jose Cano
+7684,ACH022,Kalley,1229,Medellin,Jose Cano
+2797,ACH022,Kalley,855,Bucaramanga,Camila B
+3287,ACH43,Kalley,770,Medellin,Jose Cano
+9364,ACH022,Kalley,1142,Medellin,Jennifer
+6940,ACH43,SONY,1521,Medellin,Juan Jose
+8368,ACH43,RICO,934,Medellin,Jose Cano
+4364,ACH43,Kalley,556,Pereira,Camila B
+5546,ACH01,Kalley,179,Bucaramanga,Juan P
+536,ACH01,SONY,1715,Pereira,Jose Cano
+9181,ACH43,Kalley,450,Medellin,Jennifer
+4490,ACH43,Kalley,1001,Medellin,Jennifer
+1197,ACH022,RICO,456,Bogota,Camila B
+6276,ACH43,Kalley,498,Bucaramanga,Juan Jose
+6387,ACH01,SONY,1740,Bucaramanga,Juan Jose
+381,ACH022,RICO,1767,Bucaramanga,Camila B
+1858,ACH43,RICO,1825,Cali,Jose Cano
+2367,ACH01,RICO,754,Cali,Juan Jose
+6253,ACH01,Kalley,1733,Bogota,Camila B
+8979,ACH01,SONY,234,Bucaramanga,Juan Jose
+9325,ACH43,SONY,985,Medellin,Juan P
+1373,ACH022,Kalley,1218,Cali,Juan Jose
+2400,ACH01,RICO,213,Pereira,Juan P
+8274,ACH43,RICO,818,Pereira,Camila B
+6821,ACH022,Kalley,478,Bucaramanga,Jennifer
+1631,ACH022,RICO,1743,Medellin,Camila B
+1828,ACH43,RICO,1640,Medellin,Jose Cano
+3903,ACH43,Kalley,794,Medellin,Jose Cano
+8084,ACH01,Kalley,146,Cali,Jennifer
+5658,ACH43,RICO,1363,Pereira,Camila B
+6534,ACH43,RICO,1259,Bucaramanga,Juan Jose
+4978,ACH022,RICO,1635,Medellin,Camila B
+9492,ACH01,SONY,845,Medellin,Camila B
+6436,ACH022,RICO,1936,Medellin,Jennifer
+4910,ACH43,Kalley,563,Pereira,Camila B
+8682,ACH022,SONY,1420,Medellin,Juan P
+1725,ACH43,SONY,1674,Bogota,Jennifer
+6891,ACH01,Kalley,1399,Pereira,Camila B
+3900,ACH01,SONY,555,Medellin,Juan P
+7632,ACH43,SONY,661,Pereira,Jose Cano
+5151,ACH01,Kalley,1497,Bucaramanga,Juan P
+7824,ACH01,Kalley,666,Bucaramanga,Juan P
+5816,ACH01,Kalley,1592,Medellin,Juan P
+8609,ACH022,RICO,1155,Bogota,Jose Cano
+4416,ACH01,Kalley,343,Cali,Juan P
+1301,ACH022,SONY,879,Medellin,Juan Jose
+6446,ACH022,RICO,364,Bucaramanga,Camila B
+1048,ACH01,Kalley,1371,Bogota,Jose Cano
+2773,ACH01,Kalley,1659,Bogota,Camila B
+689,ACH43,RICO,1243,Bucaramanga,Juan Jose
+1353,ACH43,SONY,859,Pereira,Camila B
+8074,ACH01,SONY,1210,Bucaramanga,Jose Cano
+4244,ACH01,RICO,541,Pereira,Jennifer
+7829,ACH01,SONY,1317,Medellin,Jose Cano
+7853,ACH43,RICO,1414,Pereira,Camila B
+6642,ACH01,Kalley,623,Bucaramanga,Jennifer
+9536,ACH43,RICO,1695,Pereira,Camila B
+1781,ACH01,RICO,226,Bucaramanga,Juan P
+3194,ACH022,Kalley,1534,Pereira,Juan Jose
+5478,ACH01,Kalley,604,Bucaramanga,Juan Jose
+9306,ACH43,RICO,828,Bucaramanga,Juan Jose
+1179,ACH01,Kalley,1417,Bogota,Jose Cano
+4805,ACH022,SONY,852,Bucaramanga,Jennifer
+8050,ACH01,SONY,891,Pereira,Juan P
+9183,ACH022,RICO,1418,Pereira,Jennifer
+824,ACH01,SONY,1251,Cali,Camila B
+7488,ACH01,RICO,1428,Medellin,Camila B
+8160,ACH022,Kalley,1790,Pereira,Jennifer
+4092,ACH022,Kalley,457,Cali,Jennifer
+3142,ACH43,Kalley,1915,Bogota,Camila B
+3989,ACH022,RICO,677,Medellin,Juan P
+4865,ACH022,SONY,1352,Bucaramanga,Camila B
+7620,ACH43,SONY,1760,Bucaramanga,Juan P
+5329,ACH43,Kalley,1503,Cali,Jose Cano
+9624,ACH022,Kalley,1811,Pereira,Jose Cano
+8006,ACH43,SONY,1762,Cali,Jose Cano
+9548,ACH43,SONY,1929,Medellin,Jennifer
+7066,ACH022,Kalley,709,Bucaramanga,Juan Jose
+1119,ACH022,RICO,1682,Pereira,Juan Jose
+3202,ACH01,Kalley,1341,Medellin,Jose Cano
+3348,ACH43,Kalley,660,Pereira,Camila B
+8221,ACH022,RICO,673,Bucaramanga,Juan Jose
+9567,ACH01,Kalley,1365,Medellin,Juan P
+7663,ACH022,Kalley,1215,Pereira,Jennifer
+9974,ACH022,Kalley,386,Bucaramanga,Juan P
+7924,ACH43,Kalley,810,Bogota,Jose Cano
+4138,ACH43,Kalley,351,Medellin,Juan P
+7260,ACH43,RICO,1151,Bogota,Juan Jose
+7043,ACH01,SONY,335,Cali,Juan Jose
+3682,ACH01,RICO,650,Medellin,Juan Jose
+4793,ACH01,Kalley,122,Bucaramanga,Camila B
+8273,ACH43,SONY,1066,Cali,Jennifer
+6098,ACH43,RICO,1337,Medellin,Jennifer
+9294,ACH01,Kalley,860,Medellin,Juan P
+2942,ACH022,Kalley,1292,Bogota,Juan P
+902,ACH022,Kalley,686,Pereira,Jose Cano
+4508,ACH022,Kalley,1506,Cali,Juan Jose
+7619,ACH022,RICO,1305,Cali,Jose Cano
+2059,ACH022,Kalley,1389,Pereira,Jennifer
+1978,ACH022,Kalley,977,Pereira,Camila B
+5062,ACH01,SONY,1141,Bucaramanga,Jennifer
+8685,ACH022,SONY,1378,Medellin,Juan Jose
+255,ACH43,RICO,105,Pereira,Jennifer
+6328,ACH43,RICO,1190,Bogota,Juan P
+1946,ACH022,SONY,200,Medellin,Jennifer
+7758,ACH43,RICO,1010,Pereira,Jennifer
+4359,ACH01,RICO,1264,Bogota,Juan P
+8344,ACH022,SONY,871,Bucaramanga,Camila B
+4590,ACH43,RICO,1455,Medellin,Camila B
+7818,ACH022,RICO,750,Medellin,Camila B
+2910,ACH43,SONY,835,Pereira,Juan P
+4122,ACH43,SONY,1268,Medellin,Jose Cano
+6033,ACH022,Kalley,643,Bucaramanga,Juan Jose
+9825,ACH022,Kalley,1372,Bucaramanga,Juan P
+3841,ACH022,Kalley,829,Cali,Juan Jose
+9003,ACH43,SONY,650,Pereira,Jose Cano
+7618,ACH43,RICO,1383,Bucaramanga,Juan P
+2581,ACH022,SONY,1654,Bucaramanga,Juan Jose
+6171,ACH01,SONY,1150,Bogota,Jose Cano
+9201,ACH022,Kalley,751,Pereira,Juan Jose
+5181,ACH43,Kalley,384,Medellin,Jose Cano
+9781,ACH022,Kalley,767,Bucaramanga,Juan P
+6920,ACH01,RICO,512,Pereira,Juan Jose
+5762,ACH43,RICO,241,Bogota,Camila B
+4649,ACH43,RICO,361,Pereira,Jennifer
+8560,ACH01,RICO,980,Medellin,Camila B
+5370,ACH01,RICO,1408,Medellin,Juan Jose
+8264,ACH022,SONY,388,Cali,Juan P
+9732,ACH022,SONY,642,Bucaramanga,Juan P
+4319,ACH022,RICO,177,Bucaramanga,Juan Jose
+2958,ACH43,SONY,813,Medellin,Juan P
+8555,ACH022,SONY,564,Pereira,Juan Jose
+3324,ACH43,SONY,1992,Medellin,Camila B
+6463,ACH43,Kalley,356,Pereira,Juan Jose
+8821,ACH022,Kalley,1445,Bogota,Camila B
+2737,ACH01,Kalley,700,Cali,Jennifer
+2454,ACH022,SONY,226,Cali,Camila B
+4642,ACH43,RICO,745,Bucaramanga,Jennifer
+309,ACH43,SONY,1815,Bucaramanga,Jose Cano
+1671,ACH01,RICO,307,Bucaramanga,Juan Jose
+4287,ACH022,Kalley,1148,Cali,Jennifer
+1357,ACH43,RICO,425,Bogota,Juan P
+9431,ACH022,Kalley,239,Bogota,Jose Cano
+3299,ACH43,SONY,1995,Bogota,Juan Jose
+5324,ACH022,Kalley,1879,Pereira,Jose Cano
+8117,ACH022,RICO,224,Bogota,Juan P
+4371,ACH01,RICO,1127,Medellin,Camila B
+5470,ACH01,SONY,1938,Pereira,Juan P
+3290,ACH43,RICO,303,Bucaramanga,Camila B
+2964,ACH022,SONY,1087,Bucaramanga,Juan P
+5550,ACH43,Kalley,1601,Cali,Juan P
+4234,ACH43,RICO,412,Cali,Jose Cano
+1271,ACH022,SONY,634,Pereira,Jennifer
+7603,ACH022,RICO,1143,Bogota,Juan Jose
+6148,ACH43,RICO,448,Cali,Jose Cano
+1692,ACH43,RICO,1382,Bucaramanga,Juan P
+7653,ACH43,SONY,937,Bucaramanga,Juan P
+3729,ACH43,Kalley,1583,Pereira,Jose Cano
+2506,ACH022,SONY,1090,Cali,Juan Jose
+7493,ACH022,RICO,633,Cali,Jennifer
+1798,ACH01,SONY,1507,Bucaramanga,Jennifer
+7976,ACH022,Kalley,1167,Bucaramanga,Juan Jose
+4229,ACH01,RICO,749,Bucaramanga,Juan P
+1069,ACH43,Kalley,301,Pereira,Juan Jose
+877,ACH43,SONY,1380,Medellin,Jose Cano
+4368,ACH43,SONY,1603,Bucaramanga,Juan Jose
+8659,ACH43,Kalley,1572,Bucaramanga,Juan P
+5814,ACH022,RICO,1649,Bogota,Jennifer
+8478,ACH022,SONY,1091,Pereira,Jennifer
+1602,ACH43,RICO,614,Cali,Jose Cano
+2113,ACH43,SONY,805,Medellin,Juan P
+8396,ACH022,Kalley,566,Bucaramanga,Camila B
+8221,ACH01,SONY,135,Cali,Juan P
+5352,ACH022,RICO,991,Pereira,Jose Cano
+7122,ACH43,Kalley,1887,Pereira,Jose Cano
+9095,ACH43,RICO,897,Pereira,Camila B
+4837,ACH01,Kalley,1399,Bogota,Juan P
+2548,ACH43,RICO,1775,Pereira,Juan Jose
+7884,ACH01,Kalley,1386,Cali,Juan P
+9925,ACH43,SONY,1263,Bogota,Jennifer
+2705,ACH01,SONY,998,Medellin,Juan Jose
+6005,ACH022,Kalley,1650,Bogota,Juan P
+5405,ACH01,Kalley,971,Cali,Camila B
+6493,ACH022,SONY,1229,Cali,Jose Cano
+8009,ACH022,SONY,1936,Bucaramanga,Juan P
+9253,ACH01,RICO,1356,Pereira,Juan Jose
+2722,ACH022,SONY,802,Medellin,Camila B
+2635,ACH022,Kalley,1057,Cali,Juan Jose
+5433,ACH022,RICO,1510,Pereira,Juan P
+9588,ACH01,SONY,1107,Cali,Camila B
+8115,ACH43,Kalley,466,Cali,Juan Jose
+6622,ACH43,RICO,1598,Bucaramanga,Juan P
+2550,ACH43,RICO,618,Medellin,Jose Cano
+355,ACH01,Kalley,1317,Bucaramanga,Jennifer
+8135,ACH01,Kalley,1805,Pereira,Camila B
+6167,ACH01,RICO,935,Cali,Camila B
+8277,ACH01,RICO,1766,Bucaramanga,Jose Cano
+7000,ACH43,RICO,793,Cali,Juan P
+6513,ACH01,Kalley,700,Pereira,Jose Cano
+3102,ACH01,RICO,1070,Medellin,Juan P
+2176,ACH43,RICO,1347,Medellin,Camila B
+6370,ACH01,Kalley,1281,Bucaramanga,Juan P
+402,ACH022,RICO,1444,Pereira,Juan P
+417,ACH43,SONY,187,Cali,Jennifer
+3992,ACH43,Kalley,1232,Cali,Camila B
+7917,ACH022,SONY,1058,Medellin,Juan Jose
+8155,ACH01,SONY,1163,Bogota,Juan Jose
+3776,ACH01,RICO,261,Bucaramanga,Jose Cano
+5898,ACH022,Kalley,1007,Bogota,Jose Cano
+8858,ACH01,Kalley,1024,Bucaramanga,Juan P
+2712,ACH022,SONY,158,Bogota,Jose Cano
+6315,ACH43,RICO,1060,Pereira,Jose Cano
+3080,ACH43,RICO,1125,Bogota,Juan P
+7713,ACH01,Kalley,192,Bucaramanga,Juan P
+4356,ACH43,Kalley,596,Cali,Jennifer
+1012,ACH022,RICO,386,Pereira,Camila B
+3716,ACH022,RICO,1378,Pereira,Juan P
+9368,ACH01,RICO,591,Cali,Jennifer
+273,ACH01,Kalley,1638,Medellin,Jose Cano
+8443,ACH01,Kalley,1373,Medellin,Jose Cano
+3617,ACH01,RICO,1819,Medellin,Jose Cano
+7495,ACH01,Kalley,1764,Bucaramanga,Jose Cano
+1464,ACH022,RICO,846,Bogota,Jennifer
+3849,ACH022,SONY,1148,Pereira,Juan Jose
+3333,ACH01,SONY,1265,Bucaramanga,Juan Jose
+4071,ACH43,RICO,1056,Bogota,Juan Jose
+580,ACH43,SONY,876,Bogota,Juan Jose
+3142,ACH01,RICO,1219,Pereira,Jennifer
+4493,ACH01,Kalley,1279,Bogota,Jennifer
+2657,ACH022,RICO,147,Medellin,Jennifer
+9892,ACH022,RICO,1672,Bucaramanga,Jose Cano
+2505,ACH022,SONY,1805,Pereira,Juan Jose
+2350,ACH022,RICO,1852,Bogota,Camila B
+2454,ACH01,SONY,130,Bucaramanga,Camila B
+5537,ACH01,RICO,1972,Bogota,Jennifer
+839,ACH43,Kalley,1407,Pereira,Camila B
+2019,ACH01,SONY,1833,Medellin,Jose Cano
+2244,ACH022,Kalley,945,Bucaramanga,Jose Cano
+6619,ACH022,SONY,762,Medellin,Jose Cano
+9255,ACH01,RICO,926,Pereira,Jose Cano
+6677,ACH43,SONY,1278,Bucaramanga,Juan Jose
+2579,ACH01,RICO,332,Pereira,Juan P
+1322,ACH022,Kalley,362,Cali,Juan Jose
+7221,ACH01,SONY,434,Bucaramanga,Juan P
+345,ACH022,RICO,663,Pereira,Juan P
+1214,ACH022,SONY,172,Bucaramanga,Jennifer
+6535,ACH01,SONY,636,Bogota,Camila B
+7329,ACH01,SONY,298,Pereira,Jose Cano
+2230,ACH022,SONY,1607,Bogota,Juan P
+9537,ACH01,RICO,1512,Bucaramanga,Camila B
+1983,ACH43,Kalley,1241,Pereira,Camila B
+2531,ACH01,RICO,583,Medellin,Jennifer
+9982,ACH43,RICO,1754,Cali,Juan Jose
+198,ACH022,Kalley,1820,Bucaramanga,Jose Cano
+7804,ACH01,RICO,1976,Pereira,Juan P
+8793,ACH022,Kalley,945,Bogota,Camila B
+4511,ACH01,SONY,1257,Cali,Jose Cano
+2771,ACH01,Kalley,1495,Bogota,Jennifer
+802,ACH01,SONY,1940,Cali,Jose Cano
+1605,ACH01,Kalley,1320,Medellin,Jennifer
+1016,ACH022,SONY,661,Bogota,Jose Cano
+4199,ACH022,RICO,1018,Pereira,Camila B
+73,ACH01,Kalley,1089,Cali,Juan Jose
+5422,ACH022,Kalley,171,Medellin,Juan Jose
+2588,ACH01,RICO,865,Cali,Camila B
+5073,ACH01,RICO,1769,Medellin,Jose Cano
+4722,ACH022,SONY,1694,Pereira,Juan P
+6867,ACH43,Kalley,387,Medellin,Juan P
+3905,ACH022,RICO,365,Bogota,Juan P
+8862,ACH43,RICO,1310,Bogota,Jose Cano
+286,ACH022,Kalley,1004,Pereira,Jose Cano
+6999,ACH43,SONY,647,Bogota,Juan Jose
+5558,ACH01,Kalley,1941,Cali,Jennifer
+1424,ACH43,SONY,958,Pereira,Jennifer
+4956,ACH01,SONY,1716,Bucaramanga,Juan P
+4727,ACH022,RICO,1828,Bogota,Jose Cano
+9043,ACH01,RICO,200,Cali,Jennifer
+1144,ACH43,Kalley,990,Bucaramanga,Juan Jose
+5940,ACH43,Kalley,1608,Cali,Juan P
+2107,ACH43,Kalley,346,Medellin,Juan P
+6346,ACH022,SONY,926,Pereira,Jennifer
+122,ACH022,RICO,300,Bucaramanga,Jose Cano
+8604,ACH43,SONY,965,Bucaramanga,Juan P
+4347,ACH022,Kalley,504,Bucaramanga,Juan Jose
+3833,ACH01,RICO,1510,Medellin,Camila B
+7423,ACH01,RICO,1105,Bucaramanga,Jose Cano
+9492,ACH022,SONY,208,Cali,Juan P
+7735,ACH022,SONY,1946,Bogota,Jennifer
+9063,ACH022,SONY,743,Medellin,Jennifer
+3191,ACH43,Kalley,143,Bogota,Juan Jose
+5862,ACH01,Kalley,1976,Pereira,Jennifer
+9326,ACH022,Kalley,1886,Cali,Jose Cano
+4279,ACH01,RICO,1089,Bogota,Juan Jose
+6779,ACH01,SONY,486,Medellin,Juan Jose
+9025,ACH01,RICO,1361,Pereira,Juan Jose
+6256,ACH01,RICO,1345,Pereira,Juan Jose
+11,ACH43,RICO,151,Bucaramanga,Juan Jose
+459,ACH022,SONY,1789,Medellin,Jennifer
+3035,ACH01,RICO,409,Cali,Juan Jose
+3997,ACH01,RICO,1287,Medellin,Jose Cano
+9749,ACH01,Kalley,395,Pereira,Jose Cano
+5776,ACH43,Kalley,1844,Pereira,Jose Cano
+6325,ACH01,SONY,1077,Cali,Camila B
+3819,ACH022,Kalley,1060,Bucaramanga,Jose Cano
+4295,ACH022,SONY,1741,Pereira,Jennifer
+4392,ACH01,RICO,718,Bucaramanga,Camila B
+3563,ACH43,RICO,1498,Bucaramanga,Camila B
+9682,ACH01,SONY,153,Pereira,Juan Jose
+4058,ACH022,Kalley,1111,Bogota,Camila B
+5384,ACH01,Kalley,1429,Cali,Jennifer
+2570,ACH43,RICO,274,Medellin,Jennifer
+26,ACH022,SONY,104,Bucaramanga,Jose Cano
+4782,ACH43,SONY,164,Cali,Jennifer
+1502,ACH01,Kalley,774,Cali,Juan Jose
+4157,ACH01,RICO,308,Bucaramanga,Jose Cano
+3679,ACH01,Kalley,1765,Medellin,Juan Jose
+7659,ACH43,SONY,155,Bucaramanga,Jose Cano
+7257,ACH022,Kalley,939,Medellin,Jennifer
+6096,ACH022,SONY,1301,Bucaramanga,Camila B
+2896,ACH022,RICO,871,Cali,Juan Jose
+7594,ACH43,Kalley,1104,Bogota,Juan Jose
+655,ACH022,RICO,789,Cali,Juan P
+1994,ACH43,RICO,276,Medellin,Juan P
+538,ACH022,SONY,1616,Pereira,Juan P
+3039,ACH43,Kalley,1444,Medellin,Juan Jose
+2301,ACH022,Kalley,1400,Bucaramanga,Jose Cano
+7006,ACH01,Kalley,1710,Bogota,Jose Cano
+7572,ACH01,SONY,1415,Medellin,Juan Jose
+6177,ACH43,Kalley,1899,Cali,Jose Cano
+7629,ACH022,SONY,316,Pereira,Jennifer
+5483,ACH022,SONY,1525,Medellin,Juan P
+5574,ACH43,SONY,1952,Medellin,Jose Cano
+8750,ACH022,SONY,1656,Bucaramanga,Jennifer
+9613,ACH022,Kalley,757,Bucaramanga,Juan Jose
+6991,ACH01,SONY,1200,Bucaramanga,Jennifer
+4670,ACH01,Kalley,836,Cali,Camila B
+2855,ACH01,RICO,868,Pereira,Juan P
+9711,ACH43,SONY,644,Bogota,Juan Jose
+8953,ACH01,Kalley,1744,Bogota,Juan Jose
+4230,ACH43,RICO,1284,Medellin,Jennifer
+771,ACH43,RICO,708,Cali,Juan Jose
+6932,ACH43,RICO,989,Bucaramanga,Jennifer
+4841,ACH01,Kalley,731,Pereira,Camila B
+3870,ACH43,Kalley,1214,Pereira,Jennifer
+7762,ACH022,RICO,987,Bucaramanga,Juan P
+5189,ACH022,SONY,1895,Medellin,Jennifer
+7394,ACH022,RICO,382,Medellin,Jennifer
+8554,ACH022,Kalley,372,Bogota,Jose Cano
+9892,ACH022,SONY,346,Pereira,Jennifer
+8103,ACH01,Kalley,1341,Medellin,Juan P
+914,ACH01,Kalley,164,Bogota,Juan P
+3205,ACH01,RICO,980,Medellin,Juan Jose
+4185,ACH43,SONY,677,Bucaramanga,Jose Cano
+6209,ACH022,SONY,1774,Cali,Camila B
+1295,ACH022,SONY,1911,Medellin,Camila B
+3404,ACH43,RICO,351,Bucaramanga,Camila B
+9769,ACH43,RICO,1394,Bucaramanga,Camila B
+3166,ACH022,Kalley,1828,Bogota,Juan Jose
+9733,ACH022,SONY,1236,Medellin,Jose Cano
+7234,ACH43,RICO,1124,Bogota,Jose Cano
+3461,ACH43,SONY,891,Medellin,Jennifer
+9760,ACH022,Kalley,1893,Cali,Jennifer
+3571,ACH022,Kalley,1018,Bucaramanga,Juan Jose
+9723,ACH43,Kalley,1209,Medellin,Jennifer
+4886,ACH01,SONY,829,Cali,Camila B
+4342,ACH022,Kalley,1458,Cali,Jennifer
+4074,ACH022,RICO,265,Cali,Jennifer
+8499,ACH01,Kalley,570,Medellin,Jose Cano
+1235,ACH022,Kalley,905,Cali,Jennifer
+9491,ACH01,RICO,1167,Medellin,Juan Jose
+6741,ACH022,RICO,1122,Bucaramanga,Jennifer
+374,ACH022,Kalley,816,Bucaramanga,Jose Cano
+2072,ACH43,Kalley,1442,Cali,Camila B
+5051,ACH43,Kalley,1972,Cali,Camila B
+9442,ACH43,Kalley,405,Cali,Camila B
+2602,ACH022,SONY,397,Medellin,Jose Cano
+7864,ACH43,RICO,452,Bucaramanga,Jose Cano
+9345,ACH43,RICO,212,Medellin,Jose Cano
+7400,ACH01,SONY,515,Pereira,Juan Jose
+5087,ACH01,SONY,500,Bogota,Juan Jose
+1459,ACH01,RICO,313,Medellin,Jose Cano
+9960,ACH01,RICO,1329,Bogota,Juan Jose
+1792,ACH022,RICO,612,Pereira,Camila B
+2796,ACH01,RICO,934,Pereira,Camila B
+9698,ACH022,RICO,634,Cali,Juan P
+8130,ACH01,RICO,971,Cali,Juan P
+9919,ACH43,Kalley,1831,Bucaramanga,Juan P
+1581,ACH022,RICO,1925,Pereira,Juan Jose
+857,ACH022,SONY,360,Bogota,Juan P
+3201,ACH01,SONY,511,Bogota,Juan P
+452,ACH022,SONY,1871,Bucaramanga,Camila B
+2063,ACH022,RICO,1475,Cali,Camila B
+3364,ACH01,RICO,848,Medellin,Juan P
+2589,ACH43,SONY,1223,Bucaramanga,Juan P
+2414,ACH022,RICO,281,Pereira,Jennifer
+5074,ACH022,Kalley,1774,Pereira,Jose Cano
+5042,ACH01,RICO,1806,Cali,Jennifer
+5873,ACH022,Kalley,1637,Bucaramanga,Juan P
+4319,ACH43,RICO,1771,Pereira,Camila B
+9910,ACH01,SONY,858,Pereira,Jennifer
+6358,ACH43,Kalley,386,Medellin,Jennifer
+852,ACH43,RICO,1003,Medellin,Jennifer
+4483,ACH43,Kalley,1309,Cali,Juan P
+25,ACH022,SONY,638,Cali,Juan Jose
+2568,ACH01,Kalley,759,Cali,Jennifer
+9880,ACH022,Kalley,830,Bogota,Juan P
+4962,ACH01,SONY,1740,Bogota,Camila B
+7305,ACH01,SONY,135,Medellin,Juan P
+7051,ACH022,RICO,1491,Cali,Camila B
+1691,ACH022,Kalley,1186,Medellin,Jennifer
+1880,ACH01,RICO,999,Bogota,Jose Cano
+5193,ACH01,SONY,644,Pereira,Jose Cano
+7926,ACH022,RICO,1835,Pereira,Jose Cano
+1059,ACH43,Kalley,1820,Medellin,Camila B
+1912,ACH01,Kalley,1573,Bucaramanga,Juan Jose
+6136,ACH01,Kalley,227,Pereira,Jose Cano
+7530,ACH43,RICO,1359,Cali,Jose Cano
+5731,ACH022,RICO,802,Bogota,Camila B
+4636,ACH43,SONY,1844,Bogota,Juan P
+9374,ACH43,Kalley,119,Cali,Jose Cano
+4002,ACH43,Kalley,1880,Medellin,Jose Cano
+9390,ACH01,SONY,933,Bucaramanga,Camila B
+3707,ACH43,Kalley,1306,Pereira,Camila B
+1772,ACH01,SONY,1071,Medellin,Jose Cano
+2131,ACH01,RICO,641,Bucaramanga,Jose Cano
+6846,ACH022,Kalley,1776,Cali,Juan Jose
+2864,ACH43,Kalley,347,Medellin,Juan P
+7801,ACH022,SONY,602,Bucaramanga,Jose Cano
+2984,ACH022,RICO,1977,Pereira,Juan Jose
+875,ACH022,SONY,922,Pereira,Camila B
+9550,ACH01,RICO,1322,Bucaramanga,Jennifer
+730,ACH022,Kalley,1238,Pereira,Jose Cano
+7262,ACH43,RICO,1939,Pereira,Jennifer
+6144,ACH43,SONY,1933,Cali,Juan Jose
+2540,ACH022,Kalley,519,Cali,Jennifer
+5694,ACH022,Kalley,1523,Cali,Juan P
+9123,ACH43,RICO,921,Cali,Juan P
+2606,ACH01,RICO,176,Pereira,Camila B
+6138,ACH022,SONY,661,Bucaramanga,Jennifer
+3380,ACH43,Kalley,1476,Pereira,Jennifer
+3506,ACH43,Kalley,1712,Medellin,Jennifer
+4743,ACH022,RICO,1957,Bogota,Juan Jose
+2968,ACH43,RICO,1778,Pereira,Juan Jose
+7763,ACH43,RICO,1899,Bucaramanga,Jennifer
+2700,ACH43,RICO,855,Bogota,Jennifer
+9600,ACH01,Kalley,624,Pereira,Juan Jose
+2513,ACH022,SONY,1982,Medellin,Juan P
+9915,ACH022,RICO,1720,Bogota,Camila B
+1690,ACH022,Kalley,398,Cali,Jose Cano
+1206,ACH01,SONY,1938,Bucaramanga,Juan Jose
+7878,ACH43,RICO,318,Bogota,Jennifer
+1558,ACH022,RICO,1764,Bogota,Camila B
+4101,ACH01,SONY,854,Cali,Jennifer
+3378,ACH01,RICO,258,Pereira,Jose Cano
+6813,ACH022,RICO,337,Medellin,Jennifer
+107,ACH43,SONY,858,Bogota,Jose Cano
+5619,ACH01,Kalley,1719,Medellin,Juan P
+8596,ACH022,SONY,1063,Bucaramanga,Juan P
+179,ACH022,RICO,1556,Cali,Jennifer
+4914,ACH43,SONY,1250,Pereira,Jennifer
+5447,ACH43,SONY,1350,Bucaramanga,Juan Jose
+5377,ACH022,SONY,574,Medellin,Juan Jose
+84,ACH022,RICO,448,Medellin,Juan P
+4953,ACH43,RICO,1589,Medellin,Juan Jose
+4493,ACH43,SONY,1751,Bucaramanga,Juan Jose
+247,ACH022,SONY,1660,Pereira,Juan Jose
+2229,ACH022,RICO,672,Medellin,Camila B
+2319,ACH43,SONY,361,Bucaramanga,Jennifer
+610,ACH022,SONY,166,Bogota,Juan Jose
+5719,ACH022,SONY,658,Cali,Jennifer
+5077,ACH022,Kalley,1004,Medellin,Camila B
+3025,ACH01,Kalley,1518,Medellin,Jose Cano
+9876,ACH43,RICO,323,Pereira,Jose Cano
+6052,ACH01,Kalley,1770,Pereira,Jennifer
+8761,ACH43,SONY,930,Bucaramanga,Juan P
+5618,ACH43,SONY,1668,Medellin,Camila B
+6742,ACH43,Kalley,1785,Cali,Jennifer
+7891,ACH43,Kalley,677,Bucaramanga,Juan P
+3041,ACH022,SONY,1689,Bucaramanga,Juan P
+944,ACH43,SONY,1141,Bucaramanga,Camila B
+5401,ACH43,RICO,569,Bucaramanga,Juan P
+680,ACH022,RICO,1500,Medellin,Jose Cano
+9686,ACH43,Kalley,1170,Cali,Camila B
+5884,ACH022,RICO,1499,Cali,Juan Jose
+8460,ACH022,Kalley,1794,Medellin,Juan P
+6980,ACH022,SONY,409,Bogota,Camila B
+3045,ACH022,SONY,811,Cali,Camila B
+2520,ACH43,SONY,1700,Bucaramanga,Juan P
+8866,ACH022,SONY,1753,Medellin,Jose Cano
+4799,ACH01,RICO,1314,Bucaramanga,Juan Jose
+547,ACH01,Kalley,1151,Bucaramanga,Juan P
+7659,ACH43,SONY,485,Bucaramanga,Juan P
+7847,ACH43,SONY,1048,Bogota,Jennifer
+669,ACH01,SONY,792,Medellin,Jennifer
+6850,ACH022,Kalley,165,Pereira,Juan Jose
+5149,ACH01,SONY,1030,Bogota,Juan P
+8890,ACH43,RICO,1638,Bogota,Jennifer
+3357,ACH43,RICO,513,Pereira,Camila B
+6792,ACH01,SONY,259,Pereira,Camila B
+515,ACH43,Kalley,1008,Bucaramanga,Jennifer
+3529,ACH01,RICO,1033,Bucaramanga,Juan P
+4618,ACH43,RICO,1406,Bucaramanga,Juan Jose
+4929,ACH43,SONY,1750,Bucaramanga,Jennifer
+5585,ACH01,Kalley,986,Pereira,Jose Cano
+3658,ACH022,RICO,639,Bogota,Jose Cano
+558,ACH01,Kalley,1011,Cali,Camila B
+7948,ACH43,Kalley,537,Medellin,Jose Cano
+4307,ACH022,SONY,1240,Cali,Jennifer
+526,ACH022,RICO,314,Pereira,Juan Jose
+4707,ACH01,Kalley,1529,Bucaramanga,Juan Jose
+389,ACH43,Kalley,794,Bucaramanga,Jose Cano
+1783,ACH022,RICO,1772,Cali,Juan P
+7872,ACH01,Kalley,207,Bogota,Juan Jose
+7063,ACH01,RICO,297,Bucaramanga,Juan Jose
+3662,ACH022,SONY,1835,Bucaramanga,Juan Jose
+6107,ACH01,SONY,560,Pereira,Jennifer
+521,ACH022,RICO,1623,Bogota,Juan Jose
+4815,ACH43,SONY,638,Medellin,Camila B
+4289,ACH43,RICO,348,Bucaramanga,Jose Cano
+938,ACH01,Kalley,1493,Bogota,Juan Jose
+5951,ACH022,RICO,792,Cali,Camila B
+9637,ACH01,RICO,240,Pereira,Juan P
+71,ACH01,Kalley,348,Medellin,Juan Jose
+751,ACH43,Kalley,997,Pereira,Juan P
+1461,ACH01,SONY,1364,Pereira,Jennifer
+938,ACH022,SONY,1305,Medellin,Juan P
+8964,ACH01,Kalley,708,Cali,Juan Jose
+4544,ACH022,SONY,173,Cali,Juan P
+3778,ACH022,RICO,773,Bucaramanga,Juan Jose
+2990,ACH01,RICO,1953,Medellin,Juan Jose
+4422,ACH022,RICO,167,Bucaramanga,Jose Cano
+4272,ACH01,RICO,959,Bogota,Juan P
+4745,ACH022,Kalley,1695,Bucaramanga,Juan P
+6910,ACH43,Kalley,217,Pereira,Juan P
+5154,ACH43,SONY,1609,Bucaramanga,Juan P
+9951,ACH022,SONY,787,Medellin,Juan P
+4725,ACH022,Kalley,1187,Pereira,Jose Cano
+8161,ACH01,SONY,1987,Pereira,Jose Cano
+3388,ACH022,Kalley,202,Medellin,Camila B
+9780,ACH01,Kalley,130,Pereira,Jennifer
+9196,ACH01,RICO,314,Cali,Jennifer
+2748,ACH01,SONY,198,Bogota,Camila B
+3581,ACH01,Kalley,189,Pereira,Juan Jose
+4666,ACH43,RICO,507,Pereira,Jennifer
+4613,ACH022,Kalley,222,Cali,Jose Cano
+9959,ACH43,RICO,832,Bogota,Camila B
+2603,ACH43,RICO,116,Cali,Juan Jose
+3403,ACH022,RICO,988,Cali,Camila B
+8100,ACH01,RICO,1171,Bucaramanga,Juan Jose
+2184,ACH43,SONY,1889,Bogota,Camila B
+3211,ACH43,Kalley,1066,Bogota,Camila B
+6918,ACH43,Kalley,1907,Bucaramanga,Juan Jose
+4054,ACH022,RICO,264,Cali,Jose Cano
+3974,ACH01,SONY,496,Pereira,Camila B
+1372,ACH43,Kalley,760,Bogota,Jose Cano
+2791,ACH43,RICO,234,Bogota,Jose Cano
+8501,ACH01,Kalley,308,Medellin,Jose Cano
+8943,ACH022,RICO,1752,Pereira,Juan P
+5671,ACH43,RICO,456,Bucaramanga,Camila B
+1904,ACH022,RICO,1002,Medellin,Camila B
+3479,ACH43,SONY,1544,Cali,Juan P
+5268,ACH43,RICO,853,Cali,Camila B
+8471,ACH01,Kalley,1010,Medellin,Juan P
+558,ACH43,SONY,260,Bogota,Juan P
+2777,ACH43,RICO,1531,Bucaramanga,Juan P
+9740,ACH01,SONY,463,Cali,Juan Jose
+9295,ACH43,Kalley,1679,Cali,Jennifer
+2257,ACH43,RICO,1088,Bucaramanga,Jennifer
+811,ACH43,SONY,1092,Bucaramanga,Juan Jose
+2274,ACH022,Kalley,690,Bucaramanga,Camila B
+645,ACH022,Kalley,1643,Bucaramanga,Juan P
+8280,ACH01,SONY,1598,Pereira,Camila B
+8385,ACH022,SONY,1184,Pereira,Jose Cano
+9296,ACH01,SONY,1016,Bucaramanga,Jennifer
+3272,ACH43,Kalley,247,Bucaramanga,Juan Jose
+6926,ACH43,SONY,730,Bucaramanga,Juan Jose
+8178,ACH022,Kalley,997,Bucaramanga,Jennifer
+5864,ACH43,SONY,601,Cali,Jennifer
+1044,ACH022,Kalley,1777,Medellin,Juan P
+774,ACH43,Kalley,522,Bogota,Juan Jose
+3405,ACH43,SONY,511,Pereira,Juan Jose
+1308,ACH01,Kalley,1612,Cali,Juan P
+9845,ACH022,RICO,762,Pereira,Juan Jose
+8908,ACH43,RICO,1811,Bogota,Juan P
+4302,ACH43,SONY,652,Pereira,Jennifer
+308,ACH01,Kalley,1944,Cali,Jose Cano
+9362,ACH01,Kalley,1317,Pereira,Camila B
+4902,ACH01,SONY,1811,Medellin,Jennifer
+4117,ACH022,SONY,1962,Bogota,Juan Jose
+219,ACH43,SONY,1173,Pereira,Jose Cano
+3908,ACH022,SONY,666,Pereira,Jennifer
+7602,ACH022,SONY,1922,Medellin,Juan Jose
+6858,ACH022,RICO,1508,Pereira,Camila B
+4151,ACH01,SONY,548,Bucaramanga,Juan P
+2742,ACH01,RICO,189,Cali,Juan Jose
+8750,ACH022,Kalley,1019,Bucaramanga,Juan P
+2687,ACH022,RICO,507,Medellin,Camila B
+9179,ACH01,SONY,1793,Bucaramanga,Juan Jose
+2860,ACH01,SONY,1877,Bogota,Juan P
+9385,ACH43,Kalley,1418,Bogota,Juan Jose
+931,ACH43,SONY,568,Medellin,Juan P
+3608,ACH022,RICO,891,Bucaramanga,Juan Jose
+3206,ACH43,Kalley,1028,Pereira,Camila B
+6074,ACH01,SONY,1890,Bucaramanga,Juan Jose
+5451,ACH022,RICO,1667,Pereira,Juan Jose
+3974,ACH022,Kalley,414,Medellin,Juan P
+9313,ACH01,SONY,1643,Bucaramanga,Juan Jose
+8857,ACH01,SONY,624,Pereira,Juan P
+4570,ACH022,SONY,1739,Cali,Juan P
+8565,ACH022,RICO,791,Cali,Jennifer
+2627,ACH43,SONY,512,Bucaramanga,Juan P
+7135,ACH022,RICO,556,Medellin,Juan P
+3047,ACH022,Kalley,1983,Cali,Juan P
+5368,ACH022,RICO,325,Medellin,Juan Jose
+9231,ACH01,SONY,1723,Pereira,Juan P
+5218,ACH022,SONY,1133,Medellin,Jennifer
+948,ACH01,Kalley,1905,Bogota,Jose Cano
+6988,ACH022,RICO,1685,Medellin,Jennifer
+6305,ACH01,SONY,109,Bogota,Camila B
+5726,ACH022,RICO,717,Pereira,Juan P
+8753,ACH43,RICO,539,Cali,Juan P
+3007,ACH022,Kalley,655,Cali,Jose Cano
+2650,ACH022,SONY,1755,Bogota,Camila B
+6194,ACH022,SONY,318,Pereira,Juan Jose
+3813,ACH01,SONY,466,Pereira,Juan Jose
+7131,ACH022,SONY,1108,Pereira,Juan Jose
+344,ACH01,RICO,1564,Medellin,Jose Cano
+6724,ACH43,RICO,1781,Bucaramanga,Juan P
+7248,ACH43,RICO,1602,Cali,Camila B
+2053,ACH01,SONY,1447,Bucaramanga,Camila B
+2435,ACH01,RICO,141,Bucaramanga,Camila B
+2197,ACH022,RICO,1116,Medellin,Camila B
+1920,ACH01,Kalley,1065,Bogota,Jose Cano
+4520,ACH022,Kalley,898,Pereira,Jennifer
+2866,ACH43,SONY,332,Pereira,Camila B
+7661,ACH43,SONY,334,Medellin,Camila B
+7296,ACH01,Kalley,775,Bucaramanga,Jennifer
+9394,ACH022,SONY,1458,Pereira,Camila B
+956,ACH022,Kalley,1990,Medellin,Juan Jose
+2997,ACH022,RICO,1670,Medellin,Jennifer
+3615,ACH01,Kalley,449,Medellin,Juan Jose
+1214,ACH022,Kalley,893,Bucaramanga,Jose Cano
+2806,ACH01,RICO,185,Cali,Jennifer
+8906,ACH43,Kalley,203,Cali,Jose Cano
+5991,ACH022,Kalley,942,Pereira,Juan P
+946,ACH01,SONY,1329,Medellin,Juan P
+2114,ACH01,SONY,365,Cali,Jennifer
+2676,ACH01,RICO,1882,Medellin,Jose Cano
+5378,ACH43,SONY,1656,Cali,Jose Cano
+7949,ACH43,Kalley,1697,Bogota,Juan Jose
+8445,ACH01,SONY,169,Bogota,Juan P
+9747,ACH01,RICO,488,Bogota,Juan P
+1640,ACH43,RICO,1703,Bogota,Jennifer
+332,ACH01,Kalley,1046,Medellin,Jennifer
+5864,ACH43,Kalley,1301,Cali,Jose Cano
+8457,ACH43,RICO,515,Pereira,Juan Jose
+2085,ACH43,SONY,1285,Bogota,Juan Jose
+9256,ACH01,SONY,590,Bucaramanga,Juan Jose
+3763,ACH01,SONY,1721,Medellin,Jose Cano
+2766,ACH01,SONY,770,Bogota,Juan P
+1842,ACH01,SONY,1901,Cali,Juan Jose
+8438,ACH022,SONY,715,Bogota,Juan P
+1060,ACH01,Kalley,146,Bogota,Jennifer
+6475,ACH01,Kalley,1736,Medellin,Camila B
+4696,ACH022,Kalley,279,Bogota,Juan Jose
+6329,ACH01,RICO,343,Bogota,Camila B
+5500,ACH43,Kalley,501,Cali,Camila B
+6769,ACH43,RICO,756,Bogota,Camila B
+435,ACH022,SONY,1762,Bucaramanga,Jose Cano
+89,ACH01,SONY,1383,Bucaramanga,Juan P
+3484,ACH43,SONY,807,Bogota,Camila B
+7971,ACH022,Kalley,1642,Medellin,Juan Jose
+2980,ACH43,RICO,1702,Medellin,Camila B
+4639,ACH01,Kalley,106,Cali,Jennifer
+6753,ACH022,SONY,652,Pereira,Juan Jose
+6669,ACH022,Kalley,1519,Bogota,Jennifer
+4007,ACH43,RICO,638,Cali,Juan P
+8917,ACH43,Kalley,388,Cali,Jose Cano
+7924,ACH43,RICO,252,Bogota,Jennifer
+204,ACH022,Kalley,1691,Bucaramanga,Juan Jose
+4693,ACH43,RICO,1833,Bucaramanga,Camila B
+6772,ACH43,SONY,1714,Pereira,Juan Jose
+8177,ACH43,SONY,531,Bogota,Juan Jose
+8274,ACH022,RICO,1318,Bucaramanga,Juan P
+3586,ACH01,Kalley,1701,Cali,Jose Cano
+8371,ACH01,SONY,1944,Bogota,Jennifer
+7190,ACH01,Kalley,908,Bucaramanga,Camila B
+5699,ACH022,SONY,1610,Bucaramanga,Jose Cano
+3408,ACH01,Kalley,1649,Medellin,Jennifer
+7002,ACH43,RICO,1035,Bucaramanga,Camila B
+4319,ACH022,RICO,1466,Bucaramanga,Juan Jose
+1084,ACH022,SONY,178,Bogota,Juan P
+423,ACH01,RICO,1391,Bucaramanga,Camila B
+3195,ACH022,Kalley,1280,Medellin,Camila B
+1469,ACH01,Kalley,1289,Pereira,Jennifer
+1564,ACH022,SONY,803,Pereira,Jennifer
+931,ACH01,Kalley,895,Bucaramanga,Camila B
+4179,ACH43,SONY,1495,Medellin,Jennifer
+4606,ACH01,Kalley,103,Medellin,Juan Jose
+979,ACH01,Kalley,291,Medellin,Juan P
+4232,ACH01,RICO,230,Bucaramanga,Jennifer
+9694,ACH022,SONY,1337,Bogota,Jose Cano
+9322,ACH43,SONY,512,Bucaramanga,Camila B
+1575,ACH022,SONY,1148,Bucaramanga,Jennifer
+2959,ACH43,Kalley,986,Pereira,Jose Cano
+639,ACH022,RICO,1810,Cali,Juan P
+8487,ACH022,RICO,834,Pereira,Juan P
+8304,ACH01,RICO,1572,Bucaramanga,Juan Jose
+7305,ACH022,SONY,1293,Pereira,Juan P
+3713,ACH43,RICO,1141,Medellin,Juan Jose
+2321,ACH01,RICO,674,Bucaramanga,Juan Jose
+3616,ACH43,Kalley,1108,Medellin,Jennifer
+9070,ACH022,SONY,849,Bogota,Jennifer
+9813,ACH022,Kalley,729,Medellin,Jennifer
+9711,ACH01,SONY,943,Medellin,Jennifer
+3434,ACH01,SONY,1426,Bogota,Juan Jose
+6371,ACH43,Kalley,190,Pereira,Juan Jose
+7933,ACH01,RICO,248,Cali,Jennifer
+2079,ACH022,SONY,992,Pereira,Juan Jose
+7399,ACH022,RICO,1088,Bogota,Juan P
+7587,ACH43,RICO,1978,Bogota,Juan Jose
+795,ACH01,SONY,1993,Medellin,Juan Jose
+7054,ACH022,SONY,351,Medellin,Jose Cano
+5619,ACH01,SONY,1395,Pereira,Jose Cano
+9541,ACH43,SONY,697,Medellin,Juan P
+2910,ACH022,RICO,1777,Bucaramanga,Jennifer
+9325,ACH022,Kalley,349,Bogota,Jennifer
+8269,ACH022,RICO,1933,Bogota,Juan P
+4189,ACH43,Kalley,544,Pereira,Juan P
+4005,ACH01,RICO,105,Bogota,Juan P
+907,ACH022,Kalley,319,Pereira,Camila B
+6689,ACH022,SONY,1758,Medellin,Camila B
+9967,ACH022,Kalley,720,Bogota,Jennifer
+1176,ACH43,Kalley,1800,Bogota,Jennifer
+5917,ACH022,Kalley,573,Medellin,Jose Cano
+6736,ACH43,RICO,478,Pereira,Jose Cano
+9872,ACH01,SONY,395,Bucaramanga,Jose Cano
+53,ACH022,RICO,1081,Bucaramanga,Juan P
+5888,ACH01,RICO,1434,Bucaramanga,Juan P
+5166,ACH01,RICO,460,Cali,Jose Cano
+8028,ACH022,SONY,694,Bogota,Jennifer
+5811,ACH022,SONY,570,Cali,Juan P
+6816,ACH43,RICO,366,Pereira,Camila B
+9458,ACH43,RICO,1352,Bucaramanga,Camila B
+4011,ACH022,RICO,1151,Bogota,Jennifer
+6740,ACH01,RICO,1238,Pereira,Jennifer
+4636,ACH022,RICO,458,Bogota,Juan P
+9010,ACH43,SONY,1819,Bucaramanga,Camila B
+2469,ACH01,Kalley,166,Pereira,Juan P
+2432,ACH43,RICO,1693,Bogota,Juan Jose
+6114,ACH01,RICO,1425,Medellin,Juan P
+2379,ACH022,RICO,1882,Bucaramanga,Jennifer
+64,ACH43,SONY,108,Medellin,Juan Jose
+4776,ACH43,Kalley,1186,Cali,Camila B
+9436,ACH01,SONY,1529,Cali,Juan P
+1356,ACH022,Kalley,329,Bogota,Juan Jose
+8883,ACH01,Kalley,1450,Pereira,Jose Cano
+7685,ACH01,Kalley,1953,Bogota,Jose Cano
+8262,ACH022,SONY,155,Bucaramanga,Jennifer
+4542,ACH01,Kalley,1956,Bucaramanga,Jose Cano
+2887,ACH022,RICO,846,Bogota,Juan Jose
+5006,ACH43,Kalley,1817,Bogota,Camila B
+6570,ACH022,RICO,1076,Cali,Jennifer
+1212,ACH022,Kalley,490,Cali,Jose Cano
+125,ACH01,RICO,1231,Pereira,Camila B
+5682,ACH022,RICO,1337,Cali,Juan P
+8421,ACH01,RICO,419,Cali,Jennifer
+7630,ACH01,RICO,1850,Medellin,Juan Jose
+9234,ACH01,SONY,1278,Cali,Juan Jose
+1601,ACH43,RICO,1442,Bucaramanga,Camila B
+8031,ACH01,Kalley,1032,Medellin,Camila B
+8195,ACH43,SONY,1056,Bucaramanga,Juan P
+9794,ACH43,RICO,1177,Cali,Juan P
+3716,ACH43,Kalley,1509,Pereira,Jose Cano
+4178,ACH022,Kalley,1204,Cali,Jennifer
+7341,ACH01,RICO,1253,Pereira,Jennifer
+1263,ACH43,RICO,601,Bucaramanga,Juan P
+7701,ACH43,RICO,496,Pereira,Jose Cano
+5752,ACH01,RICO,898,Pereira,Jose Cano
+6734,ACH01,SONY,1198,Medellin,Camila B
+4855,ACH022,Kalley,352,Bogota,Juan Jose
+4675,ACH022,Kalley,1675,Pereira,Juan Jose
+2779,ACH43,Kalley,1889,Pereira,Jose Cano
+3223,ACH01,SONY,1894,Pereira,Juan P
+4844,ACH01,SONY,929,Bucaramanga,Jennifer
+271,ACH43,Kalley,1392,Pereira,Juan P
+6872,ACH01,Kalley,819,Bogota,Juan Jose
+7584,ACH022,Kalley,145,Bucaramanga,Jose Cano
+799,ACH43,Kalley,257,Bucaramanga,Jose Cano
+756,ACH01,Kalley,1405,Cali,Juan Jose
+3178,ACH01,RICO,1051,Bucaramanga,Juan P
+495,ACH01,Kalley,1047,Medellin,Jennifer
+1337,ACH43,RICO,1849,Bogota,Camila B
+5055,ACH43,SONY,1711,Cali,Juan P
+7966,ACH01,RICO,1549,Cali,Juan P
+7760,ACH022,Kalley,1008,Cali,Camila B
+7670,ACH01,Kalley,1944,Pereira,Juan P
+5284,ACH43,Kalley,1431,Bogota,Camila B
+3398,ACH022,SONY,1114,Medellin,Juan P
+8906,ACH01,SONY,548,Cali,Juan P
+4576,ACH01,SONY,175,Bogota,Jennifer
+3165,ACH01,RICO,1867,Bogota,Jose Cano
+5535,ACH022,RICO,1696,Bogota,Jennifer
+129,ACH022,SONY,718,Bucaramanga,Juan P
+6915,ACH01,Kalley,914,Pereira,Jose Cano
+923,ACH43,RICO,287,Cali,Jose Cano
+5252,ACH43,RICO,1309,Cali,Juan Jose
+7206,ACH43,SONY,147,Cali,Juan Jose
+7753,ACH01,SONY,966,Bucaramanga,Camila B
+2809,ACH43,Kalley,1095,Cali,Jose Cano
+6552,ACH022,SONY,347,Medellin,Camila B
+9357,ACH022,RICO,417,Cali,Camila B
+9384,ACH022,SONY,116,Medellin,Camila B
+1378,ACH01,RICO,1886,Bogota,Juan Jose
+9098,ACH43,RICO,576,Medellin,Jennifer
+7265,ACH01,SONY,347,Bucaramanga,Jennifer
+6290,ACH43,Kalley,687,Cali,Juan P
+8504,ACH022,RICO,868,Bogota,Juan Jose
+3839,ACH022,SONY,222,Medellin,Juan P
+9537,ACH022,SONY,1824,Cali,Jose Cano
+3281,ACH43,SONY,1680,Bucaramanga,Juan Jose
+4173,ACH01,SONY,1118,Bogota,Juan Jose
+9150,ACH01,SONY,1328,Cali,Camila B
+9852,ACH022,Kalley,1723,Medellin,Juan Jose
+3131,ACH022,RICO,1185,Pereira,Jennifer
+5521,ACH01,SONY,1520,Bucaramanga,Juan Jose
+379,ACH01,Kalley,199,Bogota,Juan P
+7287,ACH43,SONY,1036,Bogota,Juan P
+7476,ACH01,RICO,472,Medellin,Juan P
+7922,ACH43,Kalley,328,Bogota,Camila B
+5568,ACH022,SONY,553,Bucaramanga,Camila B
+2839,ACH022,RICO,870,Cali,Jose Cano
+9356,ACH01,RICO,450,Bogota,Juan Jose
+8434,ACH022,Kalley,124,Bogota,Jose Cano
+2380,ACH01,SONY,1936,Bogota,Jennifer
+2539,ACH43,SONY,1066,Bogota,Juan P
+8801,ACH43,Kalley,1683,Medellin,Jennifer
+8870,ACH43,RICO,1669,Medellin,Juan Jose
+998,ACH022,RICO,579,Bogota,Camila B
+4002,ACH022,SONY,1823,Medellin,Juan Jose
+8064,ACH01,Kalley,715,Pereira,Camila B
+9019,ACH43,Kalley,1553,Bogota,Jose Cano
+6873,ACH43,Kalley,1033,Pereira,Juan P
+6751,ACH43,RICO,1814,Bucaramanga,Camila B
+5710,ACH43,RICO,921,Bucaramanga,Jose Cano
+3679,ACH43,Kalley,363,Cali,Jennifer
+4787,ACH022,SONY,466,Medellin,Jennifer
+8240,ACH43,RICO,1850,Pereira,Jennifer
+2946,ACH01,RICO,1510,Bucaramanga,Jose Cano
+3268,ACH01,RICO,1273,Cali,Jennifer
+1760,ACH022,SONY,747,Pereira,Juan Jose
+3673,ACH022,RICO,1322,Medellin,Jennifer
+9145,ACH43,SONY,549,Bucaramanga,Jennifer
+9263,ACH022,Kalley,218,Bogota,Juan Jose
+3241,ACH43,Kalley,1784,Medellin,Juan P
+3045,ACH01,Kalley,1848,Pereira,Jose Cano
+8800,ACH01,Kalley,641,Bucaramanga,Camila B
+9189,ACH43,SONY,1485,Pereira,Jose Cano
+5888,ACH022,SONY,944,Medellin,Jose Cano
+9629,ACH43,Kalley,719,Bogota,Jose Cano
+3038,ACH01,RICO,1300,Cali,Juan P
+7086,ACH43,RICO,862,Cali,Jose Cano
+7606,ACH43,RICO,1758,Pereira,Jennifer
+8681,ACH43,SONY,651,Bucaramanga,Jose Cano
+6384,ACH43,SONY,1582,Bogota,Jose Cano
+3370,ACH01,RICO,1012,Cali,Juan P
+4042,ACH022,RICO,1099,Bucaramanga,Juan Jose
+2266,ACH43,RICO,1386,Medellin,Jennifer
+2738,ACH01,Kalley,974,Bucaramanga,Juan P
+6689,ACH43,SONY,1143,Medellin,Jennifer
+7685,ACH022,SONY,514,Cali,Jennifer
+3573,ACH43,RICO,1393,Medellin,Camila B
+4639,ACH01,Kalley,827,Bogota,Juan Jose
+1434,ACH022,Kalley,1889,Bogota,Jennifer
+2362,ACH022,RICO,1784,Bucaramanga,Jennifer
+1866,ACH01,SONY,360,Bucaramanga,Jennifer
+7272,ACH01,Kalley,812,Cali,Juan Jose
+3945,ACH01,RICO,1109,Medellin,Juan P
+5528,ACH43,Kalley,1056,Bucaramanga,Juan Jose
+6348,ACH01,SONY,1013,Bogota,Juan Jose
+122,ACH01,RICO,901,Cali,Juan P
+7517,ACH022,Kalley,1944,Pereira,Juan Jose
+764,ACH022,SONY,1512,Pereira,Jennifer
+1070,ACH43,RICO,1484,Medellin,Juan P
+546,ACH01,Kalley,1920,Bucaramanga,Juan P
+2599,ACH01,SONY,483,Bucaramanga,Camila B
+7157,ACH022,SONY,906,Bogota,Juan P
+3664,ACH01,SONY,1573,Medellin,Jose Cano
+1994,ACH43,RICO,345,Bucaramanga,Juan Jose
+5597,ACH43,SONY,1464,Bogota,Juan P
+5862,ACH43,Kalley,1947,Cali,Camila B
+1620,ACH43,Kalley,1542,Bucaramanga,Juan Jose
+9303,ACH43,RICO,1732,Pereira,Jose Cano
+9830,ACH43,RICO,227,Pereira,Jose Cano
+7801,ACH43,Kalley,497,Pereira,Juan P
+8230,ACH43,SONY,1043,Bucaramanga,Jose Cano
+8095,ACH01,SONY,232,Medellin,Juan Jose
+2124,ACH022,Kalley,1011,Pereira,Jennifer
+1734,ACH43,RICO,1336,Bucaramanga,Juan P
+3263,ACH43,SONY,1802,Medellin,Jose Cano
+820,ACH022,RICO,1062,Medellin,Juan Jose
+1608,ACH022,RICO,1511,Bogota,Juan Jose
+552,ACH01,Kalley,1260,Bucaramanga,Juan P
+7930,ACH01,RICO,1062,Medellin,Camila B
+5255,ACH022,Kalley,1011,Medellin,Juan Jose
+8336,ACH022,SONY,1384,Pereira,Jennifer
+8444,ACH022,Kalley,1221,Bogota,Juan P
+9714,ACH01,SONY,956,Cali,Jose Cano
+8271,ACH43,RICO,1014,Pereira,Jose Cano
+4119,ACH01,SONY,818,Medellin,Jennifer
+8719,ACH022,Kalley,223,Cali,Camila B
+1653,ACH43,SONY,1994,Bogota,Jose Cano
+6090,ACH022,Kalley,1996,Cali,Camila B
+6582,ACH01,SONY,1257,Bogota,Camila B
+7643,ACH022,Kalley,481,Bogota,Juan Jose
+418,ACH022,SONY,474,Cali,Jose Cano
+4866,ACH022,SONY,597,Bogota,Camila B
+248,ACH43,RICO,565,Pereira,Jennifer
+2792,ACH022,Kalley,794,Pereira,Camila B
+9936,ACH43,Kalley,1121,Bucaramanga,Camila B
+7798,ACH43,SONY,1082,Medellin,Juan P
+3197,ACH01,SONY,630,Pereira,Jose Cano
+8874,ACH01,Kalley,1578,Medellin,Jennifer
+6288,ACH43,Kalley,262,Medellin,Jennifer
+6605,ACH022,SONY,1837,Pereira,Juan Jose
+9338,ACH01,Kalley,737,Pereira,Camila B
+4372,ACH022,SONY,1587,Bucaramanga,Jose Cano
+9581,ACH01,Kalley,435,Pereira,Jennifer
+744,ACH01,Kalley,1297,Bucaramanga,Juan Jose
+1036,ACH43,Kalley,492,Bucaramanga,Jose Cano
+7854,ACH022,Kalley,1284,Pereira,Juan P
+4263,ACH022,SONY,1533,Pereira,Jose Cano
+5269,ACH43,SONY,746,Bucaramanga,Jennifer
+1130,ACH01,Kalley,1622,Bucaramanga,Jose Cano
+3431,ACH022,RICO,1299,Pereira,Juan Jose
+6809,ACH022,RICO,144,Cali,Jennifer
+776,ACH022,Kalley,803,Medellin,Jose Cano
+4560,ACH022,Kalley,1028,Pereira,Jennifer
+825,ACH022,SONY,181,Pereira,Jose Cano
+6788,ACH01,Kalley,276,Bucaramanga,Jennifer
+751,ACH022,SONY,995,Pereira,Camila B
+8416,ACH01,RICO,1510,Bucaramanga,Jose Cano
+6365,ACH022,Kalley,492,Bogota,Camila B
+5002,ACH022,SONY,1114,Medellin,Juan P
+1436,ACH022,SONY,1186,Cali,Camila B
+7882,ACH022,SONY,1957,Pereira,Camila B
+1605,ACH022,SONY,186,Medellin,Jennifer
+7474,ACH022,Kalley,335,Pereira,Juan Jose
+592,ACH022,SONY,1748,Bogota,Juan P
+1537,ACH01,RICO,1890,Pereira,Camila B
+2596,ACH022,RICO,1115,Bogota,Juan Jose
+1262,ACH01,Kalley,1695,Medellin,Camila B
+1481,ACH022,RICO,1983,Pereira,Juan Jose
+2953,ACH43,RICO,1719,Bucaramanga,Jennifer
+4997,ACH01,RICO,778,Bucaramanga,Jennifer
+2961,ACH01,SONY,1494,Cali,Juan P
+8551,ACH022,SONY,884,Bucaramanga,Jennifer
+3325,ACH43,SONY,698,Cali,Camila B
+5320,ACH022,RICO,1335,Medellin,Camila B
+5627,ACH022,SONY,1022,Bogota,Juan Jose
+5981,ACH43,SONY,734,Bogota,Juan P
+9010,ACH43,RICO,1071,Medellin,Camila B
+738,ACH022,Kalley,1424,Medellin,Jose Cano
+8541,ACH43,RICO,551,Bogota,Camila B
+6430,ACH022,Kalley,1981,Pereira,Jennifer
+5385,ACH43,SONY,790,Cali,Camila B
+474,ACH43,RICO,1247,Cali,Jennifer
+8290,ACH01,SONY,451,Medellin,Juan P
+4714,ACH01,RICO,540,Bogota,Jose Cano
+8867,ACH022,Kalley,1841,Bogota,Jennifer
+1611,ACH01,Kalley,620,Bogota,Juan P
+1983,ACH022,SONY,1158,Medellin,Juan Jose
+9349,ACH43,SONY,1221,Bucaramanga,Juan P
+1854,ACH43,Kalley,1073,Cali,Camila B
+3430,ACH43,SONY,963,Pereira,Juan Jose
+4089,ACH43,Kalley,1415,Pereira,Jose Cano
+3627,ACH01,Kalley,698,Medellin,Juan Jose
+9462,ACH43,RICO,1951,Medellin,Camila B
+555,ACH01,RICO,144,Cali,Jennifer
+8296,ACH01,SONY,346,Pereira,Jose Cano
+7445,ACH01,RICO,1847,Bucaramanga,Camila B
+384,ACH022,SONY,1136,Medellin,Jennifer
+7977,ACH022,RICO,1921,Pereira,Juan P
+2275,ACH022,RICO,754,Bogota,Juan Jose
+3196,ACH022,RICO,147,Cali,Juan Jose
+9942,ACH01,Kalley,469,Bucaramanga,Juan Jose
+3812,ACH43,RICO,1239,Bucaramanga,Juan P
+7056,ACH01,Kalley,382,Pereira,Jose Cano
+7777,ACH43,Kalley,1102,Medellin,Camila B
+5478,ACH01,RICO,1925,Cali,Juan P
+3234,ACH43,Kalley,907,Bogota,Jose Cano
+1585,ACH022,SONY,1788,Pereira,Camila B
+4273,ACH01,SONY,715,Pereira,Juan Jose
+7142,ACH022,RICO,980,Cali,Jose Cano
+7133,ACH01,Kalley,1869,Medellin,Juan P
+5536,ACH01,Kalley,1214,Medellin,Juan Jose
+1358,ACH01,Kalley,1330,Bogota,Juan P
+4312,ACH43,SONY,271,Cali,Juan Jose
+39,ACH022,SONY,869,Pereira,Camila B
+6514,ACH43,SONY,698,Cali,Jose Cano
+1209,ACH01,SONY,1565,Cali,Camila B
+113,ACH01,SONY,710,Bogota,Jennifer
+8356,ACH022,RICO,1648,Bucaramanga,Camila B
+158,ACH01,Kalley,303,Bucaramanga,Juan Jose
+2191,ACH022,RICO,1359,Pereira,Jennifer
+316,ACH022,Kalley,529,Pereira,Juan P
+4039,ACH022,SONY,1346,Medellin,Juan Jose
+6783,ACH43,SONY,311,Cali,Juan P
+3966,ACH43,SONY,1489,Bucaramanga,Juan Jose
+1419,ACH01,RICO,1851,Medellin,Jose Cano
+422,ACH01,RICO,1022,Bucaramanga,Jennifer
+3265,ACH43,Kalley,1507,Bucaramanga,Camila B
+4956,ACH022,RICO,1191,Cali,Jose Cano
+6929,ACH022,RICO,813,Bucaramanga,Juan P
+3337,ACH01,RICO,286,Bucaramanga,Juan P
+4402,ACH01,SONY,564,Pereira,Jennifer
+1660,ACH022,RICO,762,Cali,Jose Cano
+7414,ACH01,RICO,613,Bucaramanga,Juan Jose
+6457,ACH01,Kalley,401,Bogota,Juan Jose
+9860,ACH43,RICO,1033,Pereira,Camila B
+7735,ACH022,SONY,338,Bogota,Jose Cano
+6765,ACH01,Kalley,577,Pereira,Jennifer
+4455,ACH01,SONY,1747,Pereira,Jennifer
+3355,ACH43,SONY,201,Pereira,Juan P
+9804,ACH01,Kalley,1936,Bucaramanga,Juan Jose
+9383,ACH43,RICO,1923,Pereira,Juan Jose
+5558,ACH022,SONY,162,Pereira,Juan P
+4844,ACH022,RICO,1324,Medellin,Juan P
+5293,ACH43,SONY,1023,Cali,Jennifer
+4173,ACH01,SONY,129,Medellin,Jennifer
+4201,ACH01,RICO,1116,Cali,Camila B
+3715,ACH022,RICO,1751,Bogota,Jose Cano
+9711,ACH01,RICO,1628,Medellin,Jennifer
+5358,ACH022,RICO,1409,Bogota,Jose Cano
+8066,ACH01,RICO,1838,Pereira,Juan Jose
+1844,ACH01,RICO,864,Cali,Jose Cano
+4803,ACH43,Kalley,1897,Bucaramanga,Juan P
+500,ACH022,Kalley,317,Bogota,Juan Jose
+5129,ACH022,Kalley,965,Bogota,Juan Jose
+3490,ACH43,Kalley,1886,Pereira,Juan P
+4482,ACH01,RICO,357,Bucaramanga,Jennifer
+4386,ACH01,RICO,1688,Medellin,Jennifer
+4546,ACH022,RICO,1367,Bucaramanga,Camila B
+249,ACH43,SONY,1880,Bucaramanga,Juan Jose
+9729,ACH022,Kalley,375,Pereira,Camila B
+3939,ACH01,SONY,1011,Medellin,Juan Jose
+1879,ACH01,RICO,1478,Bucaramanga,Camila B
+7579,ACH43,SONY,999,Pereira,Juan P
+2640,ACH022,SONY,1370,Pereira,Juan Jose
+7955,ACH022,Kalley,687,Pereira,Juan Jose
+1997,ACH43,Kalley,1607,Pereira,Juan P
+9844,ACH43,Kalley,941,Bogota,Jose Cano
+7817,ACH022,RICO,1452,Pereira,Camila B
+961,ACH01,Kalley,1386,Pereira,Camila B
+4400,ACH43,RICO,1128,Bucaramanga,Jennifer
+5609,ACH022,RICO,776,Pereira,Camila B
+5735,ACH43,Kalley,1168,Bucaramanga,Camila B
+660,ACH022,RICO,1534,Pereira,Camila B
+1483,ACH022,RICO,1450,Cali,Juan P
+6658,ACH022,RICO,1358,Bogota,Jose Cano
+1062,ACH01,SONY,887,Bogota,Jennifer
+4097,ACH022,RICO,1397,Pereira,Juan Jose
+4404,ACH01,RICO,1188,Cali,Juan Jose
+3814,ACH01,RICO,1509,Pereira,Jennifer
+83,ACH01,RICO,1876,Cali,Jennifer
+2225,ACH022,Kalley,1284,Bogota,Camila B
+779,ACH43,RICO,779,Bogota,Jose Cano
+4677,ACH022,SONY,1484,Bogota,Juan P
+5768,ACH01,Kalley,1211,Bogota,Juan Jose
+426,ACH01,SONY,288,Pereira,Juan P
+3326,ACH43,SONY,1037,Pereira,Jennifer
+5111,ACH01,SONY,1584,Medellin,Camila B
+4410,ACH43,Kalley,819,Medellin,Camila B
+2876,ACH43,RICO,706,Pereira,Camila B
+2802,ACH022,Kalley,135,Medellin,Juan Jose
+9909,ACH022,SONY,1408,Bucaramanga,Camila B
+288,ACH022,Kalley,514,Bucaramanga,Jennifer
+7457,ACH022,Kalley,394,Cali,Jose Cano
+3159,ACH43,SONY,476,Medellin,Jennifer
+1964,ACH022,Kalley,402,Medellin,Jose Cano
+1456,ACH022,SONY,1326,Cali,Juan P
+9940,ACH01,Kalley,212,Cali,Juan P
+7072,ACH43,SONY,153,Bogota,Jose Cano
+3237,ACH01,Kalley,1624,Bucaramanga,Juan Jose
+2827,ACH022,SONY,1980,Bucaramanga,Jennifer
+840,ACH01,RICO,931,Medellin,Camila B
+8283,ACH01,SONY,555,Bogota,Juan Jose
+9476,ACH01,SONY,155,Medellin,Jennifer
+1897,ACH43,SONY,754,Bogota,Juan Jose
+2834,ACH022,SONY,1668,Bogota,Juan Jose
+3745,ACH01,Kalley,1009,Medellin,Juan P
+2391,ACH01,SONY,1572,Bogota,Jennifer
+541,ACH43,RICO,996,Bucaramanga,Juan P
+9856,ACH43,RICO,882,Cali,Jose Cano
+6800,ACH01,RICO,1898,Cali,Jennifer
+4137,ACH022,RICO,1064,Pereira,Juan P
+9767,ACH01,Kalley,736,Cali,Jose Cano
+5901,ACH01,RICO,1315,Medellin,Juan Jose
+7687,ACH01,RICO,1616,Cali,Camila B
+9252,ACH022,Kalley,1840,Cali,Juan Jose
+1957,ACH01,SONY,1571,Pereira,Camila B
+2124,ACH022,SONY,1887,Pereira,Jennifer
+6604,ACH022,Kalley,302,Pereira,Juan Jose
+6458,ACH43,RICO,168,Pereira,Juan P
+5994,ACH43,RICO,536,Cali,Jose Cano
+1,ACH022,Kalley,1776,Bogota,Jose Cano
+5659,ACH01,Kalley,157,Bucaramanga,Camila B
+1343,ACH01,RICO,1400,Medellin,Juan P
+4230,ACH022,RICO,651,Cali,Camila B
+9245,ACH43,SONY,1456,Pereira,Juan Jose
+9379,ACH022,SONY,539,Medellin,Jose Cano
+8151,ACH022,Kalley,1377,Bucaramanga,Juan Jose
+4263,ACH01,SONY,383,Pereira,Juan P
+140,ACH43,SONY,548,Medellin,Juan P
+6253,ACH01,Kalley,1643,Bucaramanga,Camila B
+944,ACH01,SONY,159,Pereira,Jose Cano
+1101,ACH01,SONY,1499,Medellin,Juan Jose
+2316,ACH43,RICO,874,Cali,Juan P
+6722,ACH022,SONY,433,Bucaramanga,Jennifer
+6610,ACH01,RICO,938,Bucaramanga,Juan Jose
+1686,ACH022,Kalley,1227,Medellin,Jennifer
+6111,ACH022,Kalley,1826,Bogota,Camila B
+2399,ACH022,Kalley,193,Medellin,Juan Jose
+9928,ACH01,RICO,537,Pereira,Jose Cano
+4969,ACH43,Kalley,899,Bucaramanga,Juan P
+2873,ACH43,Kalley,1271,Bucaramanga,Jennifer
+3323,ACH022,Kalley,1979,Medellin,Camila B
+3330,ACH43,RICO,1120,Cali,Camila B
+5290,ACH43,RICO,642,Medellin,Camila B
+5816,ACH01,Kalley,386,Cali,Juan P
+8136,ACH01,Kalley,1836,Pereira,Jose Cano
+3220,ACH022,Kalley,874,Medellin,Juan P
+5150,ACH022,Kalley,1128,Cali,Juan P
+4932,ACH022,Kalley,1115,Medellin,Jennifer
+2348,ACH022,Kalley,1636,Bucaramanga,Camila B
+106,ACH01,SONY,533,Medellin,Camila B
+5251,ACH43,SONY,532,Bogota,Juan Jose
+3481,ACH022,RICO,450,Medellin,Jose Cano
+4991,ACH01,RICO,475,Bogota,Jose Cano
+4866,ACH01,RICO,1851,Cali,Juan Jose
+9281,ACH43,RICO,860,Bogota,Jose Cano
+1074,ACH43,Kalley,1595,Bucaramanga,Juan P
+6167,ACH43,Kalley,657,Bogota,Jennifer
+9711,ACH022,SONY,311,Bogota,Juan P
+7808,ACH022,Kalley,641,Bogota,Jose Cano
+4764,ACH01,SONY,1643,Bogota,Juan Jose
+5566,ACH43,SONY,1521,Bucaramanga,Jose Cano
+430,ACH43,SONY,382,Bogota,Camila B
+8916,ACH43,SONY,1982,Medellin,Camila B
+8398,ACH01,RICO,1558,Pereira,Jose Cano
+7118,ACH022,Kalley,190,Medellin,Jose Cano
+8906,ACH01,Kalley,833,Medellin,Camila B
+1946,ACH43,SONY,615,Bogota,Juan P
+8743,ACH43,Kalley,1026,Pereira,Jose Cano
+4017,ACH01,SONY,1622,Bogota,Jennifer
+2690,ACH43,RICO,1363,Bogota,Jose Cano
+7807,ACH022,Kalley,1161,Bogota,Jose Cano
+5276,ACH43,RICO,1541,Cali,Juan Jose
+3139,ACH43,Kalley,416,Pereira,Camila B
+262,ACH01,Kalley,1259,Bogota,Camila B
+5009,ACH01,SONY,564,Bogota,Jose Cano
+2722,ACH43,SONY,1410,Pereira,Jose Cano
+2318,ACH022,Kalley,219,Pereira,Juan P
+178,ACH43,RICO,515,Bogota,Juan P
+7208,ACH01,RICO,1590,Medellin,Jennifer
+8701,ACH022,SONY,1938,Bogota,Juan Jose
+6846,ACH43,SONY,333,Bucaramanga,Juan P
+3778,ACH43,RICO,1282,Bucaramanga,Jennifer
+1314,ACH022,RICO,536,Bucaramanga,Jose Cano
+7209,ACH43,Kalley,778,Cali,Jose Cano
+8532,ACH43,Kalley,468,Bucaramanga,Camila B
+3798,ACH022,RICO,371,Cali,Jose Cano
+3164,ACH01,RICO,1445,Pereira,Camila B
+9677,ACH01,Kalley,379,Cali,Juan P
+1927,ACH01,Kalley,769,Bogota,Jennifer
+7231,ACH01,Kalley,1965,Medellin,Jennifer
+5396,ACH01,SONY,1263,Cali,Jennifer
+4986,ACH43,SONY,566,Medellin,Camila B
+1842,ACH01,SONY,570,Bucaramanga,Juan Jose
+5832,ACH43,RICO,998,Bogota,Camila B
+5092,ACH022,SONY,1208,Bogota,Juan Jose
+914,ACH01,SONY,782,Bogota,Juan Jose
+7483,ACH43,Kalley,1759,Bogota,Jennifer
+7568,ACH43,Kalley,1660,Pereira,Juan P
+4889,ACH43,Kalley,478,Bucaramanga,Jose Cano
+2717,ACH022,Kalley,712,Bucaramanga,Juan Jose
+1636,ACH43,Kalley,1966,Medellin,Juan P
+7703,ACH022,RICO,954,Pereira,Juan P
+4890,ACH43,SONY,575,Cali,Juan P
+4287,ACH43,RICO,858,Bucaramanga,Jose Cano
+60,ACH43,RICO,1782,Cali,Juan P
+3026,ACH43,Kalley,1532,Bucaramanga,Camila B
+781,ACH43,SONY,448,Cali,Jose Cano
+2202,ACH43,SONY,1090,Bucaramanga,Jennifer
+9604,ACH022,SONY,1127,Cali,Jennifer
+9736,ACH01,SONY,728,Medellin,Jose Cano
+2007,ACH022,Kalley,1909,Bucaramanga,Juan P
+8851,ACH43,Kalley,292,Pereira,Camila B
+7440,ACH022,RICO,631,Pereira,Jose Cano
+8226,ACH01,Kalley,1000,Bucaramanga,Juan Jose
+8181,ACH01,SONY,1454,Bucaramanga,Juan Jose
+1155,ACH022,RICO,1270,Bogota,Juan P
+5454,ACH43,RICO,1307,Cali,Jose Cano
+2321,ACH43,RICO,1792,Bogota,Camila B
+1960,ACH01,RICO,1786,Medellin,Camila B
+4349,ACH022,RICO,1542,Cali,Juan P
+6044,ACH43,Kalley,1890,Bogota,Jose Cano
+6353,ACH01,RICO,1129,Bogota,Jennifer
+2185,ACH01,Kalley,219,Bogota,Camila B
+8421,ACH43,SONY,947,Cali,Juan Jose
+7661,ACH022,RICO,1672,Cali,Juan Jose
+5839,ACH01,RICO,554,Cali,Juan Jose
+5353,ACH022,SONY,514,Cali,Camila B
+8848,ACH022,SONY,624,Medellin,Juan P
+9884,ACH022,RICO,1554,Pereira,Camila B
+7278,ACH43,RICO,828,Bucaramanga,Jose Cano
+8740,ACH01,SONY,586,Bogota,Juan Jose
+2141,ACH022,RICO,531,Bucaramanga,Jennifer
+5683,ACH022,RICO,245,Bogota,Juan P
+626,ACH022,RICO,1387,Bucaramanga,Jose Cano
+8838,ACH43,SONY,496,Medellin,Camila B
+3203,ACH022,RICO,558,Medellin,Juan P
+1866,ACH43,SONY,1630,Bogota,Jose Cano
+5878,ACH022,RICO,1486,Medellin,Jennifer
+8187,ACH022,RICO,1817,Cali,Jennifer
+5089,ACH022,SONY,1911,Cali,Juan Jose
+928,ACH43,RICO,1165,Medellin,Camila B
+1301,ACH43,RICO,834,Cali,Camila B
+4688,ACH022,SONY,1346,Cali,Jennifer
+1539,ACH43,Kalley,1427,Medellin,Juan P
+896,ACH022,RICO,1523,Medellin,Juan Jose
+2191,ACH43,Kalley,1222,Cali,Jose Cano
+2651,ACH01,SONY,1578,Cali,Camila B
+7796,ACH43,SONY,1590,Cali,Jose Cano
+5848,ACH022,SONY,374,Bogota,Juan Jose
+7985,ACH022,Kalley,1734,Cali,Jose Cano
+939,ACH01,Kalley,544,Bucaramanga,Jose Cano
+2321,ACH43,Kalley,639,Bucaramanga,Juan Jose
+8584,ACH022,SONY,1894,Medellin,Juan P
+4055,ACH01,RICO,244,Bucaramanga,Jennifer
+750,ACH022,SONY,1552,Cali,Jose Cano
+7467,ACH43,SONY,1762,Cali,Juan Jose
+1506,ACH022,Kalley,1080,Cali,Juan Jose
+9317,ACH022,RICO,266,Cali,Juan Jose
+7372,ACH43,RICO,1792,Bucaramanga,Juan P
+6617,ACH43,Kalley,1498,Bogota,Camila B
+9332,ACH01,RICO,1367,Pereira,Juan P
+7399,ACH43,RICO,479,Medellin,Jose Cano
+8935,ACH43,Kalley,1657,Medellin,Jose Cano
+372,ACH43,RICO,1179,Bucaramanga,Jose Cano
+6696,ACH01,SONY,848,Medellin,Juan P
+9988,ACH022,RICO,1929,Bogota,Jennifer
+8047,ACH022,Kalley,443,Cali,Juan Jose
+1140,ACH022,SONY,1816,Cali,Jennifer
+2679,ACH43,SONY,217,Pereira,Juan Jose
+2618,ACH022,RICO,1800,Cali,Juan P
+2442,ACH01,Kalley,485,Bucaramanga,Jennifer
+308,ACH43,Kalley,1970,Cali,Jose Cano
+8266,ACH01,Kalley,965,Pereira,Juan P
+7140,ACH01,Kalley,1595,Bucaramanga,Juan Jose
+7298,ACH022,RICO,1116,Bogota,Camila B
+5706,ACH022,SONY,1019,Pereira,Jennifer
+6870,ACH022,SONY,410,Bogota,Juan Jose
+7910,ACH022,SONY,1470,Bucaramanga,Juan Jose
+5001,ACH43,SONY,137,Medellin,Jose Cano
+8047,ACH01,SONY,1500,Pereira,Camila B
+725,ACH022,SONY,1525,Medellin,Juan P
+1773,ACH022,SONY,196,Bucaramanga,Jennifer
+9357,ACH01,SONY,1075,Bogota,Jose Cano
+5686,ACH43,SONY,1385,Cali,Jose Cano
+5001,ACH01,RICO,1548,Cali,Camila B
+2790,ACH43,SONY,246,Medellin,Jennifer
+3419,ACH43,SONY,799,Bucaramanga,Jennifer
+689,ACH022,RICO,231,Medellin,Camila B
+6677,ACH022,SONY,155,Bogota,Juan Jose
+2987,ACH01,RICO,507,Medellin,Juan Jose
+7503,ACH022,RICO,1578,Cali,Jennifer
+3280,ACH01,Kalley,1154,Cali,Juan P
+69,ACH022,SONY,1056,Pereira,Camila B
+8211,ACH01,Kalley,567,Cali,Jennifer
+8630,ACH43,RICO,197,Bucaramanga,Camila B
+5655,ACH01,SONY,1000,Pereira,Juan P
+478,ACH01,RICO,1730,Medellin,Juan Jose
+2705,ACH43,Kalley,1181,Cali,Jennifer
+9953,ACH43,SONY,1896,Bucaramanga,Jose Cano
+7682,ACH01,Kalley,1208,Bucaramanga,Camila B
+7977,ACH01,RICO,463,Pereira,Camila B
+4776,ACH01,Kalley,1278,Pereira,Camila B
+7258,ACH43,Kalley,1819,Pereira,Juan P
+7457,ACH43,RICO,1868,Bucaramanga,Camila B
+9975,ACH43,RICO,1502,Bucaramanga,Juan Jose
+7547,ACH022,Kalley,171,Bucaramanga,Juan Jose
+3640,ACH022,Kalley,1463,Bogota,Camila B
+4104,ACH01,Kalley,829,Bogota,Camila B
+8174,ACH01,SONY,1547,Pereira,Juan Jose
+1232,ACH43,Kalley,387,Cali,Jennifer
+5124,ACH01,RICO,1524,Medellin,Jose Cano
+9978,ACH022,SONY,1496,Medellin,Juan P
+9059,ACH022,SONY,375,Pereira,Juan Jose
+4603,ACH01,Kalley,515,Medellin,Juan Jose
+938,ACH022,Kalley,2000,Cali,Juan P
+161,ACH43,RICO,190,Bogota,Camila B
+2659,ACH022,Kalley,1344,Cali,Jennifer
+5867,ACH43,Kalley,1875,Pereira,Jennifer
+3385,ACH43,Kalley,1782,Cali,Camila B
+3010,ACH01,Kalley,106,Medellin,Juan Jose
+2636,ACH01,SONY,633,Pereira,Jose Cano
+9244,ACH43,SONY,1620,Cali,Jennifer
+784,ACH01,Kalley,1932,Medellin,Jose Cano
+6207,ACH01,RICO,1601,Cali,Juan Jose
+2917,ACH43,Kalley,401,Cali,Juan Jose
+3662,ACH01,RICO,279,Bucaramanga,Jose Cano
+159,ACH43,SONY,1324,Medellin,Jose Cano
+2644,ACH01,Kalley,819,Pereira,Jose Cano
+8890,ACH022,Kalley,897,Bucaramanga,Juan P
+9005,ACH01,RICO,1560,Cali,Jose Cano
+2099,ACH43,SONY,1690,Cali,Jennifer
+2863,ACH43,SONY,1402,Pereira,Jennifer
+2038,ACH01,Kalley,1355,Cali,Jose Cano
+2154,ACH022,SONY,177,Bogota,Juan Jose
+537,ACH01,RICO,1458,Bogota,Jose Cano
+8695,ACH43,RICO,1354,Bogota,Camila B
+6427,ACH022,RICO,607,Pereira,Juan Jose
+759,ACH43,SONY,1247,Bucaramanga,Juan Jose
+5471,ACH43,SONY,1740,Medellin,Jose Cano
+5824,ACH43,RICO,1543,Cali,Juan Jose
+554,ACH43,RICO,111,Bucaramanga,Juan Jose
+8235,ACH022,Kalley,269,Bucaramanga,Juan Jose
+9180,ACH43,SONY,162,Cali,Juan Jose
+5457,ACH01,SONY,1589,Medellin,Juan P
+9532,ACH01,RICO,1412,Cali,Jose Cano
+3260,ACH43,SONY,1224,Cali,Juan P
+5873,ACH43,RICO,752,Pereira,Camila B
+3883,ACH43,Kalley,1065,Medellin,Camila B
+601,ACH01,Kalley,614,Bogota,Juan Jose
+7961,ACH022,SONY,407,Bucaramanga,Camila B
+6445,ACH01,SONY,792,Cali,Camila B
+65,ACH022,RICO,1921,Bogota,Jennifer
+5313,ACH43,SONY,762,Bucaramanga,Juan P
+9847,ACH022,SONY,421,Cali,Jose Cano
+4771,ACH01,SONY,200,Bucaramanga,Jose Cano
+481,ACH43,SONY,331,Medellin,Juan Jose
+3932,ACH01,SONY,210,Bucaramanga,Jose Cano
+1736,ACH022,Kalley,1288,Bogota,Juan P
+4904,ACH022,RICO,1538,Bogota,Juan P
+7193,ACH43,RICO,329,Bucaramanga,Juan P
+6311,ACH022,SONY,507,Bogota,Camila B
+520,ACH022,Kalley,1509,Cali,Jose Cano
+9599,ACH43,RICO,924,Pereira,Jennifer
+3000,ACH43,RICO,613,Bucaramanga,Juan Jose
+5349,ACH022,SONY,1307,Bogota,Juan Jose
+3644,ACH01,Kalley,659,Bogota,Juan Jose
+2378,ACH022,Kalley,1552,Bucaramanga,Juan P
+2830,ACH022,SONY,1635,Bucaramanga,Jennifer
+9115,ACH022,Kalley,147,Pereira,Jose Cano
+6696,ACH022,RICO,942,Pereira,Jennifer
+4659,ACH01,Kalley,1473,Bucaramanga,Jose Cano
+9281,ACH01,RICO,1910,Cali,Juan P
+8166,ACH01,SONY,1546,Bucaramanga,Juan P
+6099,ACH01,RICO,827,Cali,Jose Cano
+878,ACH43,Kalley,1725,Pereira,Jennifer
+8437,ACH022,SONY,864,Bogota,Juan Jose
+2103,ACH01,SONY,1740,Bucaramanga,Juan P
+6196,ACH022,Kalley,683,Bogota,Camila B
+8427,ACH43,SONY,1732,Bucaramanga,Juan Jose
+4092,ACH01,Kalley,467,Cali,Juan Jose
+1452,ACH022,RICO,929,Cali,Juan Jose
+5885,ACH022,SONY,1797,Pereira,Jose Cano
+1969,ACH43,RICO,1585,Medellin,Camila B
+1290,ACH43,SONY,143,Bucaramanga,Juan Jose
+1036,ACH43,RICO,814,Bucaramanga,Jose Cano
+5320,ACH01,RICO,1869,Pereira,Camila B
+4510,ACH022,Kalley,200,Medellin,Jose Cano
+2521,ACH01,RICO,1172,Cali,Camila B
+4419,ACH43,RICO,1159,Medellin,Camila B
+8932,ACH01,RICO,1440,Bucaramanga,Camila B
+5922,ACH01,Kalley,1500,Bogota,Camila B
+6289,ACH01,RICO,1890,Medellin,Juan P
+9683,ACH022,RICO,1815,Cali,Jose Cano
+7107,ACH022,Kalley,1549,Bogota,Camila B
+4477,ACH01,RICO,1950,Pereira,Juan Jose
+8035,ACH43,SONY,958,Bucaramanga,Jennifer
+8853,ACH01,SONY,974,Pereira,Jennifer
+3679,ACH022,SONY,1887,Cali,Camila B
+4085,ACH43,RICO,628,Bogota,Camila B
+3045,ACH43,RICO,590,Cali,Jose Cano
+7696,ACH022,SONY,1412,Medellin,Jennifer
+9332,ACH43,RICO,530,Medellin,Juan Jose
+7541,ACH022,SONY,1270,Bogota,Juan P
+2151,ACH43,Kalley,1405,Pereira,Jose Cano
+230,ACH01,Kalley,815,Bucaramanga,Camila B
+5441,ACH022,RICO,1285,Medellin,Juan P
+4903,ACH022,RICO,1265,Medellin,Juan Jose
+443,ACH01,Kalley,298,Pereira,Camila B
+136,ACH01,SONY,1826,Medellin,Juan P
+1446,ACH43,Kalley,1814,Bucaramanga,Jennifer
+9146,ACH022,SONY,1958,Cali,Jose Cano
+9132,ACH43,Kalley,867,Pereira,Juan P
+8312,ACH01,RICO,1810,Bogota,Juan P
+2949,ACH43,RICO,1229,Cali,Juan P
+2289,ACH43,Kalley,903,Medellin,Jennifer
+6734,ACH01,SONY,216,Pereira,Juan P
+6473,ACH022,SONY,853,Bogota,Juan P
+1942,ACH01,RICO,534,Cali,Juan Jose
+9900,ACH022,RICO,1816,Bucaramanga,Jennifer
+9318,ACH01,Kalley,1546,Medellin,Camila B
+7683,ACH01,RICO,772,Pereira,Juan Jose
+2148,ACH022,RICO,951,Medellin,Juan Jose
+9991,ACH43,SONY,494,Bucaramanga,Juan Jose
+5234,ACH022,SONY,226,Pereira,Juan P
+9425,ACH022,SONY,1094,Pereira,Camila B
+6408,ACH01,Kalley,702,Pereira,Jose Cano
+6263,ACH01,Kalley,1577,Medellin,Juan Jose
+1149,ACH43,Kalley,1895,Bucaramanga,Juan Jose
+2490,ACH43,Kalley,1836,Bucaramanga,Juan P
+951,ACH022,Kalley,1859,Cali,Jose Cano
+5547,ACH43,RICO,1528,Cali,Juan Jose
+8164,ACH43,RICO,690,Bucaramanga,Juan P
+3745,ACH43,Kalley,775,Cali,Camila B
+5928,ACH022,Kalley,1268,Medellin,Jose Cano
+8772,ACH01,Kalley,1788,Medellin,Juan Jose
+8261,ACH022,RICO,1670,Cali,Juan P
+7626,ACH01,RICO,916,Cali,Juan P
+6383,ACH022,RICO,1407,Medellin,Juan P
+3430,ACH43,Kalley,363,Pereira,Camila B
+5055,ACH43,Kalley,1692,Bogota,Juan Jose
+8775,ACH43,Kalley,429,Bogota,Jennifer
+5994,ACH022,RICO,590,Pereira,Jennifer
+1479,ACH022,SONY,914,Bogota,Camila B
+1380,ACH01,RICO,224,Cali,Juan Jose
+8267,ACH43,SONY,516,Pereira,Jennifer
+1768,ACH022,SONY,563,Bogota,Camila B
+4637,ACH022,SONY,1992,Medellin,Jennifer
+1383,ACH01,RICO,388,Bucaramanga,Jose Cano
+9763,ACH43,RICO,1441,Bucaramanga,Juan P
+6947,ACH01,RICO,715,Bucaramanga,Jose Cano
+9822,ACH43,SONY,710,Medellin,Jose Cano
+7073,ACH43,Kalley,1347,Medellin,Camila B
+4442,ACH43,SONY,1138,Bucaramanga,Jennifer
+7108,ACH022,Kalley,1034,Pereira,Camila B
+2504,ACH022,SONY,624,Cali,Camila B
+7103,ACH01,Kalley,475,Bogota,Camila B
+910,ACH43,Kalley,1006,Pereira,Camila B
+5103,ACH022,RICO,1994,Cali,Jose Cano
+5373,ACH022,SONY,743,Pereira,Juan P
+708,ACH01,RICO,772,Bogota,Camila B
+4449,ACH43,SONY,601,Cali,Camila B
+8125,ACH01,RICO,879,Cali,Juan P
+5439,ACH43,RICO,1082,Medellin,Juan P
+3268,ACH01,Kalley,694,Bucaramanga,Jennifer
+1569,ACH022,RICO,1828,Medellin,Jennifer
+5737,ACH022,SONY,582,Bucaramanga,Jennifer
+1087,ACH43,Kalley,1194,Cali,Jennifer
+6402,ACH01,RICO,880,Cali,Jennifer
+5491,ACH43,SONY,820,Bogota,Juan P
+8467,ACH01,Kalley,273,Bucaramanga,Jennifer
+6364,ACH022,RICO,1178,Bucaramanga,Juan Jose
+5570,ACH022,Kalley,780,Cali,Juan P
+6573,ACH01,SONY,1723,Bogota,Jennifer
+5548,ACH43,SONY,1501,Medellin,Juan Jose
+1862,ACH022,Kalley,1012,Bogota,Camila B
+80,ACH43,SONY,1171,Cali,Juan Jose
+6279,ACH022,SONY,1930,Medellin,Juan Jose
+1961,ACH022,RICO,1483,Bucaramanga,Juan Jose
+4479,ACH43,Kalley,723,Medellin,Jennifer
+5863,ACH01,Kalley,1714,Bogota,Jose Cano
+439,ACH022,Kalley,928,Pereira,Jose Cano
+5605,ACH43,Kalley,1474,Medellin,Jose Cano
+7313,ACH43,Kalley,572,Bogota,Camila B
+2057,ACH43,SONY,1296,Pereira,Camila B
+7826,ACH01,SONY,1388,Medellin,Juan Jose
+9248,ACH022,SONY,179,Cali,Jose Cano
+7887,ACH01,SONY,1184,Medellin,Jennifer
+1379,ACH022,RICO,757,Bogota,Jennifer
+599,ACH01,Kalley,509,Medellin,Jose Cano
+5527,ACH43,SONY,964,Cali,Camila B
+1635,ACH022,Kalley,1426,Pereira,Juan Jose
+9600,ACH01,SONY,977,Cali,Jose Cano
+6818,ACH43,SONY,1309,Pereira,Juan P
+125,ACH022,SONY,1850,Bucaramanga,Jennifer
+9404,ACH43,SONY,422,Cali,Juan P
+2408,ACH022,Kalley,1864,Medellin,Camila B
+622,ACH022,Kalley,332,Medellin,Camila B
+127,ACH022,Kalley,945,Cali,Juan Jose
+3344,ACH01,RICO,1507,Bucaramanga,Juan Jose
+592,ACH43,RICO,368,Bucaramanga,Jose Cano
+2398,ACH022,RICO,1173,Cali,Jose Cano
+769,ACH022,RICO,1854,Cali,Juan Jose
+6296,ACH022,SONY,338,Bogota,Juan P
+671,ACH022,RICO,427,Bogota,Camila B
+1718,ACH43,Kalley,695,Pereira,Jennifer
+8238,ACH43,RICO,566,Bucaramanga,Jennifer
+7134,ACH43,RICO,395,Bogota,Juan P
+4336,ACH43,Kalley,574,Cali,Jennifer
+6110,ACH43,Kalley,613,Cali,Jose Cano
+2417,ACH022,RICO,1669,Bogota,Juan P
+7233,ACH01,SONY,209,Medellin,Jennifer
+7043,ACH022,RICO,1606,Cali,Juan P
+4121,ACH43,Kalley,1494,Pereira,Jose Cano
+3764,ACH022,SONY,1640,Medellin,Juan Jose
+7597,ACH43,Kalley,318,Medellin,Jennifer
+2073,ACH022,SONY,523,Cali,Juan Jose
+4768,ACH01,Kalley,606,Bucaramanga,Juan Jose
+3021,ACH01,Kalley,1558,Bucaramanga,Juan Jose
+1514,ACH43,RICO,1514,Bucaramanga,Juan P
+8575,ACH43,Kalley,240,Cali,Jose Cano
+5328,ACH022,RICO,1069,Medellin,Camila B
+3737,ACH43,Kalley,1058,Bucaramanga,Jose Cano
+6400,ACH022,Kalley,655,Cali,Camila B
+7177,ACH01,Kalley,695,Pereira,Jose Cano
+2987,ACH43,RICO,619,Cali,Juan P
+2592,ACH022,Kalley,750,Medellin,Camila B
+5905,ACH022,SONY,1123,Bogota,Jennifer
+47,ACH43,SONY,1143,Cali,Juan Jose
+6997,ACH022,RICO,113,Pereira,Jose Cano
+738,ACH01,RICO,265,Bogota,Jennifer
+8670,ACH43,RICO,122,Medellin,Juan Jose
+8782,ACH01,SONY,1730,Bucaramanga,Jose Cano
+7073,ACH022,SONY,1006,Bogota,Jose Cano
+9311,ACH43,RICO,587,Cali,Juan Jose
+5384,ACH43,RICO,1936,Medellin,Camila B
+260,ACH022,Kalley,1193,Medellin,Juan P
+4075,ACH022,RICO,1873,Bogota,Juan Jose
+4392,ACH022,Kalley,1582,Medellin,Jennifer
+9035,ACH01,RICO,1016,Cali,Juan P
+3360,ACH022,Kalley,1457,Bogota,Juan P
+2635,ACH01,RICO,986,Pereira,Juan P
+3552,ACH01,SONY,1211,Bogota,Juan P
+4833,ACH022,RICO,1208,Pereira,Juan P
+157,ACH01,Kalley,1618,Pereira,Juan Jose
+6656,ACH022,RICO,440,Pereira,Juan Jose
+5622,ACH43,RICO,120,Cali,Juan Jose
+2562,ACH01,RICO,589,Medellin,Jennifer
+8761,ACH01,SONY,941,Bogota,Juan Jose
+7391,ACH01,Kalley,1048,Pereira,Juan P
+1255,ACH01,RICO,541,Medellin,Juan P
+6533,ACH022,RICO,1152,Pereira,Camila B
+8454,ACH01,Kalley,1313,Bogota,Jennifer
+5182,ACH01,Kalley,590,Bucaramanga,Juan P
+913,ACH01,Kalley,1261,Medellin,Juan P
+998,ACH01,Kalley,1889,Cali,Camila B
+3480,ACH43,Kalley,871,Bogota,Camila B
+3384,ACH43,Kalley,660,Pereira,Camila B
+3529,ACH01,Kalley,651,Cali,Jennifer
+1886,ACH43,Kalley,1153,Cali,Jose Cano
+138,ACH43,RICO,409,Cali,Jose Cano
+8742,ACH01,RICO,900,Pereira,Camila B
+2781,ACH01,RICO,1177,Medellin,Jennifer
+8459,ACH43,SONY,110,Pereira,Camila B
+9943,ACH01,RICO,1235,Pereira,Camila B
+3570,ACH01,Kalley,1326,Cali,Jose Cano
+2479,ACH01,Kalley,131,Bogota,Jennifer
+9639,ACH43,RICO,1794,Pereira,Juan P
+8156,ACH43,SONY,257,Pereira,Camila B
+125,ACH01,RICO,849,Bogota,Camila B
+7908,ACH01,SONY,1353,Bogota,Juan Jose
+6930,ACH43,RICO,165,Medellin,Jose Cano
+9567,ACH022,SONY,1955,Cali,Camila B
+5002,ACH022,SONY,1283,Bogota,Juan P
+5978,ACH43,Kalley,1352,Cali,Juan P
+2068,ACH43,RICO,1797,Bogota,Jennifer
+3682,ACH022,SONY,1311,Bucaramanga,Jennifer
+5554,ACH01,Kalley,1141,Pereira,Juan P
+4030,ACH022,SONY,1947,Pereira,Juan P
+3911,ACH022,RICO,697,Bogota,Camila B
+5666,ACH43,RICO,1295,Bucaramanga,Jose Cano
+9981,ACH01,RICO,1614,Pereira,Jennifer
+2778,ACH01,Kalley,140,Cali,Camila B
+5909,ACH022,SONY,474,Medellin,Jose Cano
+8456,ACH01,SONY,1652,Cali,Juan P
+1962,ACH43,RICO,1945,Cali,Juan Jose
+8823,ACH022,RICO,452,Bogota,Jennifer
+9915,ACH43,Kalley,484,Cali,Camila B
+226,ACH022,SONY,962,Medellin,Jose Cano
+2467,ACH01,RICO,1485,Bucaramanga,Jennifer
+8145,ACH022,RICO,1487,Bogota,Juan Jose
+2058,ACH43,RICO,630,Pereira,Juan P
+7505,ACH43,RICO,1107,Cali,Camila B
+4693,ACH022,Kalley,912,Medellin,Juan P
+7566,ACH01,Kalley,1121,Cali,Juan Jose
+6471,ACH43,SONY,812,Bogota,Jose Cano
+5775,ACH022,Kalley,1857,Cali,Camila B
+947,ACH43,SONY,1494,Bucaramanga,Jennifer
+8955,ACH43,Kalley,1892,Bucaramanga,Juan Jose
+7075,ACH01,SONY,535,Bucaramanga,Juan Jose
+3172,ACH022,Kalley,1309,Cali,Camila B
+8032,ACH01,Kalley,405,Pereira,Camila B
+2422,ACH43,Kalley,1176,Bogota,Jose Cano
+1045,ACH43,Kalley,1082,Bucaramanga,Juan Jose
+1616,ACH022,SONY,673,Pereira,Juan Jose
+7393,ACH01,SONY,1993,Pereira,Jennifer
+5529,ACH01,Kalley,1240,Medellin,Juan Jose
+9997,ACH022,Kalley,819,Cali,Jose Cano
+1391,ACH43,RICO,506,Medellin,Jose Cano
+4718,ACH01,Kalley,784,Bucaramanga,Camila B
+2590,ACH01,Kalley,565,Cali,Camila B
+3462,ACH022,SONY,575,Bucaramanga,Juan P
+8625,ACH01,Kalley,1071,Bogota,Juan P
+9173,ACH022,RICO,420,Medellin,Juan Jose
+1693,ACH022,Kalley,234,Bucaramanga,Camila B
+30,ACH01,RICO,1432,Bogota,Juan P
+2054,ACH022,SONY,438,Bucaramanga,Juan Jose
+6100,ACH01,Kalley,507,Pereira,Jennifer
+5910,ACH43,SONY,509,Bucaramanga,Juan P
+6003,ACH022,SONY,279,Medellin,Juan P
+7206,ACH43,Kalley,572,Bogota,Jennifer
+17,ACH43,SONY,235,Medellin,Jose Cano
+8099,ACH01,SONY,333,Cali,Juan P
+4037,ACH01,RICO,164,Cali,Camila B
+1613,ACH43,RICO,926,Bucaramanga,Jennifer
+9206,ACH43,Kalley,592,Bucaramanga,Jennifer
+8244,ACH43,RICO,461,Bogota,Jose Cano
+2773,ACH01,Kalley,1494,Medellin,Camila B
+3519,ACH01,RICO,838,Medellin,Jennifer
+5100,ACH43,SONY,1931,Bucaramanga,Juan Jose
+8915,ACH01,SONY,105,Medellin,Jennifer
+2904,ACH43,SONY,1417,Medellin,Juan Jose
+1867,ACH43,RICO,1199,Pereira,Juan Jose
+8188,ACH022,RICO,1529,Bogota,Juan Jose
+6673,ACH01,Kalley,1390,Cali,Jose Cano
+684,ACH43,Kalley,103,Pereira,Juan Jose
+3689,ACH01,RICO,221,Cali,Juan Jose
+8788,ACH022,RICO,1112,Cali,Juan P
+111,ACH43,SONY,1942,Bucaramanga,Juan P
+1223,ACH022,RICO,1111,Bucaramanga,Jennifer
+4190,ACH01,SONY,1828,Bogota,Jennifer
+1370,ACH43,RICO,1048,Medellin,Juan P
+7897,ACH022,RICO,1027,Bogota,Jose Cano
+2697,ACH01,Kalley,277,Medellin,Camila B
+7252,ACH43,Kalley,1275,Bucaramanga,Jose Cano
+2076,ACH022,Kalley,1144,Pereira,Jose Cano
+2348,ACH43,RICO,929,Bucaramanga,Camila B
+9244,ACH43,Kalley,1920,Pereira,Jennifer
+2908,ACH01,RICO,366,Bogota,Camila B
+8233,ACH022,Kalley,1199,Pereira,Juan P
+1883,ACH43,RICO,1520,Pereira,Juan Jose
+3443,ACH022,RICO,1170,Bucaramanga,Juan P
+2967,ACH43,RICO,1811,Pereira,Jose Cano
+6886,ACH43,Kalley,672,Pereira,Jose Cano
+2858,ACH022,SONY,1836,Pereira,Jennifer
+3240,ACH01,SONY,1163,Medellin,Jennifer
+5131,ACH022,Kalley,1310,Pereira,Juan P
+5526,ACH43,RICO,1148,Medellin,Jennifer
+2659,ACH01,SONY,1657,Bogota,Camila B
+8371,ACH43,RICO,1440,Pereira,Juan P
+2691,ACH022,RICO,587,Bucaramanga,Jose Cano
+46,ACH43,Kalley,1837,Bogota,Juan P
+5306,ACH022,SONY,494,Cali,Juan Jose
+4381,ACH43,SONY,1355,Cali,Jennifer
+6414,ACH43,RICO,169,Medellin,Camila B
+2000,ACH01,RICO,1973,Cali,Juan Jose
+9382,ACH43,RICO,1016,Cali,Juan P
+9450,ACH43,Kalley,477,Cali,Juan P
+8428,ACH022,Kalley,1866,Medellin,Jennifer
+6681,ACH01,SONY,659,Bogota,Juan P
+527,ACH43,RICO,570,Cali,Jose Cano
+8783,ACH01,Kalley,220,Cali,Juan Jose
+5251,ACH01,SONY,1020,Medellin,Jennifer
+6058,ACH01,Kalley,1929,Medellin,Juan P
+7017,ACH01,RICO,1334,Cali,Juan Jose
+1913,ACH01,SONY,744,Bucaramanga,Juan P
+9021,ACH022,Kalley,1850,Cali,Juan P
+7079,ACH01,Kalley,2000,Medellin,Juan Jose
+8427,ACH01,SONY,668,Cali,Camila B
+7032,ACH43,Kalley,1306,Bogota,Jose Cano
+6850,ACH01,SONY,944,Bucaramanga,Juan P
+8659,ACH01,RICO,1908,Bogota,Jose Cano
+7367,ACH43,RICO,249,Medellin,Jennifer
+38,ACH01,SONY,1543,Cali,Camila B
+3546,ACH022,Kalley,894,Bucaramanga,Juan P
+3880,ACH01,SONY,1128,Pereira,Juan P
+356,ACH43,SONY,1983,Bogota,Jose Cano
+385,ACH022,SONY,1547,Bucaramanga,Jennifer
+9423,ACH01,Kalley,155,Pereira,Juan Jose
+5826,ACH01,SONY,176,Cali,Jennifer
+2896,ACH022,SONY,375,Bucaramanga,Jose Cano
+5281,ACH01,Kalley,120,Cali,Jennifer
+4484,ACH022,SONY,387,Medellin,Jose Cano
+9117,ACH01,Kalley,523,Pereira,Camila B
+2082,ACH01,RICO,1801,Bucaramanga,Jose Cano
+6203,ACH43,Kalley,1686,Bogota,Juan Jose
+8203,ACH43,SONY,744,Pereira,Jennifer
+9939,ACH022,Kalley,1202,Medellin,Juan P
+6006,ACH01,SONY,1193,Bucaramanga,Jose Cano
+9075,ACH01,SONY,393,Medellin,Jennifer
+7158,ACH022,Kalley,744,Pereira,Juan Jose
+2478,ACH01,Kalley,1189,Bogota,Juan P
+6005,ACH01,SONY,1354,Medellin,Juan P
+3294,ACH43,RICO,1607,Bogota,Juan Jose
+9869,ACH022,RICO,451,Bogota,Juan Jose
+8008,ACH01,Kalley,478,Bogota,Camila B
+4260,ACH022,SONY,471,Bucaramanga,Camila B
+8894,ACH01,RICO,1743,Pereira,Jose Cano
+8798,ACH01,RICO,1333,Medellin,Juan Jose
+4502,ACH43,RICO,316,Medellin,Camila B
+7842,ACH43,RICO,1500,Medellin,Camila B
+2529,ACH01,Kalley,688,Cali,Juan P
+9970,ACH022,RICO,896,Bogota,Juan P
+3480,ACH022,RICO,1893,Bogota,Camila B
+5297,ACH43,Kalley,1000,Pereira,Camila B
+2126,ACH022,SONY,1432,Cali,Jennifer
+5230,ACH022,SONY,1192,Cali,Juan Jose
+2977,ACH022,SONY,108,Bogota,Juan Jose
+6084,ACH43,SONY,1120,Medellin,Jose Cano
+3324,ACH43,SONY,184,Bogota,Juan Jose
+8826,ACH01,SONY,910,Bucaramanga,Jose Cano
+4923,ACH022,Kalley,1445,Pereira,Juan Jose
+6651,ACH022,SONY,1182,Pereira,Juan Jose
+4180,ACH43,RICO,1846,Cali,Juan P
+6840,ACH01,Kalley,1415,Bucaramanga,Juan Jose
+6035,ACH022,RICO,904,Medellin,Juan P
+2305,ACH01,RICO,322,Cali,Juan P
+2193,ACH43,SONY,461,Bucaramanga,Jose Cano
+4468,ACH43,RICO,143,Medellin,Juan Jose
+9657,ACH01,RICO,1059,Bucaramanga,Juan P
+6195,ACH022,SONY,978,Pereira,Jose Cano
+564,ACH022,Kalley,1004,Medellin,Juan P
+9853,ACH43,Kalley,142,Pereira,Juan P
+3396,ACH022,SONY,1028,Cali,Juan Jose
+5820,ACH01,SONY,768,Pereira,Jennifer
+3902,ACH43,SONY,788,Cali,Jennifer
+4590,ACH022,RICO,1136,Bucaramanga,Jennifer
+6899,ACH022,RICO,397,Cali,Jose Cano
+2165,ACH01,SONY,715,Medellin,Juan P
+8675,ACH43,RICO,1591,Bucaramanga,Jose Cano
+2860,ACH022,Kalley,1724,Pereira,Camila B
+8442,ACH022,Kalley,858,Cali,Jennifer
+5931,ACH022,Kalley,1970,Pereira,Juan Jose
+3260,ACH022,SONY,1012,Bucaramanga,Juan P
+2000,ACH01,RICO,1216,Bucaramanga,Jennifer
+3710,ACH022,Kalley,673,Pereira,Juan P
+7026,ACH01,SONY,764,Bogota,Juan Jose
+8009,ACH01,RICO,1926,Bucaramanga,Jennifer
+7181,ACH43,RICO,281,Medellin,Jennifer
+4051,ACH01,Kalley,889,Pereira,Juan P
+8902,ACH01,RICO,1819,Bucaramanga,Juan Jose
+8730,ACH01,SONY,1708,Medellin,Juan P
+632,ACH022,RICO,423,Cali,Juan Jose
+6868,ACH01,Kalley,1598,Medellin,Camila B
+9898,ACH43,Kalley,1390,Pereira,Camila B
+3422,ACH01,Kalley,778,Cali,Jennifer
+8315,ACH01,RICO,497,Cali,Jennifer
+8562,ACH022,SONY,490,Pereira,Jennifer
+9615,ACH43,SONY,439,Medellin,Juan Jose
+8207,ACH43,Kalley,1477,Cali,Jose Cano
+2766,ACH43,SONY,511,Pereira,Camila B
+7756,ACH022,Kalley,934,Cali,Camila B
+6163,ACH43,SONY,1612,Bucaramanga,Camila B
+3183,ACH01,RICO,1793,Pereira,Camila B
+2684,ACH01,SONY,1585,Medellin,Jennifer
+4233,ACH022,SONY,1563,Bucaramanga,Juan P
+2709,ACH01,SONY,225,Cali,Juan Jose
+2346,ACH43,RICO,399,Cali,Juan P
+1090,ACH01,Kalley,899,Cali,Juan Jose
+6770,ACH43,Kalley,997,Cali,Jennifer
+7400,ACH01,RICO,172,Cali,Juan Jose
+1054,ACH43,SONY,1522,Cali,Juan Jose
+3724,ACH01,RICO,444,Bogota,Camila B
+9764,ACH01,RICO,1469,Pereira,Camila B
+3630,ACH022,SONY,1120,Pereira,Juan P
+8861,ACH01,RICO,792,Bogota,Camila B
+3460,ACH43,Kalley,1010,Pereira,Juan Jose
+8411,ACH022,RICO,539,Pereira,Juan Jose
+2006,ACH01,SONY,110,Bucaramanga,Jennifer
+6400,ACH43,Kalley,1371,Pereira,Jennifer
+6878,ACH022,Kalley,1092,Bucaramanga,Jose Cano
+195,ACH43,SONY,1644,Cali,Jennifer
+8686,ACH43,SONY,1178,Medellin,Juan Jose
+3722,ACH01,SONY,444,Medellin,Juan Jose
+2627,ACH43,SONY,413,Pereira,Jennifer
+5578,ACH022,Kalley,1187,Bogota,Jose Cano
+1801,ACH01,SONY,1308,Pereira,Jose Cano
+9596,ACH01,Kalley,1343,Pereira,Juan P
+4150,ACH43,SONY,454,Pereira,Jennifer
+6093,ACH022,SONY,245,Pereira,Juan P
+2914,ACH022,SONY,1671,Bucaramanga,Jose Cano
+8688,ACH43,RICO,289,Bogota,Juan P
+1189,ACH022,Kalley,921,Medellin,Juan P
+2946,ACH022,RICO,100,Bucaramanga,Juan P
+1663,ACH01,Kalley,882,Pereira,Camila B
+6397,ACH022,RICO,590,Bogota,Jose Cano
+8456,ACH01,Kalley,431,Medellin,Juan Jose
+7287,ACH022,Kalley,1720,Cali,Juan P
+5579,ACH43,Kalley,1792,Pereira,Camila B
+7214,ACH022,Kalley,217,Medellin,Juan Jose
+5254,ACH43,SONY,388,Bogota,Juan Jose
+8112,ACH022,SONY,1814,Bogota,Camila B
+1218,ACH022,RICO,936,Pereira,Jennifer
+8924,ACH43,RICO,1388,Medellin,Juan Jose
+1827,ACH01,SONY,1441,Medellin,Camila B
+4532,ACH022,SONY,1026,Bogota,Jose Cano
+7388,ACH022,SONY,1209,Pereira,Juan Jose
+7108,ACH022,Kalley,1867,Pereira,Camila B
+4748,ACH43,SONY,1834,Pereira,Camila B
+6246,ACH022,SONY,1274,Cali,Juan P
+3980,ACH01,SONY,1979,Pereira,Juan Jose
+9028,ACH43,RICO,657,Pereira,Juan Jose
+5830,ACH01,RICO,1211,Bogota,Jose Cano
+9605,ACH01,SONY,792,Bogota,Juan P
+4858,ACH43,SONY,298,Cali,Camila B
+2068,ACH43,SONY,917,Medellin,Juan P
+2005,ACH01,RICO,917,Bucaramanga,Jose Cano
+8752,ACH01,SONY,1679,Pereira,Jose Cano
+4503,ACH022,Kalley,611,Cali,Juan P
+5504,ACH43,RICO,751,Cali,Juan Jose
+3736,ACH43,SONY,976,Medellin,Camila B
+7587,ACH43,Kalley,844,Bucaramanga,Juan Jose
+8836,ACH022,Kalley,654,Cali,Juan P
+5572,ACH022,RICO,1448,Pereira,Juan P
+537,ACH43,SONY,1493,Medellin,Jose Cano
+2190,ACH01,Kalley,503,Medellin,Jose Cano
+9791,ACH022,SONY,655,Medellin,Jose Cano
+7901,ACH01,Kalley,1818,Bucaramanga,Jennifer
+5552,ACH01,RICO,1141,Bogota,Camila B
+7774,ACH01,RICO,305,Cali,Jennifer
+3403,ACH022,RICO,1566,Pereira,Juan P
+914,ACH022,SONY,1562,Medellin,Camila B
+3265,ACH43,RICO,479,Bogota,Jose Cano
+412,ACH022,SONY,1174,Bogota,Jose Cano
+5431,ACH01,RICO,1145,Medellin,Jose Cano
+3009,ACH43,SONY,1379,Bogota,Juan P
+8847,ACH43,RICO,1589,Medellin,Jose Cano
+3346,ACH022,Kalley,470,Bucaramanga,Jennifer
+3579,ACH01,Kalley,1777,Bogota,Juan Jose
+4935,ACH43,RICO,1291,Pereira,Camila B
+9341,ACH01,SONY,612,Medellin,Camila B
+2481,ACH43,RICO,625,Bucaramanga,Juan Jose
+89,ACH022,SONY,1297,Bucaramanga,Juan Jose
+2618,ACH43,RICO,1292,Bucaramanga,Jennifer
+5314,ACH022,Kalley,1723,Bucaramanga,Camila B
+5152,ACH022,SONY,240,Bogota,Juan P
+896,ACH022,SONY,1606,Medellin,Juan P
+9617,ACH43,RICO,1496,Pereira,Jose Cano
+1871,ACH43,SONY,202,Bogota,Jose Cano
+716,ACH01,SONY,486,Medellin,Juan Jose
+2770,ACH022,Kalley,691,Bucaramanga,Jose Cano
+8853,ACH43,SONY,1774,Medellin,Jose Cano
+2370,ACH022,Kalley,1493,Bucaramanga,Juan P
+9134,ACH022,SONY,1554,Bucaramanga,Jennifer
+6205,ACH022,SONY,1283,Medellin,Juan Jose
+1911,ACH01,SONY,634,Pereira,Jennifer
+5352,ACH022,Kalley,1379,Cali,Juan P
+1861,ACH022,SONY,1900,Cali,Juan Jose
+6533,ACH01,Kalley,1442,Bucaramanga,Juan P
+802,ACH01,SONY,1103,Pereira,Juan Jose
+4977,ACH01,RICO,998,Pereira,Juan Jose
+3667,ACH022,RICO,625,Bucaramanga,Jennifer
+7874,ACH01,SONY,1236,Cali,Camila B
+2913,ACH01,SONY,1727,Bucaramanga,Camila B
+2680,ACH01,SONY,1123,Medellin,Juan Jose
+2641,ACH022,RICO,1953,Medellin,Juan Jose
+2590,ACH01,Kalley,1789,Bogota,Jennifer
+9930,ACH01,RICO,1133,Cali,Camila B
+9857,ACH01,SONY,513,Medellin,Jennifer
+6254,ACH022,RICO,485,Medellin,Juan Jose
+4906,ACH43,SONY,1088,Bogota,Juan P
+2324,ACH43,Kalley,253,Medellin,Camila B
+763,ACH43,SONY,212,Medellin,Juan Jose
+9194,ACH01,Kalley,1456,Bucaramanga,Juan P
+1400,ACH43,RICO,789,Pereira,Jennifer
+7990,ACH43,SONY,616,Pereira,Camila B
+8230,ACH01,Kalley,768,Bucaramanga,Jennifer
+3745,ACH01,Kalley,112,Pereira,Camila B
+850,ACH43,RICO,1465,Cali,Jennifer
+9038,ACH022,SONY,263,Medellin,Juan P
+3366,ACH01,RICO,273,Bucaramanga,Juan Jose
+6626,ACH43,SONY,702,Bogota,Juan P
+5449,ACH022,SONY,544,Bucaramanga,Jose Cano
+150,ACH022,RICO,444,Bogota,Jennifer
+655,ACH01,RICO,1310,Pereira,Juan P
+9859,ACH022,RICO,253,Cali,Juan P
+7478,ACH01,Kalley,881,Medellin,Jose Cano
+2552,ACH01,RICO,1017,Cali,Camila B
+107,ACH01,Kalley,1140,Bucaramanga,Juan Jose
+4570,ACH022,RICO,1868,Bogota,Camila B
+1901,ACH022,RICO,529,Bucaramanga,Jose Cano
+5485,ACH01,SONY,339,Bogota,Jennifer
+5162,ACH022,RICO,864,Bogota,Camila B
+706,ACH43,RICO,1220,Medellin,Jose Cano
+3981,ACH022,Kalley,637,Bucaramanga,Jennifer
+5546,ACH022,SONY,1055,Pereira,Jose Cano
+3994,ACH43,Kalley,1900,Medellin,Juan Jose
+4893,ACH022,SONY,456,Cali,Jose Cano
+9834,ACH43,RICO,306,Pereira,Juan Jose
+1040,ACH43,Kalley,135,Bucaramanga,Camila B
+8338,ACH022,SONY,1748,Pereira,Juan Jose
+8437,ACH01,RICO,583,Cali,Juan Jose
+5317,ACH01,SONY,516,Bogota,Juan P
+4004,ACH43,RICO,1431,Pereira,Camila B
+5611,ACH022,SONY,1684,Cali,Juan P
+9829,ACH01,Kalley,1182,Pereira,Jose Cano
+8413,ACH01,SONY,1706,Pereira,Jose Cano
+6336,ACH01,RICO,266,Bucaramanga,Camila B
+7641,ACH01,Kalley,1851,Medellin,Jennifer
+7519,ACH01,SONY,546,Bucaramanga,Juan P
+3121,ACH022,RICO,1133,Pereira,Camila B
+3023,ACH43,SONY,1360,Cali,Jose Cano
+4812,ACH022,RICO,296,Pereira,Camila B
+7095,ACH022,RICO,1884,Bogota,Juan Jose
+7966,ACH022,Kalley,593,Pereira,Jennifer
+1816,ACH01,Kalley,1261,Bucaramanga,Juan P
+5032,ACH43,RICO,1582,Medellin,Jose Cano
+8217,ACH022,Kalley,1721,Bogota,Juan P
+7051,ACH43,Kalley,868,Pereira,Juan P
+7009,ACH01,Kalley,1791,Bogota,Juan Jose
+441,ACH022,Kalley,531,Pereira,Jose Cano
+1293,ACH43,SONY,1585,Cali,Juan P
+5049,ACH01,RICO,1898,Bogota,Jose Cano
+4799,ACH022,RICO,236,Cali,Camila B
+6501,ACH43,Kalley,835,Medellin,Camila B
+6105,ACH43,Kalley,466,Bucaramanga,Juan Jose
+2432,ACH01,SONY,1152,Bucaramanga,Jennifer
+2473,ACH01,Kalley,287,Bogota,Juan Jose
+3872,ACH022,Kalley,1304,Cali,Juan P
+2128,ACH022,Kalley,1531,Medellin,Juan P
+553,ACH43,RICO,1680,Pereira,Jennifer
+2964,ACH022,SONY,739,Bucaramanga,Jennifer
+7469,ACH01,Kalley,666,Medellin,Jennifer
+1793,ACH01,SONY,433,Medellin,Camila B
+7476,ACH01,Kalley,484,Bucaramanga,Camila B
+4513,ACH01,Kalley,1923,Cali,Jose Cano
+2194,ACH43,Kalley,738,Bucaramanga,Jose Cano
+6744,ACH43,SONY,905,Bucaramanga,Juan Jose
+3642,ACH022,RICO,987,Bucaramanga,Juan P
+7422,ACH01,SONY,880,Bogota,Juan P
+2503,ACH022,Kalley,1666,Bucaramanga,Juan P
+560,ACH022,SONY,1547,Cali,Juan P
+1029,ACH43,Kalley,1226,Pereira,Camila B
+9009,ACH022,Kalley,1840,Bogota,Jose Cano
+3354,ACH022,Kalley,132,Bogota,Jennifer
+5194,ACH01,Kalley,168,Medellin,Juan Jose
+265,ACH01,Kalley,856,Pereira,Juan Jose
+5355,ACH01,RICO,651,Cali,Camila B
+5722,ACH01,RICO,664,Bogota,Jennifer
+3857,ACH022,Kalley,1157,Bogota,Juan Jose
+308,ACH43,Kalley,927,Medellin,Camila B
+3880,ACH022,SONY,1200,Bogota,Camila B
+1816,ACH01,Kalley,1421,Bucaramanga,Juan P
+6837,ACH022,Kalley,1691,Medellin,Juan P
+5662,ACH022,RICO,1016,Pereira,Camila B
+5608,ACH022,RICO,461,Bogota,Jennifer
+6294,ACH01,SONY,1857,Pereira,Jennifer
+7056,ACH022,SONY,1067,Pereira,Camila B
+2337,ACH43,Kalley,1622,Medellin,Juan P
+4757,ACH022,RICO,325,Medellin,Juan P
+9895,ACH01,SONY,1980,Medellin,Jennifer
+8522,ACH022,Kalley,212,Pereira,Juan P
+727,ACH43,Kalley,202,Cali,Jose Cano
+1377,ACH43,SONY,1759,Cali,Camila B
+1642,ACH01,Kalley,1218,Pereira,Camila B
+8638,ACH43,SONY,807,Medellin,Camila B
+9945,ACH022,RICO,1644,Pereira,Jennifer
+6170,ACH43,Kalley,492,Pereira,Jennifer
+8947,ACH43,RICO,1997,Cali,Jose Cano
+8906,ACH01,SONY,1255,Medellin,Juan P
+6860,ACH43,SONY,462,Pereira,Camila B
+8855,ACH022,Kalley,445,Pereira,Camila B
+3962,ACH43,Kalley,454,Pereira,Juan Jose
+2384,ACH022,SONY,1042,Cali,Camila B
+7915,ACH01,Kalley,297,Medellin,Jose Cano
+6791,ACH022,Kalley,445,Cali,Jose Cano
+9330,ACH01,Kalley,1256,Bucaramanga,Juan Jose
+2671,ACH43,RICO,1507,Bogota,Juan Jose
+8725,ACH43,Kalley,708,Bogota,Juan Jose
+569,ACH022,RICO,1271,Bucaramanga,Camila B
+9656,ACH022,RICO,762,Medellin,Juan Jose
+9376,ACH022,SONY,1608,Bucaramanga,Jennifer
+9412,ACH43,RICO,1764,Bogota,Jose Cano
+2270,ACH43,RICO,1134,Cali,Juan P
+7118,ACH43,RICO,1399,Bucaramanga,Juan Jose
+4413,ACH022,SONY,1697,Pereira,Jose Cano
+9299,ACH43,SONY,1241,Pereira,Juan Jose
+8141,ACH01,RICO,1490,Cali,Juan Jose
+4775,ACH01,Kalley,729,Bogota,Juan Jose
+7343,ACH01,SONY,1045,Pereira,Juan Jose
+2878,ACH43,SONY,294,Bucaramanga,Juan P
+6177,ACH022,RICO,1883,Medellin,Camila B
+4275,ACH01,RICO,1514,Bogota,Jennifer
+3741,ACH01,RICO,514,Bogota,Camila B
+9737,ACH022,RICO,1169,Pereira,Camila B
+3608,ACH01,SONY,1448,Bogota,Jose Cano
+5694,ACH01,Kalley,429,Bucaramanga,Camila B
+2606,ACH022,Kalley,1929,Pereira,Jose Cano
+3227,ACH43,RICO,1760,Bogota,Jose Cano
+9241,ACH022,RICO,1496,Bogota,Camila B
+4305,ACH022,RICO,1568,Pereira,Juan P
+9985,ACH022,SONY,135,Bogota,Camila B
+2075,ACH022,RICO,1410,Bucaramanga,Jennifer
+1376,ACH01,RICO,1206,Medellin,Camila B
+705,ACH43,RICO,1071,Pereira,Jose Cano
+9843,ACH43,RICO,1504,Bucaramanga,Jennifer
+8258,ACH022,Kalley,548,Cali,Juan P
+3792,ACH43,Kalley,283,Pereira,Juan Jose
+5095,ACH022,Kalley,869,Bucaramanga,Juan Jose
+6852,ACH022,RICO,1664,Pereira,Juan Jose
+414,ACH43,RICO,1217,Bogota,Juan Jose
+4450,ACH022,Kalley,856,Bogota,Juan P
+243,ACH022,Kalley,337,Pereira,Juan Jose
+4623,ACH022,Kalley,1981,Cali,Juan Jose
+4614,ACH43,Kalley,681,Medellin,Jose Cano
+2073,ACH01,SONY,1445,Bucaramanga,Jennifer
+4670,ACH022,SONY,1555,Bogota,Juan P
+7390,ACH01,SONY,288,Pereira,Jose Cano
+7779,ACH43,SONY,974,Cali,Jennifer
+1102,ACH43,SONY,1953,Bucaramanga,Jennifer
+484,ACH43,Kalley,941,Bucaramanga,Camila B
+1393,ACH022,Kalley,1175,Bogota,Juan Jose
+4351,ACH01,Kalley,1291,Cali,Juan P
+8533,ACH01,Kalley,1369,Cali,Camila B
+1991,ACH43,Kalley,1838,Pereira,Jose Cano
+8127,ACH01,RICO,1734,Pereira,Juan Jose
+8065,ACH43,RICO,1324,Medellin,Jose Cano
+8131,ACH43,SONY,269,Bogota,Camila B
+5207,ACH43,Kalley,1410,Medellin,Juan Jose
+5399,ACH01,Kalley,132,Cali,Jose Cano
+4264,ACH022,RICO,1488,Bogota,Camila B
+7923,ACH022,SONY,154,Medellin,Jose Cano
+1530,ACH022,Kalley,1514,Medellin,Juan Jose
+8683,ACH022,RICO,1872,Cali,Juan P
+9466,ACH01,SONY,584,Cali,Jennifer
+7180,ACH43,Kalley,1647,Pereira,Juan P
+3217,ACH43,Kalley,1571,Medellin,Camila B
+389,ACH01,SONY,979,Cali,Jennifer
+157,ACH43,Kalley,161,Bogota,Camila B
+7865,ACH022,RICO,1304,Pereira,Jose Cano
+9482,ACH43,RICO,894,Cali,Camila B
+948,ACH01,RICO,1412,Bogota,Juan P
+7887,ACH01,SONY,966,Medellin,Jose Cano
+45,ACH43,SONY,356,Bucaramanga,Jose Cano
+7481,ACH43,Kalley,572,Cali,Jennifer
+4154,ACH022,Kalley,1994,Bogota,Juan P
+7683,ACH01,Kalley,1201,Medellin,Camila B
+1100,ACH01,RICO,169,Bucaramanga,Jennifer
+576,ACH022,Kalley,472,Pereira,Juan P
+7881,ACH022,SONY,1876,Pereira,Juan Jose
+3672,ACH022,Kalley,813,Pereira,Jose Cano
+4227,ACH43,SONY,446,Medellin,Camila B
+6050,ACH01,SONY,1216,Pereira,Juan Jose
+5656,ACH43,Kalley,818,Bogota,Juan Jose
+7433,ACH022,Kalley,347,Pereira,Jose Cano
+5902,ACH022,RICO,1012,Medellin,Camila B
+613,ACH01,Kalley,1659,Cali,Juan P
+2844,ACH022,SONY,973,Medellin,Camila B
+6399,ACH01,SONY,873,Pereira,Juan P
+8343,ACH01,RICO,443,Bucaramanga,Jose Cano
+805,ACH43,RICO,817,Cali,Camila B
+3896,ACH01,RICO,1623,Bucaramanga,Jose Cano
+2619,ACH43,Kalley,968,Bucaramanga,Jose Cano
+4927,ACH01,Kalley,1733,Pereira,Jose Cano
+7695,ACH01,Kalley,1912,Cali,Jennifer
+8938,ACH01,RICO,1206,Pereira,Jennifer
+3667,ACH022,SONY,1681,Medellin,Juan Jose
+2097,ACH01,Kalley,120,Pereira,Jennifer
+9408,ACH022,SONY,217,Bucaramanga,Camila B
+9226,ACH43,SONY,333,Bogota,Jennifer
+6001,ACH01,SONY,941,Cali,Jose Cano
+4863,ACH022,Kalley,1713,Bogota,Juan P
+261,ACH01,RICO,324,Bogota,Camila B
+7004,ACH01,SONY,354,Cali,Jennifer
+5523,ACH43,RICO,771,Bogota,Jennifer
+1814,ACH022,Kalley,1090,Pereira,Juan Jose
+9133,ACH01,Kalley,1587,Bucaramanga,Camila B
+2858,ACH43,SONY,1460,Bogota,Juan P
+1412,ACH01,SONY,845,Medellin,Camila B
+6851,ACH01,SONY,1012,Cali,Jose Cano
+451,ACH43,Kalley,765,Bucaramanga,Jennifer
+2954,ACH43,RICO,1562,Medellin,Juan Jose
+9591,ACH01,SONY,657,Pereira,Jose Cano
+5498,ACH022,SONY,932,Medellin,Jennifer
+1200,ACH01,SONY,1560,Medellin,Jennifer
+3097,ACH43,Kalley,635,Cali,Juan Jose
+838,ACH01,RICO,358,Pereira,Camila B
+7273,ACH01,RICO,1209,Medellin,Jennifer
+604,ACH022,SONY,686,Pereira,Jose Cano
+7748,ACH43,SONY,1927,Cali,Camila B
+4910,ACH01,SONY,848,Bogota,Juan P
+7734,ACH022,SONY,379,Bogota,Juan P
+5132,ACH01,Kalley,1456,Pereira,Jose Cano
+420,ACH01,Kalley,1279,Medellin,Juan P
+2644,ACH43,Kalley,1747,Pereira,Juan P
+5991,ACH022,Kalley,1455,Bucaramanga,Camila B
+3910,ACH43,SONY,937,Bogota,Camila B
+2523,ACH022,RICO,370,Bogota,Camila B
+3276,ACH022,RICO,1475,Cali,Jennifer
+7031,ACH022,SONY,535,Cali,Camila B
+2682,ACH43,SONY,1347,Bogota,Juan Jose
+1710,ACH01,RICO,618,Bogota,Juan P
+797,ACH022,Kalley,1102,Medellin,Jennifer
+4334,ACH01,SONY,116,Bogota,Jose Cano
+2977,ACH43,RICO,1541,Pereira,Jennifer
+3653,ACH022,SONY,781,Medellin,Juan Jose
+845,ACH01,SONY,1840,Cali,Juan P
+2785,ACH01,SONY,119,Bogota,Juan Jose
+3919,ACH022,SONY,119,Pereira,Jose Cano
+6459,ACH43,Kalley,551,Pereira,Juan Jose
+983,ACH43,SONY,1922,Cali,Jose Cano
+8648,ACH43,Kalley,1899,Pereira,Jose Cano
+8956,ACH43,RICO,1206,Bucaramanga,Juan P
+8145,ACH01,RICO,795,Bucaramanga,Camila B
+4145,ACH022,SONY,1345,Bogota,Jennifer
+4668,ACH01,RICO,628,Pereira,Jose Cano
+5263,ACH022,RICO,381,Bucaramanga,Juan Jose
+3575,ACH01,Kalley,833,Cali,Jose Cano
+2585,ACH43,SONY,964,Medellin,Camila B
+109,ACH01,RICO,203,Bogota,Juan Jose
+7270,ACH01,SONY,1766,Bucaramanga,Jennifer
+7930,ACH022,RICO,1659,Cali,Jennifer
+1414,ACH022,SONY,1543,Bogota,Juan Jose
+6953,ACH43,SONY,1211,Medellin,Juan Jose
+9461,ACH022,Kalley,1195,Pereira,Juan P
+9325,ACH43,Kalley,1855,Bogota,Juan P
+2615,ACH022,RICO,1731,Pereira,Juan Jose
+1833,ACH022,Kalley,832,Medellin,Jose Cano
+3561,ACH43,SONY,1247,Bogota,Jose Cano
+5540,ACH43,Kalley,760,Pereira,Jennifer
+2787,ACH43,SONY,1997,Bucaramanga,Camila B
+2589,ACH022,RICO,1958,Pereira,Jennifer
+7584,ACH01,SONY,329,Bucaramanga,Juan Jose
+6857,ACH022,RICO,1505,Bogota,Camila B
+9834,ACH022,RICO,1588,Bucaramanga,Jose Cano
+5818,ACH01,SONY,1398,Bucaramanga,Jennifer
+9174,ACH01,SONY,1477,Pereira,Camila B
+250,ACH01,Kalley,207,Bogota,Juan Jose
+2690,ACH43,SONY,1020,Cali,Juan Jose
+5610,ACH43,Kalley,967,Bogota,Jose Cano
+6099,ACH022,RICO,109,Pereira,Juan P
+1077,ACH43,RICO,259,Medellin,Juan P
+5982,ACH01,SONY,260,Pereira,Jose Cano
+2936,ACH022,RICO,1320,Pereira,Juan Jose
+9791,ACH43,SONY,529,Bucaramanga,Juan Jose
+7652,ACH01,Kalley,811,Bogota,Juan P
+3677,ACH022,Kalley,1804,Bogota,Juan Jose
+6715,ACH022,Kalley,413,Medellin,Jennifer
+859,ACH43,SONY,810,Medellin,Juan Jose
+9211,ACH022,SONY,1859,Cali,Camila B
+1477,ACH43,RICO,1275,Bogota,Jennifer
+1420,ACH022,RICO,128,Bogota,Juan P
+3318,ACH01,RICO,149,Bogota,Jennifer
+9826,ACH01,SONY,1997,Medellin,Jennifer
+4843,ACH43,RICO,1093,Bogota,Jose Cano
+6816,ACH022,Kalley,843,Bucaramanga,Juan Jose
+8426,ACH022,Kalley,269,Bucaramanga,Juan Jose
+7500,ACH022,RICO,528,Bucaramanga,Juan Jose
+5124,ACH43,SONY,1166,Pereira,Jose Cano
+8871,ACH01,SONY,1278,Bucaramanga,Juan P
+734,ACH01,RICO,610,Cali,Juan Jose
+2970,ACH022,Kalley,1410,Cali,Jose Cano
+6841,ACH01,Kalley,1155,Cali,Camila B
+5362,ACH01,Kalley,1406,Cali,Juan Jose
+2982,ACH022,Kalley,1329,Bucaramanga,Jennifer
+9098,ACH43,Kalley,1127,Pereira,Camila B
+175,ACH01,Kalley,1205,Bucaramanga,Juan P
+7715,ACH43,SONY,1627,Pereira,Juan P
+9435,ACH01,Kalley,1167,Bogota,Camila B
+6846,ACH01,RICO,291,Pereira,Jose Cano
+4802,ACH43,SONY,631,Bogota,Camila B
+3919,ACH43,RICO,995,Cali,Juan P
+5851,ACH43,SONY,901,Pereira,Camila B
+9269,ACH43,RICO,1956,Pereira,Juan Jose
+7464,ACH43,SONY,632,Bogota,Jennifer
+1396,ACH022,Kalley,1425,Pereira,Camila B
+5639,ACH022,RICO,819,Medellin,Juan Jose
+2279,ACH01,Kalley,115,Bogota,Juan Jose
+9506,ACH01,SONY,1091,Cali,Jose Cano
+8511,ACH43,RICO,1745,Cali,Camila B
+1482,ACH022,RICO,1441,Cali,Juan P
+7850,ACH01,RICO,1369,Bucaramanga,Jennifer
+8500,ACH43,SONY,1532,Cali,Jose Cano
+3351,ACH43,SONY,1961,Pereira,Juan Jose
+3618,ACH01,Kalley,1773,Bogota,Juan P
+8309,ACH022,SONY,781,Pereira,Juan Jose
+4674,ACH022,RICO,1292,Medellin,Jose Cano
+7537,ACH01,SONY,879,Medellin,Camila B
+880,ACH022,RICO,466,Bogota,Jennifer
+9523,ACH43,Kalley,1375,Bogota,Juan Jose
+8133,ACH43,RICO,1023,Medellin,Juan P
+3669,ACH43,Kalley,980,Bucaramanga,Camila B
+4835,ACH43,RICO,1599,Bucaramanga,Juan P
+4789,ACH022,RICO,846,Bucaramanga,Juan P
+5170,ACH43,RICO,1854,Bogota,Jose Cano
+4216,ACH01,SONY,2000,Bogota,Camila B
+7447,ACH01,Kalley,1117,Medellin,Jennifer
+512,ACH43,Kalley,1404,Bucaramanga,Jose Cano
+9206,ACH43,SONY,1814,Pereira,Juan Jose
+9054,ACH01,Kalley,154,Cali,Jennifer
+9993,ACH43,RICO,1148,Cali,Jose Cano
+7802,ACH01,RICO,1066,Cali,Juan P
+4608,ACH43,SONY,967,Medellin,Jose Cano
+6660,ACH022,Kalley,811,Bucaramanga,Juan P
+4815,ACH01,RICO,259,Pereira,Jennifer
+432,ACH01,Kalley,872,Pereira,Jose Cano
+7014,ACH022,RICO,1727,Cali,Juan Jose
+5522,ACH022,Kalley,1418,Cali,Camila B
+3049,ACH022,RICO,1360,Cali,Jose Cano
+3237,ACH022,Kalley,1831,Bogota,Juan Jose
+7715,ACH022,RICO,400,Medellin,Juan Jose
+8341,ACH01,RICO,584,Bucaramanga,Jose Cano
+5486,ACH43,SONY,1926,Medellin,Jennifer
+928,ACH01,RICO,1861,Pereira,Jennifer
+7773,ACH022,RICO,948,Medellin,Jennifer
+1942,ACH01,SONY,568,Medellin,Jennifer
+2685,ACH01,SONY,1714,Bogota,Jose Cano
+7245,ACH43,RICO,948,Cali,Camila B
+7347,ACH022,Kalley,941,Bucaramanga,Juan Jose
+2690,ACH01,RICO,452,Cali,Jennifer
+3628,ACH43,SONY,1128,Bucaramanga,Jose Cano
+7903,ACH01,SONY,1776,Medellin,Jose Cano
+7776,ACH43,RICO,1508,Cali,Jose Cano
+4210,ACH022,SONY,1682,Pereira,Camila B
+4467,ACH01,Kalley,1640,Cali,Juan Jose
+7876,ACH01,Kalley,754,Cali,Jennifer
+4591,ACH022,RICO,773,Cali,Juan P
+9966,ACH01,SONY,1395,Medellin,Juan P
+9587,ACH022,Kalley,180,Pereira,Juan P
+680,ACH43,Kalley,330,Cali,Juan P
+9742,ACH43,Kalley,231,Bogota,Camila B
+6239,ACH022,RICO,648,Cali,Camila B
+1973,ACH01,Kalley,1618,Bogota,Juan P
+3681,ACH43,Kalley,409,Pereira,Jennifer
+2067,ACH01,SONY,1232,Pereira,Juan P
+8912,ACH01,Kalley,219,Cali,Jennifer
+826,ACH022,Kalley,669,Bogota,Juan Jose
+531,ACH43,Kalley,1118,Bogota,Jose Cano
+3626,ACH01,RICO,139,Cali,Juan P
+6600,ACH022,Kalley,1602,Bogota,Jennifer
+9249,ACH022,SONY,1988,Bucaramanga,Juan Jose
+3171,ACH43,Kalley,687,Cali,Juan Jose
+5442,ACH01,Kalley,1158,Medellin,Jose Cano
+982,ACH01,Kalley,1674,Pereira,Juan P
+8177,ACH43,SONY,1836,Bogota,Juan P
+6087,ACH022,SONY,1075,Pereira,Camila B
+1524,ACH022,RICO,1143,Bogota,Juan P
+797,ACH43,SONY,1463,Bogota,Juan Jose
+4153,ACH022,SONY,1614,Cali,Juan P
+8125,ACH43,Kalley,701,Medellin,Camila B
+8309,ACH022,Kalley,1003,Medellin,Juan P
+8360,ACH43,Kalley,902,Bucaramanga,Jose Cano
+4426,ACH43,RICO,1717,Bucaramanga,Juan P
+6774,ACH022,SONY,315,Pereira,Camila B
+4209,ACH022,SONY,828,Cali,Jennifer
+8358,ACH01,SONY,1145,Bucaramanga,Jennifer
+6557,ACH022,RICO,1648,Cali,Jennifer
+885,ACH022,SONY,1379,Cali,Juan P
+5179,ACH43,Kalley,105,Bogota,Camila B
+8816,ACH01,Kalley,1703,Medellin,Jennifer
+881,ACH01,SONY,427,Pereira,Juan Jose
+8825,ACH43,Kalley,858,Cali,Juan Jose
+6698,ACH01,SONY,315,Pereira,Jose Cano
+7401,ACH01,Kalley,1113,Pereira,Juan Jose
+8735,ACH01,SONY,193,Bogota,Camila B
+8167,ACH43,Kalley,1410,Pereira,Jose Cano
+8167,ACH022,SONY,756,Pereira,Juan P
+1861,ACH43,SONY,1517,Cali,Camila B
+5740,ACH43,RICO,1901,Bucaramanga,Juan Jose
+296,ACH01,SONY,1766,Bogota,Camila B
+6438,ACH022,RICO,800,Pereira,Juan P
+92,ACH01,Kalley,1681,Bogota,Juan Jose
+5579,ACH022,RICO,443,Medellin,Juan P
+8748,ACH01,SONY,1668,Bogota,Juan Jose
+8614,ACH01,SONY,1216,Medellin,Jennifer
+6382,ACH01,SONY,985,Cali,Juan Jose
+8021,ACH022,SONY,730,Pereira,Jose Cano
+2947,ACH43,RICO,1829,Pereira,Juan P
+556,ACH43,SONY,1156,Bucaramanga,Juan P
+6953,ACH43,RICO,1261,Cali,Juan P
+7054,ACH022,Kalley,1686,Cali,Camila B
+4040,ACH022,SONY,1304,Medellin,Jennifer
+3225,ACH022,RICO,1281,Bogota,Juan P
+8499,ACH01,SONY,1948,Bucaramanga,Jose Cano
+6939,ACH43,Kalley,519,Bucaramanga,Jennifer
+4110,ACH43,Kalley,1276,Cali,Juan P
+3521,ACH022,Kalley,1092,Pereira,Juan Jose
+5575,ACH43,RICO,592,Bucaramanga,Jose Cano
+2721,ACH022,RICO,1370,Bogota,Juan P
+8861,ACH43,SONY,873,Cali,Jennifer
+8189,ACH01,SONY,282,Bogota,Juan P
+8880,ACH43,SONY,1356,Medellin,Juan P
+284,ACH43,RICO,1213,Pereira,Camila B
+7214,ACH01,Kalley,825,Cali,Jose Cano
+1925,ACH43,Kalley,1816,Medellin,Jennifer
+3030,ACH022,Kalley,1716,Cali,Jennifer
+9401,ACH43,Kalley,773,Medellin,Juan Jose
+7833,ACH022,SONY,304,Pereira,Juan P
+2945,ACH43,Kalley,299,Cali,Jennifer
+8091,ACH43,Kalley,1660,Medellin,Juan P
+6649,ACH01,SONY,1594,Bucaramanga,Juan P
+6372,ACH022,SONY,803,Cali,Jose Cano
+1278,ACH022,RICO,420,Pereira,Juan P
+9266,ACH022,RICO,1894,Pereira,Juan Jose
+3159,ACH022,RICO,126,Medellin,Camila B
+5645,ACH01,Kalley,1138,Pereira,Juan P
+9047,ACH022,RICO,1032,Cali,Juan Jose
+4667,ACH022,RICO,783,Bucaramanga,Jose Cano
+9349,ACH01,Kalley,601,Pereira,Juan Jose
+8091,ACH43,Kalley,1639,Bucaramanga,Camila B
+4822,ACH43,Kalley,1701,Medellin,Juan P
+8728,ACH022,SONY,805,Medellin,Camila B
+8363,ACH01,SONY,247,Bogota,Camila B
+9088,ACH01,SONY,271,Bogota,Camila B
+1293,ACH43,SONY,1581,Pereira,Juan P
+6341,ACH43,Kalley,1994,Bucaramanga,Jennifer
+2228,ACH01,SONY,1783,Bucaramanga,Juan Jose
+4966,ACH01,RICO,1691,Medellin,Juan Jose
+7773,ACH43,RICO,178,Cali,Juan P
+2546,ACH022,SONY,1446,Bucaramanga,Juan P
+7447,ACH43,SONY,1922,Bogota,Jennifer
+303,ACH43,RICO,683,Cali,Camila B
+7156,ACH022,RICO,1754,Pereira,Jose Cano
+7159,ACH01,SONY,771,Bogota,Juan Jose
+7471,ACH43,SONY,898,Cali,Jennifer
+7323,ACH01,Kalley,576,Pereira,Jose Cano
+529,ACH01,Kalley,146,Cali,Juan Jose
+4926,ACH022,SONY,1522,Pereira,Juan P
+2206,ACH01,SONY,1306,Medellin,Jose Cano
+9050,ACH022,SONY,346,Bogota,Jose Cano
+3269,ACH01,RICO,1704,Cali,Camila B
+1015,ACH022,RICO,695,Bogota,Jose Cano
+2096,ACH01,Kalley,1708,Medellin,Juan Jose
+5363,ACH43,Kalley,384,Bogota,Juan Jose
+8191,ACH022,SONY,1520,Bucaramanga,Juan Jose
+5660,ACH01,Kalley,1838,Cali,Juan Jose
+41,ACH022,Kalley,1968,Cali,Camila B
+5506,ACH01,Kalley,1740,Cali,Jennifer
+6085,ACH43,SONY,1313,Medellin,Jennifer
+3788,ACH01,RICO,1679,Pereira,Juan P
+9830,ACH022,RICO,1737,Cali,Jose Cano
+743,ACH43,RICO,695,Cali,Jose Cano
+1133,ACH43,RICO,1072,Medellin,Jose Cano
+4150,ACH43,SONY,117,Bogota,Juan P
+9172,ACH01,RICO,1835,Bucaramanga,Camila B
+2255,ACH43,Kalley,389,Cali,Juan Jose
+2811,ACH43,SONY,993,Cali,Jennifer
+5620,ACH01,SONY,629,Cali,Jennifer
+3531,ACH01,RICO,1445,Medellin,Juan P
+3571,ACH43,SONY,1310,Cali,Camila B
+3096,ACH01,RICO,929,Medellin,Juan Jose
+6947,ACH022,SONY,1022,Pereira,Juan P
+5616,ACH022,Kalley,1137,Bogota,Juan P
+8523,ACH43,Kalley,1342,Bucaramanga,Juan Jose
+556,ACH43,RICO,271,Bogota,Jennifer
+703,ACH01,RICO,1089,Pereira,Jose Cano
+3340,ACH43,SONY,1312,Bogota,Jennifer
+2729,ACH022,SONY,1886,Bogota,Jose Cano
+2404,ACH01,RICO,1872,Pereira,Camila B
+5906,ACH43,RICO,1696,Pereira,Camila B
+320,ACH01,RICO,1155,Bucaramanga,Jennifer
+1152,ACH43,SONY,1235,Bucaramanga,Juan Jose
+2506,ACH01,RICO,787,Bogota,Juan P
+8334,ACH022,RICO,716,Bogota,Juan Jose
+983,ACH01,RICO,978,Pereira,Jennifer
+2655,ACH022,Kalley,739,Bucaramanga,Jennifer
+4318,ACH01,Kalley,1021,Bogota,Juan Jose
+8137,ACH43,Kalley,516,Bucaramanga,Juan P
+5669,ACH01,SONY,297,Pereira,Jose Cano
+52,ACH022,Kalley,1018,Medellin,Juan Jose
+8013,ACH43,SONY,1315,Bucaramanga,Camila B
+799,ACH01,RICO,103,Medellin,Juan P
+6518,ACH43,SONY,533,Cali,Camila B
+9906,ACH43,Kalley,1094,Medellin,Jose Cano
+8947,ACH022,SONY,1710,Medellin,Juan P
+5560,ACH022,SONY,1075,Pereira,Camila B
+978,ACH022,SONY,368,Medellin,Jose Cano
+5491,ACH43,RICO,1101,Medellin,Juan Jose
+6800,ACH01,RICO,898,Pereira,Jose Cano
+714,ACH01,RICO,990,Cali,Jennifer
+5028,ACH01,SONY,1634,Cali,Juan Jose
+8562,ACH022,RICO,200,Pereira,Camila B
+7891,ACH022,Kalley,525,Cali,Camila B
+8549,ACH01,Kalley,1701,Cali,Juan P
+5448,ACH43,RICO,1765,Bucaramanga,Juan Jose
+8057,ACH022,SONY,1196,Cali,Jose Cano
+2301,ACH01,Kalley,1471,Bogota,Juan Jose
+3834,ACH022,SONY,924,Pereira,Juan Jose
+6923,ACH43,SONY,348,Bogota,Jennifer
+4125,ACH022,SONY,868,Medellin,Juan Jose
+1474,ACH43,Kalley,476,Medellin,Jose Cano
+1707,ACH43,SONY,289,Bogota,Juan P
+2468,ACH43,SONY,1916,Pereira,Camila B
+3521,ACH01,Kalley,1080,Cali,Jennifer
+7997,ACH43,SONY,1429,Pereira,Juan P
+7399,ACH01,Kalley,1891,Pereira,Juan Jose
+3364,ACH43,RICO,1860,Cali,Juan P
+9042,ACH01,RICO,270,Medellin,Juan P
+5750,ACH43,Kalley,356,Medellin,Juan Jose
+4276,ACH022,RICO,1730,Bucaramanga,Juan Jose
+2237,ACH01,Kalley,1304,Bogota,Juan Jose
+5557,ACH01,Kalley,1395,Cali,Juan Jose
+4952,ACH43,SONY,1116,Bogota,Juan Jose
+3521,ACH022,RICO,1959,Medellin,Camila B
+7719,ACH022,SONY,1255,Bucaramanga,Juan P
+7185,ACH43,Kalley,1759,Bogota,Jose Cano
+2709,ACH022,SONY,1739,Pereira,Jennifer
+4143,ACH022,Kalley,692,Medellin,Jose Cano
+5129,ACH43,RICO,768,Medellin,Juan P
+3293,ACH022,SONY,1637,Cali,Jose Cano
+6561,ACH43,SONY,1772,Cali,Juan P
+1890,ACH022,Kalley,584,Pereira,Juan Jose
+6602,ACH022,SONY,232,Bucaramanga,Camila B
+4648,ACH01,RICO,1322,Cali,Juan Jose
+4566,ACH022,RICO,961,Bogota,Jose Cano
+2993,ACH022,Kalley,530,Cali,Camila B
+5856,ACH01,SONY,851,Bogota,Camila B
+5129,ACH43,SONY,1795,Pereira,Juan P
+9086,ACH01,SONY,1898,Pereira,Camila B
+3609,ACH43,Kalley,1709,Bogota,Jennifer
+3063,ACH01,Kalley,156,Cali,Camila B
+788,ACH43,SONY,1498,Bogota,Jose Cano
+8471,ACH022,RICO,975,Bogota,Jose Cano
+3554,ACH01,SONY,171,Cali,Juan P
+4883,ACH43,RICO,563,Cali,Juan Jose
+2977,ACH01,Kalley,1772,Bogota,Jennifer
+6692,ACH01,RICO,219,Pereira,Jose Cano
+3909,ACH022,RICO,1604,Cali,Juan Jose
+8863,ACH43,SONY,313,Bucaramanga,Jose Cano
+4261,ACH43,RICO,451,Pereira,Jennifer
+2371,ACH01,SONY,150,Cali,Jose Cano
+6869,ACH43,RICO,1826,Cali,Juan Jose
+7769,ACH01,SONY,310,Cali,Juan P
+1016,ACH01,SONY,313,Cali,Jennifer
+1609,ACH022,RICO,209,Medellin,Juan Jose
+1938,ACH43,RICO,1391,Medellin,Jose Cano
+6583,ACH022,Kalley,1766,Cali,Jose Cano
+5718,ACH022,SONY,134,Bogota,Camila B
+7603,ACH01,Kalley,509,Medellin,Juan P
+5800,ACH01,Kalley,1951,Pereira,Jose Cano
+7324,ACH01,SONY,1680,Bogota,Jose Cano
+9738,ACH01,Kalley,694,Cali,Juan Jose
+1507,ACH43,Kalley,1477,Medellin,Jennifer
+4803,ACH022,Kalley,1918,Cali,Jennifer
+6133,ACH01,SONY,751,Bucaramanga,Camila B
+1089,ACH022,Kalley,922,Bucaramanga,Juan P
+3925,ACH022,SONY,1893,Bucaramanga,Jose Cano
+9655,ACH022,RICO,1569,Pereira,Juan P
+3636,ACH01,SONY,839,Pereira,Juan P
+3401,ACH01,RICO,1038,Medellin,Juan Jose
+59,ACH01,Kalley,101,Pereira,Juan Jose
+1734,ACH43,RICO,1192,Cali,Jose Cano
+4174,ACH43,Kalley,1422,Medellin,Jennifer
+6689,ACH022,RICO,1161,Bogota,Jose Cano
+1152,ACH43,RICO,374,Bogota,Juan Jose
+5184,ACH022,RICO,485,Cali,Jennifer
+4240,ACH43,RICO,525,Bucaramanga,Juan Jose
+573,ACH022,RICO,287,Bucaramanga,Jennifer
+5302,ACH43,SONY,324,Bucaramanga,Jennifer
+4117,ACH01,RICO,1702,Bucaramanga,Jennifer
+7967,ACH022,SONY,790,Cali,Juan Jose
+4265,ACH43,SONY,1186,Bogota,Jennifer
+387,ACH43,SONY,1716,Medellin,Juan P
+9095,ACH022,SONY,507,Bogota,Juan P
+3803,ACH01,Kalley,698,Bogota,Jose Cano
+1475,ACH022,RICO,585,Pereira,Camila B
+8496,ACH43,SONY,542,Pereira,Juan P
+5383,ACH43,SONY,1948,Bogota,Jose Cano
+2564,ACH43,SONY,154,Bucaramanga,Juan Jose
+5072,ACH01,Kalley,1284,Bogota,Camila B
+7935,ACH01,RICO,1543,Bucaramanga,Juan P
+3291,ACH01,Kalley,1879,Pereira,Camila B
+5439,ACH43,RICO,374,Cali,Jose Cano
+9827,ACH01,RICO,563,Bogota,Juan P
+2673,ACH022,SONY,828,Pereira,Jennifer
+1074,ACH01,SONY,408,Medellin,Camila B
+273,ACH01,RICO,709,Bucaramanga,Juan Jose
+2186,ACH022,SONY,727,Medellin,Camila B
+6514,ACH022,SONY,1751,Bogota,Camila B
+4149,ACH43,SONY,325,Cali,Camila B
+5236,ACH022,SONY,1314,Medellin,Juan P
+7891,ACH022,SONY,1041,Bogota,Jennifer
+4566,ACH01,SONY,1190,Pereira,Jose Cano
+947,ACH022,RICO,1128,Medellin,Jose Cano
+2529,ACH43,RICO,1640,Cali,Camila B
+6313,ACH43,Kalley,933,Bogota,Juan Jose
+6412,ACH022,SONY,424,Cali,Juan Jose
+9025,ACH01,SONY,902,Bogota,Juan Jose
+2283,ACH022,RICO,1552,Pereira,Jose Cano
+2277,ACH022,SONY,1032,Medellin,Juan Jose
+4763,ACH43,RICO,466,Pereira,Juan Jose
+8362,ACH01,RICO,709,Bucaramanga,Jennifer
+2733,ACH43,Kalley,449,Cali,Juan P
+9440,ACH01,SONY,1753,Bucaramanga,Juan P
+2153,ACH43,Kalley,1216,Bucaramanga,Jennifer
+157,ACH01,SONY,1539,Medellin,Juan Jose
+7953,ACH01,Kalley,517,Bucaramanga,Camila B
+9334,ACH01,Kalley,1672,Bucaramanga,Jennifer
+1467,ACH01,SONY,982,Pereira,Juan Jose
+2291,ACH022,RICO,1246,Bucaramanga,Jose Cano
+2412,ACH01,RICO,969,Bogota,Juan Jose
+3944,ACH022,Kalley,1747,Pereira,Jennifer
+3495,ACH43,Kalley,1976,Cali,Juan P
+834,ACH01,SONY,1946,Bucaramanga,Camila B
+9183,ACH43,SONY,1032,Medellin,Juan P
+1953,ACH43,Kalley,1997,Bogota,Camila B
+7390,ACH43,RICO,1244,Pereira,Juan P
+3940,ACH01,RICO,775,Cali,Jennifer
+3744,ACH022,RICO,1867,Cali,Jennifer
+8029,ACH01,RICO,518,Cali,Jose Cano
+692,ACH022,SONY,878,Bucaramanga,Jose Cano
+3759,ACH01,RICO,334,Bucaramanga,Jose Cano
+9813,ACH43,SONY,1529,Cali,Jennifer
+2110,ACH022,Kalley,369,Bucaramanga,Juan Jose
+9147,ACH01,Kalley,529,Medellin,Jose Cano
+4049,ACH01,Kalley,892,Bucaramanga,Camila B
+5320,ACH01,RICO,235,Bogota,Juan P
+3889,ACH022,Kalley,1054,Pereira,Jennifer
+2555,ACH01,SONY,276,Bogota,Juan Jose
+8286,ACH01,Kalley,743,Medellin,Jennifer
+396,ACH43,SONY,636,Cali,Jennifer
+891,ACH43,SONY,1852,Bucaramanga,Juan Jose
+5623,ACH01,Kalley,777,Medellin,Jennifer
+4028,ACH01,SONY,753,Cali,Camila B
+2864,ACH01,RICO,1347,Bucaramanga,Juan P
+7335,ACH43,RICO,1702,Bucaramanga,Camila B
+3985,ACH43,RICO,554,Medellin,Jennifer
+2411,ACH01,Kalley,881,Bucaramanga,Juan P
+3451,ACH01,RICO,806,Cali,Jennifer
+3243,ACH01,Kalley,1042,Medellin,Camila B
+4014,ACH01,RICO,1688,Bogota,Camila B
+4335,ACH43,RICO,806,Medellin,Juan P
+5441,ACH43,Kalley,999,Cali,Juan P
+3780,ACH43,RICO,1756,Pereira,Jose Cano
+3523,ACH022,Kalley,1503,Medellin,Camila B
+9549,ACH022,RICO,1324,Bucaramanga,Juan Jose
+3295,ACH022,Kalley,1385,Cali,Jose Cano
+3424,ACH43,Kalley,251,Bucaramanga,Camila B
+4692,ACH022,RICO,1729,Bogota,Camila B
+9732,ACH022,RICO,714,Cali,Jennifer
+8616,ACH01,SONY,696,Bogota,Camila B
+8544,ACH022,SONY,1441,Medellin,Camila B
+8206,ACH43,RICO,1092,Cali,Juan P
+4095,ACH022,RICO,665,Pereira,Juan P
+1059,ACH43,SONY,1698,Bucaramanga,Camila B
+2056,ACH022,Kalley,105,Medellin,Juan P
+9871,ACH43,SONY,1719,Medellin,Juan Jose
+1452,ACH022,Kalley,565,Cali,Juan P
+7301,ACH022,SONY,1534,Bogota,Juan Jose
+6475,ACH022,RICO,1082,Cali,Jennifer
+5475,ACH43,RICO,782,Cali,Camila B
+9638,ACH01,Kalley,1049,Medellin,Camila B
+9912,ACH43,Kalley,1331,Bucaramanga,Jennifer
+3293,ACH01,Kalley,1886,Pereira,Jose Cano
+9504,ACH022,RICO,858,Pereira,Camila B
+7478,ACH01,SONY,1549,Bogota,Juan Jose
+9694,ACH43,Kalley,885,Medellin,Juan Jose
+6565,ACH43,Kalley,1551,Pereira,Jennifer
+2557,ACH022,SONY,771,Bucaramanga,Juan Jose
+7577,ACH01,SONY,1713,Medellin,Jose Cano
+1075,ACH022,RICO,1575,Medellin,Juan Jose
+1225,ACH43,RICO,815,Pereira,Jennifer
+5429,ACH022,Kalley,1136,Pereira,Jennifer
+3829,ACH01,SONY,1400,Cali,Jose Cano
+2272,ACH01,Kalley,1779,Medellin,Camila B
+671,ACH022,Kalley,151,Cali,Jose Cano
+8066,ACH01,SONY,1896,Bucaramanga,Jose Cano
+855,ACH01,SONY,1198,Cali,Juan P
+9954,ACH022,RICO,1529,Bucaramanga,Jennifer
+4365,ACH022,RICO,245,Bucaramanga,Camila B
+5050,ACH01,RICO,1413,Medellin,Jennifer
+134,ACH43,Kalley,936,Bogota,Juan P
+8070,ACH43,RICO,1492,Pereira,Jennifer
+8031,ACH022,Kalley,137,Cali,Jennifer
+8568,ACH01,SONY,612,Cali,Juan P
+8531,ACH022,SONY,1293,Bucaramanga,Juan Jose
+2192,ACH43,RICO,723,Bogota,Jennifer
+6566,ACH022,RICO,1588,Medellin,Juan Jose
+7497,ACH022,RICO,223,Medellin,Juan Jose
+7998,ACH43,Kalley,1383,Bucaramanga,Juan Jose
+1698,ACH022,SONY,266,Bucaramanga,Juan Jose
+8510,ACH022,SONY,134,Cali,Jennifer
+9434,ACH43,SONY,757,Pereira,Juan P
+5108,ACH022,RICO,717,Medellin,Jose Cano
+5447,ACH01,RICO,1613,Pereira,Juan Jose
+4710,ACH43,Kalley,1325,Bucaramanga,Jose Cano
+3904,ACH01,SONY,492,Cali,Jose Cano
+3713,ACH01,RICO,1587,Cali,Jose Cano
+9098,ACH43,RICO,302,Bucaramanga,Jose Cano
+9111,ACH43,Kalley,406,Pereira,Juan Jose
+7288,ACH43,RICO,160,Medellin,Jose Cano
+8366,ACH01,Kalley,1637,Bucaramanga,Camila B
+3837,ACH01,SONY,1896,Cali,Juan Jose
+7244,ACH022,SONY,1633,Medellin,Jose Cano
+9053,ACH43,RICO,1549,Pereira,Camila B
+5115,ACH43,SONY,1903,Medellin,Jennifer
+2422,ACH01,SONY,648,Medellin,Camila B
+4001,ACH01,RICO,587,Cali,Jennifer
+9657,ACH43,RICO,507,Medellin,Jennifer
+2914,ACH022,Kalley,1054,Medellin,Jennifer
+6340,ACH43,Kalley,1010,Cali,Juan Jose
+5053,ACH43,RICO,879,Bogota,Camila B
+1789,ACH01,RICO,113,Bogota,Jose Cano
+2837,ACH01,Kalley,1010,Bogota,Camila B
+5027,ACH022,Kalley,500,Cali,Juan P
+5217,ACH01,RICO,1447,Pereira,Juan Jose
+2441,ACH022,RICO,959,Bucaramanga,Jennifer
+1450,ACH01,Kalley,1455,Cali,Camila B
+6145,ACH022,RICO,1488,Medellin,Juan Jose
+7668,ACH43,RICO,1484,Bogota,Camila B
+2492,ACH43,SONY,265,Medellin,Jose Cano
+2031,ACH01,Kalley,443,Bogota,Jennifer
+5453,ACH43,SONY,1395,Pereira,Camila B
+935,ACH01,Kalley,1138,Pereira,Jose Cano
+8381,ACH43,SONY,972,Cali,Jose Cano
+1290,ACH01,SONY,499,Bogota,Juan Jose
+5190,ACH01,Kalley,1744,Cali,Juan P
+9565,ACH43,SONY,1998,Bucaramanga,Jose Cano
+1477,ACH022,SONY,260,Bucaramanga,Juan P
+5855,ACH022,SONY,447,Bucaramanga,Jose Cano
+5007,ACH43,RICO,922,Pereira,Juan Jose
+3175,ACH022,RICO,1259,Medellin,Jose Cano
+1526,ACH022,RICO,210,Bogota,Camila B
+1909,ACH01,SONY,683,Bucaramanga,Jennifer
+5593,ACH43,Kalley,810,Bucaramanga,Juan P
+7033,ACH022,RICO,1010,Bogota,Juan Jose
+2823,ACH022,SONY,594,Bogota,Jennifer
+3490,ACH43,Kalley,1458,Medellin,Jose Cano
+182,ACH01,RICO,969,Bucaramanga,Juan P
+2682,ACH01,RICO,1439,Bucaramanga,Juan P
+8091,ACH022,SONY,1835,Bucaramanga,Juan P
+1296,ACH01,Kalley,947,Medellin,Jose Cano
+6858,ACH43,SONY,1639,Bogota,Camila B
+3733,ACH01,Kalley,1783,Cali,Camila B
+1920,ACH022,Kalley,550,Bogota,Jennifer
+8976,ACH022,Kalley,440,Medellin,Jennifer
+4052,ACH022,SONY,611,Pereira,Jose Cano
+8372,ACH01,Kalley,753,Pereira,Jennifer
+5920,ACH43,Kalley,1444,Bogota,Camila B
+3100,ACH022,RICO,1102,Medellin,Camila B
+2376,ACH43,Kalley,1495,Cali,Camila B
+9500,ACH022,Kalley,1666,Pereira,Juan Jose
+9126,ACH43,SONY,390,Cali,Juan Jose
+374,ACH022,RICO,665,Bucaramanga,Juan P
+5039,ACH01,SONY,931,Pereira,Jennifer
+4672,ACH43,RICO,1517,Bogota,Camila B
+7644,ACH01,SONY,340,Bucaramanga,Jennifer
+5533,ACH01,Kalley,1422,Pereira,Jennifer
+2014,ACH01,Kalley,1634,Pereira,Juan Jose
+3797,ACH43,SONY,545,Cali,Jennifer
+6488,ACH022,SONY,853,Pereira,Jose Cano
+7150,ACH01,SONY,488,Medellin,Juan Jose
+8808,ACH01,Kalley,1203,Bucaramanga,Jose Cano
+1646,ACH43,SONY,925,Bogota,Juan Jose
+2754,ACH43,RICO,1281,Cali,Jose Cano
+4697,ACH022,RICO,461,Bucaramanga,Jose Cano
+8105,ACH01,SONY,948,Cali,Jose Cano
+3639,ACH43,Kalley,835,Cali,Jennifer
+3394,ACH43,Kalley,1357,Pereira,Juan Jose
+7492,ACH022,Kalley,563,Bogota,Juan P
+2375,ACH01,RICO,1650,Cali,Jennifer
+121,ACH01,RICO,522,Pereira,Jose Cano
+9405,ACH022,Kalley,357,Cali,Camila B
+9758,ACH022,RICO,1621,Bucaramanga,Jose Cano
+4514,ACH43,Kalley,243,Medellin,Juan P
+7253,ACH022,Kalley,1993,Cali,Jennifer
+8701,ACH43,Kalley,1754,Bucaramanga,Camila B
+4303,ACH022,RICO,375,Bucaramanga,Juan P
+4029,ACH43,RICO,1386,Bucaramanga,Juan Jose
+4732,ACH022,RICO,877,Medellin,Juan P
+8560,ACH01,Kalley,1544,Medellin,Jennifer
+9815,ACH43,Kalley,127,Medellin,Jose Cano
+6765,ACH43,RICO,259,Bucaramanga,Jose Cano
+735,ACH022,RICO,1514,Cali,Juan Jose
+461,ACH01,SONY,1167,Bucaramanga,Jose Cano
+3252,ACH022,Kalley,1488,Pereira,Juan P
+8739,ACH022,Kalley,420,Pereira,Camila B
+7597,ACH022,Kalley,439,Bucaramanga,Jose Cano
+8310,ACH022,RICO,1310,Pereira,Jose Cano
+4832,ACH01,Kalley,626,Bucaramanga,Jose Cano
+2706,ACH022,RICO,211,Bucaramanga,Juan Jose
+3997,ACH43,RICO,1191,Pereira,Jennifer
+8863,ACH43,Kalley,127,Bucaramanga,Jennifer
+8578,ACH01,RICO,1298,Bucaramanga,Juan Jose
+8192,ACH43,Kalley,1791,Pereira,Juan Jose
+5774,ACH43,RICO,238,Bogota,Jose Cano
+1611,ACH01,Kalley,600,Pereira,Juan Jose
+7274,ACH01,Kalley,922,Bogota,Jose Cano
+5905,ACH022,Kalley,1297,Pereira,Camila B
+6488,ACH43,RICO,1027,Medellin,Jennifer
+7247,ACH022,Kalley,281,Pereira,Camila B
+8626,ACH01,RICO,1557,Bogota,Camila B
+283,ACH43,RICO,718,Bogota,Juan Jose
+4517,ACH43,Kalley,793,Pereira,Jose Cano
+5231,ACH01,SONY,1722,Cali,Juan P
+5648,ACH01,Kalley,1099,Pereira,Jose Cano
+485,ACH022,RICO,646,Bogota,Jose Cano
+400,ACH022,SONY,227,Pereira,Juan Jose
+2481,ACH022,Kalley,105,Cali,Camila B
+1649,ACH022,SONY,210,Bucaramanga,Juan Jose
+1575,ACH022,SONY,1055,Medellin,Camila B
+5334,ACH43,RICO,277,Medellin,Jose Cano
+5258,ACH022,SONY,1690,Bucaramanga,Juan P
+2415,ACH43,Kalley,495,Pereira,Jose Cano
+2646,ACH43,RICO,153,Medellin,Juan Jose
+4296,ACH43,SONY,782,Medellin,Camila B
+1815,ACH022,Kalley,1364,Bucaramanga,Jose Cano
+6527,ACH01,SONY,1942,Cali,Camila B
+4508,ACH43,Kalley,698,Cali,Juan Jose
+1773,ACH022,SONY,1589,Cali,Jennifer
+5726,ACH01,SONY,650,Medellin,Juan Jose
+9890,ACH022,RICO,129,Bogota,Camila B
+8671,ACH01,Kalley,1389,Bucaramanga,Camila B
+4607,ACH01,SONY,406,Bogota,Jose Cano
+2277,ACH022,RICO,1465,Bogota,Juan Jose
+6958,ACH022,Kalley,956,Bogota,Jennifer
+1475,ACH43,Kalley,402,Pereira,Juan Jose
+2378,ACH022,Kalley,1652,Bogota,Juan Jose
+505,ACH43,Kalley,289,Medellin,Jennifer
+5169,ACH43,RICO,875,Medellin,Juan P
+2709,ACH01,RICO,1398,Bogota,Jennifer
+5106,ACH022,SONY,1620,Medellin,Camila B
+6760,ACH43,Kalley,736,Medellin,Juan Jose
+4457,ACH43,SONY,1713,Bucaramanga,Jennifer
+7208,ACH01,RICO,301,Bogota,Jennifer
+5327,ACH022,SONY,838,Pereira,Jose Cano
+6677,ACH022,SONY,1004,Bucaramanga,Camila B
+7532,ACH022,RICO,159,Pereira,Jose Cano
+1094,ACH43,RICO,1766,Medellin,Camila B
+4885,ACH01,SONY,1698,Bogota,Camila B
+3558,ACH022,Kalley,1834,Pereira,Juan P
+1493,ACH022,RICO,1107,Bucaramanga,Juan P
+8987,ACH43,Kalley,353,Bucaramanga,Camila B
+1324,ACH01,SONY,337,Bogota,Camila B
+1403,ACH43,SONY,425,Bucaramanga,Jennifer
+9143,ACH022,Kalley,942,Pereira,Jose Cano
+8165,ACH43,SONY,1347,Cali,Jennifer
+5776,ACH43,SONY,1435,Pereira,Camila B
+4269,ACH01,Kalley,1440,Cali,Jose Cano
+1764,ACH43,RICO,479,Cali,Juan Jose
+8554,ACH022,SONY,735,Pereira,Jose Cano
+5961,ACH01,SONY,878,Bucaramanga,Juan P
+6223,ACH022,SONY,1111,Medellin,Camila B
+100,ACH43,Kalley,1600,Bucaramanga,Juan P
+8254,ACH43,Kalley,1585,Pereira,Juan P
+2909,ACH022,RICO,1907,Medellin,Jose Cano
+1605,ACH43,RICO,845,Pereira,Camila B
+4238,ACH022,SONY,204,Pereira,Camila B
+7637,ACH022,SONY,517,Bucaramanga,Camila B
+8070,ACH022,SONY,1689,Pereira,Jose Cano
+230,ACH43,RICO,104,Bucaramanga,Juan Jose
+646,ACH43,SONY,493,Cali,Camila B
+1464,ACH43,Kalley,957,Pereira,Juan Jose
+23,ACH43,RICO,497,Pereira,Camila B
+2087,ACH022,RICO,1059,Cali,Juan Jose
+7764,ACH43,SONY,732,Cali,Jose Cano
+4809,ACH01,RICO,1230,Cali,Juan Jose
+9936,ACH43,Kalley,1889,Bogota,Jose Cano
+4256,ACH01,RICO,1935,Bucaramanga,Jennifer
+3851,ACH022,RICO,920,Bucaramanga,Jennifer
+2730,ACH01,Kalley,245,Pereira,Juan P
+89,ACH022,SONY,1876,Medellin,Jose Cano
+6013,ACH43,SONY,510,Medellin,Juan P
+8078,ACH01,RICO,509,Cali,Juan P
+8020,ACH43,Kalley,628,Cali,Jennifer
+6762,ACH43,SONY,1177,Pereira,Jennifer
+3967,ACH01,SONY,215,Cali,Jennifer
+7801,ACH01,Kalley,1617,Bogota,Jennifer
+1070,ACH01,SONY,244,Pereira,Juan Jose
+4354,ACH01,Kalley,1082,Bucaramanga,Camila B
+2406,ACH43,Kalley,1080,Medellin,Jose Cano
+7598,ACH022,RICO,1028,Medellin,Jennifer
+2865,ACH01,RICO,1878,Cali,Juan P
+3410,ACH01,SONY,266,Medellin,Juan Jose
+8095,ACH43,SONY,271,Pereira,Camila B
+5494,ACH01,RICO,1939,Bogota,Jennifer
+1354,ACH43,Kalley,1147,Bucaramanga,Jose Cano
+2754,ACH022,SONY,1294,Medellin,Juan Jose
+7021,ACH01,Kalley,1494,Pereira,Juan Jose
+8580,ACH022,SONY,816,Bogota,Jennifer
+2265,ACH43,Kalley,164,Bucaramanga,Camila B
+7532,ACH43,SONY,1216,Medellin,Jennifer
+4235,ACH01,Kalley,1729,Pereira,Juan Jose
+1004,ACH022,RICO,1239,Bogota,Juan Jose
+3927,ACH022,RICO,1738,Bucaramanga,Jose Cano
+4797,ACH43,RICO,1427,Medellin,Camila B
+2239,ACH01,RICO,1300,Medellin,Jennifer
+7693,ACH01,RICO,828,Bucaramanga,Camila B
+3354,ACH43,SONY,1389,Bogota,Juan Jose
+6077,ACH022,RICO,615,Pereira,Jose Cano
+5998,ACH022,RICO,874,Medellin,Jennifer
+5137,ACH43,Kalley,633,Pereira,Juan Jose
+6073,ACH01,RICO,336,Bucaramanga,Juan Jose
+870,ACH43,RICO,738,Bucaramanga,Jose Cano
+8009,ACH022,Kalley,1529,Bogota,Juan P
+1507,ACH43,SONY,891,Pereira,Camila B
+7573,ACH43,Kalley,1346,Bucaramanga,Juan P
+954,ACH022,SONY,915,Medellin,Camila B
+8754,ACH01,SONY,1026,Cali,Juan Jose
+2383,ACH01,Kalley,348,Bucaramanga,Jose Cano
+9166,ACH022,RICO,577,Pereira,Camila B
+9525,ACH01,RICO,377,Bucaramanga,Juan P
+1664,ACH01,RICO,1248,Medellin,Juan P
+9164,ACH01,Kalley,696,Bogota,Jose Cano
+1130,ACH43,RICO,730,Bucaramanga,Camila B
+8447,ACH01,Kalley,252,Medellin,Juan Jose
+9625,ACH022,SONY,688,Medellin,Juan P
+8124,ACH022,SONY,1660,Bogota,Jennifer
+8346,ACH01,SONY,1833,Bogota,Camila B
+426,ACH43,SONY,1289,Cali,Jennifer
+3469,ACH01,SONY,1702,Bucaramanga,Jose Cano
+976,ACH022,RICO,1585,Medellin,Jennifer
+3236,ACH43,RICO,810,Cali,Jennifer
+2969,ACH01,SONY,1274,Bogota,Juan Jose
+788,ACH022,RICO,1204,Cali,Camila B
+2768,ACH43,SONY,1136,Pereira,Camila B
+1072,ACH01,SONY,484,Bucaramanga,Juan P
+8514,ACH01,RICO,1002,Bucaramanga,Jennifer
+3363,ACH43,SONY,140,Bogota,Camila B
+9596,ACH022,SONY,471,Bogota,Juan Jose
+6917,ACH43,RICO,549,Pereira,Jennifer
+8534,ACH022,Kalley,602,Cali,Juan Jose
+483,ACH43,RICO,872,Pereira,Jennifer
+5359,ACH022,RICO,174,Medellin,Juan P
+1136,ACH43,Kalley,1309,Medellin,Camila B
+5154,ACH022,SONY,1920,Bucaramanga,Jose Cano
+9951,ACH01,SONY,231,Bucaramanga,Jose Cano
+1531,ACH022,Kalley,1483,Cali,Camila B
+5595,ACH01,RICO,1437,Cali,Juan Jose
+6145,ACH01,RICO,148,Pereira,Juan P
+2592,ACH022,SONY,835,Medellin,Juan Jose
+8801,ACH01,Kalley,336,Bogota,Juan P
+1244,ACH022,RICO,292,Medellin,Juan P
+4008,ACH43,Kalley,517,Bucaramanga,Juan Jose
+781,ACH43,Kalley,993,Medellin,Juan P
+7103,ACH43,RICO,1970,Bucaramanga,Jennifer
+8049,ACH43,SONY,1056,Bucaramanga,Juan Jose
+3065,ACH022,RICO,461,Cali,Camila B
+9848,ACH43,Kalley,1166,Cali,Camila B
+569,ACH01,Kalley,808,Pereira,Camila B
+1577,ACH43,Kalley,440,Cali,Camila B
+7396,ACH43,Kalley,1111,Bucaramanga,Camila B
+4109,ACH022,SONY,1364,Bogota,Jennifer
+1180,ACH43,RICO,159,Medellin,Jennifer
+2434,ACH022,RICO,1384,Bogota,Jennifer
+598,ACH43,SONY,807,Medellin,Camila B
+5716,ACH43,RICO,1582,Cali,Jose Cano
+6788,ACH022,Kalley,522,Pereira,Jose Cano
+7255,ACH022,Kalley,676,Cali,Juan P
+4574,ACH43,RICO,1844,Pereira,Jennifer
+4977,ACH022,RICO,1316,Cali,Jennifer
+382,ACH022,RICO,311,Bucaramanga,Juan P
+3700,ACH43,RICO,1874,Pereira,Jennifer
+7227,ACH43,SONY,1779,Bogota,Jennifer
+3187,ACH01,Kalley,203,Cali,Camila B
+6027,ACH43,SONY,382,Medellin,Juan P
+753,ACH01,SONY,432,Cali,Jennifer
+7138,ACH022,RICO,1050,Cali,Juan Jose
+1201,ACH01,RICO,868,Medellin,Camila B
+4827,ACH43,SONY,739,Medellin,Juan Jose
+7063,ACH43,Kalley,1495,Medellin,Juan P
+8491,ACH022,SONY,582,Cali,Jennifer
+5663,ACH01,Kalley,1638,Cali,Jose Cano
+1339,ACH01,SONY,759,Medellin,Juan Jose
+9962,ACH01,Kalley,154,Bucaramanga,Jose Cano
+9800,ACH43,RICO,939,Pereira,Camila B
+6083,ACH01,Kalley,956,Bucaramanga,Jose Cano
+9145,ACH01,SONY,1629,Cali,Camila B
+1377,ACH01,Kalley,1612,Bucaramanga,Jennifer
+6251,ACH43,RICO,1156,Bogota,Juan P
+4777,ACH01,SONY,123,Bucaramanga,Jose Cano
+7323,ACH43,SONY,1742,Cali,Jose Cano
+6179,ACH43,Kalley,1370,Medellin,Juan P
+8512,ACH01,Kalley,945,Bogota,Jose Cano
+5018,ACH43,Kalley,1952,Bucaramanga,Camila B
+6501,ACH43,Kalley,1037,Cali,Juan P
+7161,ACH43,SONY,931,Pereira,Jennifer
+9321,ACH01,SONY,895,Medellin,Juan P
+7064,ACH022,RICO,1149,Cali,Jennifer
+7853,ACH022,Kalley,1581,Bucaramanga,Juan Jose
+5962,ACH01,RICO,1702,Bucaramanga,Jennifer
+3648,ACH43,SONY,1182,Medellin,Juan Jose
+7886,ACH01,RICO,950,Bogota,Jose Cano
+2517,ACH01,Kalley,594,Cali,Jennifer
+9129,ACH01,Kalley,330,Pereira,Juan P
+5900,ACH43,RICO,1121,Medellin,Juan P
+5891,ACH022,RICO,1430,Bogota,Juan P
+8025,ACH43,RICO,1931,Bogota,Jose Cano
+1543,ACH022,RICO,429,Cali,Juan Jose
+4878,ACH01,Kalley,1265,Bucaramanga,Camila B
+1522,ACH01,SONY,1067,Bogota,Juan Jose
+7676,ACH022,Kalley,1865,Bucaramanga,Jennifer
+9201,ACH01,SONY,1600,Bucaramanga,Camila B
+9872,ACH01,RICO,1558,Bucaramanga,Juan Jose
+7487,ACH01,Kalley,1886,Pereira,Jennifer
+8563,ACH022,SONY,1571,Pereira,Juan P
+7691,ACH43,Kalley,1834,Pereira,Jennifer
+9619,ACH022,SONY,754,Bucaramanga,Jose Cano
+8087,ACH022,RICO,312,Bogota,Camila B
+9581,ACH022,RICO,1964,Bucaramanga,Jennifer
+1910,ACH01,SONY,1483,Pereira,Juan Jose
+5186,ACH01,SONY,364,Pereira,Camila B
+7256,ACH01,RICO,642,Pereira,Camila B
+3323,ACH43,RICO,718,Pereira,Jose Cano
+1342,ACH43,Kalley,821,Bucaramanga,Juan P
+7945,ACH01,RICO,893,Bucaramanga,Juan Jose
+9718,ACH01,SONY,1196,Pereira,Jennifer
+4913,ACH022,RICO,835,Pereira,Camila B
+3399,ACH01,SONY,883,Bucaramanga,Camila B
+1354,ACH022,RICO,1180,Bucaramanga,Camila B
+1344,ACH01,RICO,1141,Cali,Juan P
+6032,ACH022,SONY,1936,Cali,Jose Cano
+1990,ACH01,RICO,1444,Pereira,Jennifer
+9784,ACH022,Kalley,1641,Medellin,Juan Jose
+5634,ACH01,SONY,1623,Medellin,Jennifer
+8354,ACH01,SONY,1450,Bogota,Camila B
+4577,ACH01,Kalley,631,Pereira,Camila B
+1685,ACH43,SONY,1777,Bogota,Jennifer
+81,ACH022,SONY,276,Pereira,Jose Cano
+605,ACH43,Kalley,789,Bucaramanga,Juan Jose
+7160,ACH022,RICO,979,Medellin,Jose Cano
+9092,ACH022,Kalley,1037,Cali,Juan Jose
+4476,ACH022,RICO,1748,Medellin,Camila B
+4534,ACH022,SONY,125,Bucaramanga,Jennifer
+3466,ACH43,RICO,317,Cali,Jennifer
+4164,ACH01,SONY,1316,Pereira,Juan Jose
+6251,ACH43,RICO,1301,Bogota,Juan Jose
+8081,ACH022,SONY,592,Bogota,Camila B
+2499,ACH43,Kalley,1156,Pereira,Jennifer
+4736,ACH43,SONY,325,Cali,Juan Jose
+902,ACH01,Kalley,727,Bucaramanga,Jennifer
+8308,ACH022,RICO,1680,Medellin,Camila B
+9427,ACH43,SONY,1047,Cali,Juan P
+6272,ACH01,RICO,1392,Bogota,Jose Cano
+5449,ACH43,RICO,143,Pereira,Juan Jose
+4625,ACH43,RICO,528,Bucaramanga,Jose Cano
+9026,ACH43,Kalley,1475,Pereira,Jennifer
+521,ACH43,RICO,1670,Bogota,Jennifer
+3442,ACH01,RICO,623,Medellin,Juan P
+9445,ACH01,Kalley,386,Pereira,Juan Jose
+9843,ACH43,SONY,1188,Bogota,Jose Cano
+1389,ACH43,SONY,1349,Bogota,Jose Cano
+3854,ACH01,Kalley,540,Bucaramanga,Jose Cano
+2905,ACH01,SONY,1133,Pereira,Camila B
+6938,ACH022,RICO,512,Cali,Jennifer
+892,ACH43,Kalley,659,Pereira,Juan Jose
+6933,ACH43,RICO,601,Cali,Jose Cano
+9444,ACH43,Kalley,1083,Pereira,Camila B
+4776,ACH01,SONY,811,Medellin,Juan P
+2658,ACH01,SONY,339,Pereira,Jose Cano
+7102,ACH022,SONY,1014,Bogota,Jose Cano
+9548,ACH01,SONY,766,Bogota,Jennifer
+7334,ACH01,SONY,794,Bucaramanga,Camila B
+4530,ACH022,SONY,657,Medellin,Camila B
+6437,ACH022,SONY,588,Bucaramanga,Juan P
+5917,ACH43,SONY,1777,Pereira,Jose Cano
+6853,ACH01,SONY,210,Medellin,Jennifer
+7050,ACH022,RICO,1278,Cali,Juan P
+469,ACH43,Kalley,1488,Cali,Camila B
+2076,ACH43,Kalley,1143,Bogota,Jose Cano
+2945,ACH43,RICO,139,Pereira,Jennifer
+2604,ACH022,Kalley,409,Cali,Juan P
+3275,ACH01,RICO,1341,Bucaramanga,Jennifer
+1063,ACH43,Kalley,1351,Bogota,Jose Cano
+3090,ACH01,Kalley,1744,Medellin,Jennifer
+8868,ACH01,RICO,1060,Medellin,Jennifer
+8916,ACH43,SONY,1034,Cali,Juan Jose
+7197,ACH022,SONY,1274,Cali,Juan Jose
+9375,ACH01,Kalley,1413,Medellin,Jennifer
+6918,ACH022,RICO,847,Cali,Juan Jose
+508,ACH022,RICO,205,Bogota,Jennifer
+4421,ACH43,RICO,1942,Bogota,Jose Cano
+4422,ACH022,RICO,1186,Bucaramanga,Jennifer
+7719,ACH022,RICO,1411,Bucaramanga,Jennifer
+4939,ACH43,SONY,1100,Pereira,Camila B
+1344,ACH022,Kalley,808,Medellin,Camila B
+7177,ACH01,SONY,612,Bucaramanga,Jennifer
+5625,ACH01,RICO,560,Bogota,Juan Jose
+6532,ACH01,Kalley,1078,Medellin,Jose Cano
+2138,ACH43,SONY,261,Cali,Juan Jose
+7235,ACH022,RICO,1965,Cali,Juan Jose
+2014,ACH01,SONY,1652,Cali,Jennifer
+3612,ACH022,Kalley,973,Bucaramanga,Jose Cano
+1239,ACH022,SONY,617,Bucaramanga,Jennifer
+3024,ACH01,RICO,1595,Pereira,Juan P
+5801,ACH022,RICO,1776,Bogota,Jose Cano
+659,ACH022,Kalley,1189,Bogota,Jennifer
+8319,ACH01,Kalley,675,Pereira,Jose Cano
+635,ACH01,RICO,1333,Bogota,Juan Jose
+5233,ACH01,Kalley,974,Pereira,Juan P
+8491,ACH022,Kalley,1083,Bucaramanga,Jennifer
+5981,ACH01,SONY,1133,Cali,Juan Jose
+153,ACH43,SONY,1444,Pereira,Jose Cano
+7051,ACH43,RICO,597,Bogota,Jose Cano
+422,ACH022,Kalley,1847,Bucaramanga,Juan Jose
+2427,ACH022,SONY,724,Medellin,Jose Cano
+1380,ACH43,SONY,1539,Bogota,Juan P
+8887,ACH022,RICO,340,Pereira,Juan Jose
+7372,ACH43,Kalley,1771,Medellin,Jose Cano
+2561,ACH01,Kalley,1902,Bogota,Juan Jose
+6497,ACH022,Kalley,196,Bucaramanga,Juan Jose
+8001,ACH022,SONY,671,Medellin,Jose Cano
+4265,ACH43,SONY,1122,Cali,Juan Jose
+3089,ACH01,SONY,1166,Bucaramanga,Juan Jose
+7088,ACH01,Kalley,772,Bucaramanga,Jennifer
+3430,ACH43,Kalley,903,Bucaramanga,Jennifer
+9036,ACH022,SONY,1136,Bucaramanga,Juan Jose
+326,ACH01,Kalley,1756,Pereira,Juan P
+6299,ACH01,SONY,580,Bogota,Jennifer
+2272,ACH43,SONY,1542,Bogota,Juan Jose
+7961,ACH01,Kalley,103,Cali,Juan P
+9217,ACH43,Kalley,423,Pereira,Camila B
+5295,ACH022,RICO,1717,Bogota,Juan P
+7176,ACH022,RICO,177,Bucaramanga,Juan Jose
+6726,ACH01,Kalley,257,Medellin,Jose Cano
+3382,ACH022,RICO,1044,Medellin,Camila B
+7132,ACH01,SONY,236,Cali,Juan P
+2220,ACH43,SONY,1533,Bogota,Juan Jose
+7596,ACH01,Kalley,1191,Pereira,Juan P
+4777,ACH022,Kalley,1362,Bogota,Jennifer
+4860,ACH022,Kalley,1246,Cali,Juan Jose
+9778,ACH43,SONY,468,Cali,Jennifer
+6888,ACH43,RICO,1608,Bogota,Juan Jose
+6287,ACH01,Kalley,550,Pereira,Jose Cano
+6111,ACH01,SONY,1957,Medellin,Jennifer
+1739,ACH01,Kalley,846,Bucaramanga,Jennifer
+9969,ACH43,RICO,774,Bucaramanga,Jennifer
+1910,ACH43,Kalley,751,Pereira,Juan Jose
+3616,ACH43,Kalley,1105,Bucaramanga,Jennifer
+5164,ACH01,Kalley,823,Bogota,Jennifer
+9541,ACH43,Kalley,1781,Medellin,Camila B
+7627,ACH022,Kalley,1880,Bucaramanga,Juan P
+6593,ACH022,RICO,650,Medellin,Jennifer
+1194,ACH022,Kalley,111,Medellin,Jose Cano
+135,ACH022,SONY,1648,Pereira,Juan Jose
+3203,ACH43,SONY,685,Medellin,Juan P
+751,ACH43,SONY,282,Bucaramanga,Juan Jose
+2196,ACH01,SONY,1065,Cali,Juan P
+4007,ACH01,RICO,621,Bogota,Camila B
+1200,ACH01,Kalley,1908,Cali,Jennifer
+3334,ACH43,Kalley,1879,Bucaramanga,Juan Jose
+7292,ACH43,SONY,1048,Pereira,Juan Jose
+840,ACH022,SONY,1355,Medellin,Juan P
+7598,ACH01,RICO,1358,Cali,Juan P
+5019,ACH022,RICO,190,Medellin,Juan Jose
+6079,ACH01,Kalley,208,Medellin,Jose Cano
+6083,ACH01,SONY,1792,Cali,Camila B
+4076,ACH022,SONY,1112,Medellin,Jennifer
+5817,ACH01,RICO,642,Medellin,Juan P
+5953,ACH43,RICO,1555,Bogota,Juan Jose
+4712,ACH022,RICO,1861,Bogota,Jennifer
+4375,ACH01,RICO,526,Pereira,Jose Cano
+1246,ACH01,RICO,1297,Medellin,Camila B
+6600,ACH01,SONY,332,Bucaramanga,Juan P
+7556,ACH022,SONY,651,Bucaramanga,Jose Cano
+5715,ACH022,Kalley,1755,Bogota,Jennifer
+7288,ACH43,Kalley,603,Bogota,Camila B
+9994,ACH43,RICO,596,Bogota,Jennifer
+7323,ACH022,RICO,157,Pereira,Jose Cano
+6008,ACH01,Kalley,343,Medellin,Jose Cano
+5284,ACH022,SONY,639,Pereira,Jennifer
+2503,ACH01,SONY,832,Bogota,Jose Cano
+1819,ACH01,SONY,793,Cali,Camila B
+996,ACH43,SONY,797,Pereira,Juan Jose
+67,ACH01,SONY,815,Medellin,Camila B
+7069,ACH022,Kalley,1828,Bucaramanga,Jennifer
+6573,ACH43,RICO,901,Cali,Camila B
+5939,ACH43,Kalley,1874,Bucaramanga,Camila B
+306,ACH022,RICO,892,Cali,Jose Cano
+9352,ACH43,Kalley,1029,Cali,Jennifer
+8869,ACH43,SONY,349,Cali,Camila B
+6648,ACH022,SONY,1872,Medellin,Juan P
+4579,ACH43,Kalley,1373,Bucaramanga,Jennifer
+1871,ACH022,Kalley,588,Pereira,Juan Jose
+783,ACH01,SONY,1579,Cali,Jennifer
+1367,ACH43,SONY,1015,Pereira,Juan Jose
+7279,ACH43,SONY,1013,Medellin,Juan P
+1042,ACH43,SONY,1984,Bogota,Jose Cano
+5046,ACH43,SONY,1714,Cali,Juan P
+2723,ACH43,Kalley,1113,Cali,Juan P
+5805,ACH022,SONY,969,Bogota,Juan Jose
+7618,ACH01,RICO,115,Bucaramanga,Juan P
+780,ACH022,Kalley,920,Pereira,Jennifer
+8245,ACH01,SONY,1491,Pereira,Juan P
+8196,ACH022,SONY,1621,Cali,Camila B
+1096,ACH01,RICO,105,Bucaramanga,Juan Jose
+7795,ACH43,RICO,665,Bogota,Jose Cano
+8585,ACH01,RICO,1084,Pereira,Jose Cano
+7475,ACH022,SONY,1851,Bogota,Jose Cano
+1179,ACH43,Kalley,919,Bucaramanga,Jennifer
+459,ACH43,RICO,1161,Medellin,Juan Jose
+9455,ACH01,SONY,405,Bucaramanga,Juan P
+2995,ACH022,SONY,1983,Bucaramanga,Juan P
+9073,ACH01,SONY,1022,Pereira,Juan Jose
+3155,ACH43,RICO,792,Medellin,Juan Jose
+3432,ACH01,Kalley,1305,Medellin,Jennifer
+6931,ACH43,Kalley,263,Pereira,Jose Cano
+8762,ACH022,SONY,1666,Pereira,Jose Cano
+5161,ACH022,Kalley,1982,Pereira,Juan Jose
+3337,ACH43,RICO,1414,Bucaramanga,Camila B
+4339,ACH43,Kalley,1319,Medellin,Jose Cano
+7060,ACH022,Kalley,1818,Bucaramanga,Juan P
+423,ACH01,SONY,1315,Medellin,Juan Jose
+3135,ACH43,Kalley,532,Bucaramanga,Juan Jose
+4333,ACH01,SONY,1135,Cali,Juan Jose
+9035,ACH43,SONY,1908,Bucaramanga,Juan P
+1271,ACH43,Kalley,1494,Pereira,Jennifer
+8363,ACH43,Kalley,350,Bogota,Juan P
+4367,ACH022,Kalley,503,Bogota,Juan Jose
+965,ACH43,Kalley,1305,Bucaramanga,Juan Jose
+4858,ACH01,RICO,1206,Cali,Camila B
+7815,ACH022,Kalley,1396,Cali,Jose Cano
+6455,ACH43,SONY,631,Bucaramanga,Juan Jose
+1553,ACH022,RICO,998,Bogota,Juan Jose
+2616,ACH022,Kalley,408,Cali,Jose Cano
+6144,ACH43,SONY,148,Pereira,Camila B
+1820,ACH43,Kalley,808,Bogota,Jennifer
+9122,ACH022,Kalley,372,Cali,Jose Cano
+8432,ACH022,Kalley,1062,Pereira,Camila B
+3651,ACH01,Kalley,1039,Pereira,Juan Jose
+4707,ACH43,RICO,465,Bucaramanga,Juan P
+1942,ACH43,RICO,472,Cali,Juan P
+2234,ACH022,SONY,378,Bogota,Camila B
+5639,ACH43,Kalley,1588,Pereira,Camila B
+7920,ACH43,RICO,1634,Pereira,Juan P
+6698,ACH01,RICO,1276,Pereira,Juan P
+5768,ACH43,SONY,674,Cali,Jennifer
+797,ACH01,RICO,431,Bogota,Camila B
+1093,ACH01,SONY,537,Bogota,Jennifer
+176,ACH022,RICO,1749,Pereira,Camila B
+3318,ACH022,RICO,800,Bucaramanga,Juan Jose
+2227,ACH022,SONY,827,Pereira,Juan P
+1359,ACH01,Kalley,591,Cali,Juan P
+6001,ACH01,SONY,1893,Pereira,Camila B
+8240,ACH022,RICO,860,Cali,Juan P
+1520,ACH01,SONY,1078,Bucaramanga,Juan Jose
+1610,ACH022,RICO,1269,Medellin,Juan P
+6922,ACH43,Kalley,1193,Bogota,Camila B
+9947,ACH022,RICO,454,Bucaramanga,Jennifer
+8515,ACH022,SONY,598,Pereira,Jennifer
+2286,ACH022,RICO,540,Medellin,Juan P
+9912,ACH01,SONY,1886,Medellin,Jose Cano
+8587,ACH022,Kalley,226,Cali,Camila B
+2195,ACH43,RICO,782,Bogota,Jennifer
+2968,ACH43,SONY,1174,Bogota,Juan P
+9979,ACH43,SONY,1519,Pereira,Juan Jose
+7290,ACH01,RICO,695,Cali,Camila B
+9534,ACH43,Kalley,1666,Bogota,Jennifer
+8285,ACH022,SONY,670,Bucaramanga,Camila B
+1055,ACH43,Kalley,1069,Medellin,Camila B
+6168,ACH022,RICO,315,Medellin,Jose Cano
+5190,ACH022,SONY,1058,Medellin,Juan Jose
+457,ACH01,SONY,1731,Cali,Juan P
+9481,ACH022,RICO,205,Pereira,Jose Cano
+3569,ACH43,SONY,1404,Medellin,Juan Jose
+1934,ACH022,SONY,352,Cali,Jennifer
+486,ACH01,SONY,1272,Medellin,Jose Cano
+5036,ACH43,Kalley,219,Bucaramanga,Jennifer
+9931,ACH022,RICO,752,Cali,Juan P
+4355,ACH43,SONY,793,Cali,Juan Jose
+7923,ACH43,RICO,1219,Bucaramanga,Jose Cano
+2547,ACH43,Kalley,1198,Bucaramanga,Juan P
+7633,ACH43,SONY,649,Bogota,Jennifer
+2836,ACH022,Kalley,1217,Bogota,Camila B
+6720,ACH022,RICO,487,Medellin,Jose Cano
+6358,ACH43,Kalley,846,Medellin,Juan P
+4617,ACH01,Kalley,1830,Bucaramanga,Jose Cano
+5211,ACH022,SONY,866,Bucaramanga,Juan P
+1868,ACH022,Kalley,182,Bucaramanga,Juan P
+2060,ACH43,Kalley,674,Bogota,Jose Cano
+5410,ACH01,RICO,1356,Medellin,Juan P
+4029,ACH022,Kalley,1871,Medellin,Juan Jose
+9434,ACH022,Kalley,193,Pereira,Camila B
+191,ACH022,Kalley,184,Bogota,Jose Cano
+976,ACH43,RICO,1472,Bucaramanga,Juan P
+979,ACH022,RICO,654,Cali,Juan P
+5673,ACH022,Kalley,1570,Pereira,Juan Jose
+7160,ACH01,Kalley,1663,Bucaramanga,Juan P
+1339,ACH43,Kalley,427,Cali,Jennifer
+1702,ACH022,SONY,1303,Bucaramanga,Camila B
+9369,ACH022,SONY,1531,Pereira,Juan Jose
+8189,ACH022,SONY,932,Bucaramanga,Jose Cano
+7155,ACH022,RICO,603,Medellin,Camila B
+5416,ACH43,Kalley,699,Cali,Camila B
+334,ACH43,RICO,1720,Bogota,Jose Cano
+640,ACH43,Kalley,1808,Cali,Jose Cano
+9998,ACH01,RICO,1027,Pereira,Jennifer
+2471,ACH022,RICO,757,Pereira,Jose Cano
+7508,ACH01,RICO,909,Medellin,Juan P
+2195,ACH01,Kalley,578,Medellin,Juan P
+6092,ACH43,Kalley,495,Bucaramanga,Juan P
+2163,ACH43,SONY,312,Bogota,Juan Jose
+4734,ACH43,Kalley,1322,Pereira,Juan P
+4750,ACH01,RICO,1826,Bucaramanga,Jennifer
+9336,ACH43,Kalley,1606,Bucaramanga,Jennifer
+9658,ACH43,SONY,1895,Bucaramanga,Juan P
+1073,ACH022,RICO,1854,Cali,Jennifer
+1448,ACH01,SONY,844,Bucaramanga,Juan P
+8819,ACH01,SONY,457,Bucaramanga,Jose Cano
+3142,ACH022,RICO,1051,Medellin,Juan P
+1795,ACH022,SONY,527,Bucaramanga,Jose Cano
+2856,ACH022,Kalley,1435,Cali,Juan Jose
+9684,ACH43,RICO,1328,Medellin,Jose Cano
+5773,ACH022,RICO,615,Medellin,Jose Cano
+2842,ACH43,SONY,1492,Medellin,Jennifer
+7649,ACH022,Kalley,935,Cali,Juan P
+6446,ACH01,Kalley,745,Bogota,Camila B
+7348,ACH43,RICO,335,Pereira,Camila B
+9998,ACH01,Kalley,1292,Cali,Jennifer
+7736,ACH43,RICO,126,Medellin,Juan P
+7267,ACH022,Kalley,1265,Bucaramanga,Camila B
+6350,ACH022,RICO,1867,Pereira,Juan P
+8848,ACH022,SONY,1695,Bogota,Juan Jose
+796,ACH01,RICO,1540,Cali,Jennifer
+8109,ACH43,Kalley,1249,Medellin,Juan P
+905,ACH022,RICO,1847,Bogota,Juan P
+5095,ACH022,SONY,1525,Bucaramanga,Juan P
+45,ACH01,RICO,1817,Cali,Juan Jose
+9046,ACH022,SONY,456,Cali,Jennifer
+8198,ACH022,RICO,1124,Medellin,Juan P
+6046,ACH022,Kalley,710,Medellin,Juan Jose
+6600,ACH022,Kalley,1742,Medellin,Jennifer
+3053,ACH01,Kalley,1388,Pereira,Camila B
+4670,ACH022,Kalley,1872,Bucaramanga,Juan Jose
+2544,ACH022,SONY,796,Medellin,Juan P
+6448,ACH022,RICO,1966,Cali,Jennifer
+3185,ACH022,Kalley,1065,Bucaramanga,Camila B
+2382,ACH43,SONY,1095,Bogota,Juan P
+8751,ACH022,SONY,993,Cali,Jennifer
+3028,ACH01,RICO,1544,Pereira,Jennifer
+4096,ACH43,Kalley,1492,Pereira,Juan P
+2225,ACH43,Kalley,1723,Medellin,Juan Jose
+9462,ACH43,RICO,1636,Pereira,Jennifer
+2069,ACH01,Kalley,1077,Bucaramanga,Juan P
+782,ACH43,SONY,188,Bogota,Juan Jose
+8257,ACH022,Kalley,1954,Cali,Jennifer
+3796,ACH022,RICO,1507,Bucaramanga,Juan P
+1139,ACH43,RICO,930,Bogota,Juan P
+2333,ACH43,Kalley,1375,Bucaramanga,Camila B
+1927,ACH01,SONY,706,Medellin,Camila B
+7931,ACH022,SONY,1110,Medellin,Jennifer
+5378,ACH43,Kalley,1967,Bogota,Juan Jose
+1917,ACH022,RICO,340,Cali,Jose Cano
+2771,ACH01,Kalley,1310,Bogota,Juan Jose
+7989,ACH43,Kalley,1175,Bucaramanga,Juan Jose
+8876,ACH43,SONY,236,Bucaramanga,Juan Jose
+5978,ACH43,RICO,1820,Medellin,Juan P
+1736,ACH43,Kalley,928,Bogota,Jennifer
+5683,ACH43,Kalley,1682,Cali,Juan Jose
+834,ACH01,Kalley,1739,Cali,Camila B
+3978,ACH022,Kalley,1047,Bogota,Juan Jose
+4353,ACH43,RICO,686,Bucaramanga,Juan Jose
+4632,ACH022,Kalley,1376,Medellin,Jennifer
+2046,ACH022,SONY,1231,Pereira,Juan Jose
+3347,ACH43,RICO,875,Bogota,Juan P
+7024,ACH01,RICO,1070,Cali,Camila B
+1198,ACH01,SONY,1727,Pereira,Camila B
+8990,ACH022,Kalley,1115,Pereira,Juan P
+8662,ACH43,Kalley,226,Pereira,Juan P
+2370,ACH43,SONY,1968,Bogota,Jose Cano
+4743,ACH01,RICO,1637,Bucaramanga,Juan Jose
+6643,ACH022,SONY,1787,Medellin,Jose Cano
+7206,ACH43,RICO,1858,Pereira,Juan Jose
+8012,ACH43,RICO,1875,Cali,Juan Jose
+5482,ACH022,SONY,435,Bogota,Juan Jose
+2221,ACH022,SONY,585,Pereira,Jennifer
+9489,ACH01,Kalley,567,Bogota,Juan P
+7518,ACH022,SONY,739,Cali,Camila B
+5552,ACH43,RICO,1954,Cali,Juan P
+6580,ACH01,Kalley,1477,Cali,Jennifer
+362,ACH022,RICO,413,Cali,Jennifer
+155,ACH01,Kalley,289,Pereira,Camila B
+4746,ACH01,SONY,1817,Medellin,Jennifer
+9569,ACH01,RICO,860,Bucaramanga,Jennifer
+6516,ACH01,RICO,535,Pereira,Juan P
+9790,ACH022,RICO,1348,Bogota,Juan Jose
+9921,ACH01,RICO,1084,Bogota,Jennifer
+4011,ACH022,SONY,108,Bucaramanga,Juan P
+3681,ACH01,SONY,169,Bogota,Juan P
+7459,ACH43,RICO,1889,Bogota,Camila B
+2894,ACH01,SONY,337,Pereira,Jennifer
+5454,ACH43,RICO,1510,Cali,Camila B
+4334,ACH43,Kalley,1925,Bogota,Jose Cano
+7303,ACH01,RICO,1158,Bogota,Camila B
+7510,ACH022,SONY,571,Pereira,Jennifer
+5411,ACH022,Kalley,1087,Cali,Camila B
+4742,ACH022,RICO,1771,Medellin,Camila B
+1573,ACH022,Kalley,1856,Cali,Juan Jose
+2269,ACH01,SONY,1235,Medellin,Juan P
+807,ACH43,RICO,908,Medellin,Jennifer
+5166,ACH01,SONY,124,Bogota,Jose Cano
+280,ACH022,Kalley,1843,Bogota,Jennifer
+3903,ACH43,RICO,1248,Pereira,Jennifer
+5363,ACH022,RICO,1721,Cali,Juan Jose
+97,ACH01,RICO,475,Pereira,Jose Cano
+6139,ACH022,RICO,1345,Bucaramanga,Jose Cano
+2286,ACH022,RICO,888,Medellin,Juan Jose
+6797,ACH01,SONY,1217,Medellin,Juan P
+3734,ACH43,Kalley,1536,Pereira,Camila B
+2903,ACH01,SONY,517,Medellin,Jennifer
+3684,ACH01,RICO,220,Cali,Jose Cano
+934,ACH43,RICO,152,Medellin,Juan P
+7220,ACH022,Kalley,975,Medellin,Juan Jose
+4718,ACH022,RICO,1692,Bogota,Juan P
+6526,ACH01,RICO,358,Bogota,Jennifer
+9344,ACH022,RICO,1218,Bucaramanga,Juan P
+5236,ACH022,Kalley,1213,Cali,Juan Jose
+1476,ACH43,SONY,506,Cali,Juan Jose
+7227,ACH43,SONY,1715,Medellin,Jennifer
+5872,ACH43,SONY,784,Pereira,Camila B
+2756,ACH01,Kalley,800,Pereira,Juan P
+8506,ACH01,SONY,1559,Bucaramanga,Camila B
+7553,ACH01,SONY,300,Bucaramanga,Jose Cano
+8160,ACH01,Kalley,1485,Bogota,Camila B
+2917,ACH43,RICO,1963,Pereira,Juan P
+7827,ACH022,RICO,518,Bogota,Jose Cano
+7988,ACH022,RICO,1863,Medellin,Juan P
+1476,ACH43,Kalley,601,Bogota,Camila B
+3841,ACH022,RICO,1702,Pereira,Jose Cano
+3462,ACH43,Kalley,616,Pereira,Juan P
+1516,ACH01,RICO,960,Medellin,Jose Cano
+458,ACH022,SONY,361,Bucaramanga,Jennifer
+6904,ACH01,Kalley,177,Bucaramanga,Juan P
+3581,ACH43,RICO,1821,Bucaramanga,Jose Cano
+3635,ACH43,SONY,293,Bucaramanga,Juan P
+3592,ACH43,RICO,778,Pereira,Juan P
+7726,ACH01,SONY,489,Pereira,Jose Cano
+1351,ACH022,Kalley,1986,Bogota,Camila B
+3248,ACH01,Kalley,1032,Cali,Jennifer
+273,ACH01,SONY,687,Medellin,Camila B
+7138,ACH01,Kalley,297,Bogota,Camila B
+8271,ACH01,SONY,111,Cali,Juan P
+8484,ACH43,Kalley,178,Bogota,Juan Jose
+5977,ACH01,RICO,1846,Bogota,Camila B
+9599,ACH01,SONY,700,Bogota,Jose Cano
+1712,ACH01,SONY,1793,Cali,Juan P
+4077,ACH022,Kalley,957,Bogota,Juan Jose
+2608,ACH43,SONY,1821,Pereira,Jose Cano
+5634,ACH43,RICO,1481,Medellin,Juan P
+3692,ACH022,RICO,830,Cali,Jennifer
+1941,ACH43,Kalley,425,Medellin,Camila B
+1347,ACH01,RICO,1755,Medellin,Camila B
+2848,ACH43,Kalley,1297,Cali,Camila B
+2329,ACH022,RICO,957,Cali,Jose Cano
+1734,ACH43,Kalley,1242,Pereira,Juan P
+3127,ACH43,SONY,526,Cali,Juan P
+7197,ACH43,Kalley,1738,Bucaramanga,Juan Jose
+5255,ACH43,RICO,1635,Bogota,Jose Cano
+2585,ACH022,SONY,204,Bucaramanga,Juan P
+7565,ACH43,Kalley,904,Pereira,Juan Jose
+4714,ACH01,Kalley,1895,Bucaramanga,Juan Jose
+1586,ACH01,SONY,1935,Cali,Juan Jose
+6386,ACH022,Kalley,1576,Pereira,Juan Jose
+2610,ACH022,SONY,1965,Pereira,Camila B
+6420,ACH01,SONY,1276,Bogota,Jose Cano
+7280,ACH01,SONY,1700,Bogota,Juan Jose
+9755,ACH01,Kalley,170,Medellin,Juan P
+3638,ACH01,RICO,1236,Medellin,Jennifer
+7015,ACH43,SONY,1653,Bucaramanga,Juan Jose
+1599,ACH01,SONY,1762,Cali,Juan Jose
+8451,ACH01,Kalley,501,Pereira,Camila B
+9445,ACH01,RICO,966,Medellin,Juan P
+3122,ACH01,Kalley,1884,Bucaramanga,Jennifer
+1655,ACH01,Kalley,1410,Bucaramanga,Juan P
+8117,ACH01,SONY,1167,Bucaramanga,Jose Cano
+8128,ACH43,RICO,431,Bogota,Juan Jose
+9085,ACH01,RICO,716,Bogota,Jennifer
+1019,ACH01,SONY,138,Bogota,Juan P
+3804,ACH022,SONY,455,Bogota,Camila B
+6094,ACH022,Kalley,860,Bogota,Jose Cano
+4241,ACH01,Kalley,709,Bucaramanga,Juan Jose
+7432,ACH01,Kalley,1045,Medellin,Juan P
+3390,ACH022,SONY,1322,Bucaramanga,Juan P
+7901,ACH01,RICO,1914,Bucaramanga,Juan Jose
+6090,ACH01,RICO,919,Medellin,Juan P
+28,ACH01,Kalley,972,Bucaramanga,Jose Cano
+6938,ACH022,SONY,1782,Bucaramanga,Camila B
+9577,ACH01,RICO,398,Medellin,Jose Cano
+5178,ACH022,Kalley,809,Cali,Camila B
+9236,ACH43,SONY,1485,Cali,Camila B
+6893,ACH01,Kalley,369,Cali,Camila B
+1833,ACH01,RICO,990,Bogota,Jose Cano
+6379,ACH43,Kalley,1657,Cali,Jose Cano
+7517,ACH43,RICO,587,Cali,Jennifer
+2031,ACH43,Kalley,187,Bogota,Juan P
+7079,ACH43,RICO,391,Cali,Jennifer
+5621,ACH43,RICO,922,Cali,Juan P
+3934,ACH43,Kalley,1577,Bogota,Camila B
+4199,ACH022,SONY,129,Pereira,Juan Jose
+683,ACH01,RICO,1130,Medellin,Juan P
+6234,ACH01,RICO,953,Medellin,Juan P
+3887,ACH01,RICO,253,Medellin,Camila B
+7192,ACH022,RICO,111,Bogota,Juan P
+6972,ACH43,SONY,723,Bogota,Jose Cano
+4885,ACH43,SONY,1110,Cali,Jennifer
+717,ACH022,SONY,406,Bogota,Jennifer
+6930,ACH022,RICO,1657,Pereira,Jose Cano
+2546,ACH43,Kalley,238,Bucaramanga,Jose Cano
+7607,ACH022,Kalley,757,Cali,Juan P
+7677,ACH022,RICO,1790,Medellin,Juan Jose
+2461,ACH01,RICO,895,Pereira,Juan P
+8919,ACH43,SONY,957,Medellin,Jose Cano
+8602,ACH01,RICO,379,Cali,Camila B
+9994,ACH43,RICO,1756,Cali,Jennifer
+927,ACH01,SONY,885,Bogota,Jennifer
+4610,ACH022,RICO,827,Bucaramanga,Jennifer
+1792,ACH43,RICO,413,Pereira,Jose Cano
+229,ACH022,Kalley,240,Pereira,Jennifer
+9381,ACH43,Kalley,1218,Cali,Camila B
+8544,ACH01,RICO,482,Cali,Juan Jose
+5528,ACH022,Kalley,703,Bogota,Camila B
+4421,ACH01,RICO,356,Medellin,Jose Cano
+7052,ACH022,RICO,734,Bogota,Jose Cano
+827,ACH01,RICO,1703,Bucaramanga,Juan Jose
+8951,ACH01,SONY,1980,Pereira,Juan Jose
+7667,ACH43,SONY,1013,Medellin,Jose Cano
+3283,ACH022,RICO,1367,Medellin,Juan P
+4192,ACH022,Kalley,1597,Pereira,Jose Cano
+5207,ACH022,SONY,264,Bogota,Jennifer
+6033,ACH022,SONY,569,Pereira,Juan P
+1461,ACH43,SONY,445,Bogota,Jennifer
+3614,ACH43,RICO,437,Cali,Camila B
+3274,ACH01,RICO,188,Cali,Juan Jose
+3697,ACH43,SONY,1021,Bucaramanga,Juan P
+3970,ACH01,Kalley,1962,Bogota,Camila B
+1802,ACH43,Kalley,1257,Pereira,Camila B
+3697,ACH01,Kalley,275,Cali,Jennifer
+6003,ACH01,SONY,1015,Bogota,Jose Cano
+2581,ACH43,Kalley,1494,Cali,Juan P
+8511,ACH43,SONY,1301,Bogota,Jennifer
+6928,ACH43,Kalley,1044,Bogota,Camila B
+7945,ACH43,SONY,1612,Bogota,Juan P
+8610,ACH022,SONY,1582,Medellin,Jose Cano
+9439,ACH022,SONY,1150,Bogota,Jennifer
+6468,ACH43,RICO,572,Bucaramanga,Juan P
+7510,ACH01,RICO,1201,Cali,Jennifer
+6237,ACH01,SONY,962,Pereira,Camila B
+4096,ACH022,Kalley,1364,Cali,Jose Cano
+2439,ACH01,Kalley,1905,Cali,Jose Cano
+367,ACH01,SONY,1126,Bogota,Jennifer
+2213,ACH43,RICO,1947,Pereira,Juan Jose
+2609,ACH022,RICO,410,Medellin,Jennifer
+6738,ACH01,RICO,1834,Bucaramanga,Jose Cano
+6108,ACH022,SONY,1423,Pereira,Juan P
+4538,ACH43,RICO,1108,Bucaramanga,Juan P
+1178,ACH01,RICO,1015,Cali,Juan Jose
+6040,ACH022,Kalley,1574,Medellin,Jennifer
+9652,ACH01,Kalley,1637,Bogota,Camila B
+5211,ACH01,SONY,1988,Bucaramanga,Juan Jose
+2863,ACH01,SONY,687,Cali,Jose Cano
+8116,ACH01,RICO,286,Bucaramanga,Juan Jose
+7899,ACH43,SONY,629,Bogota,Juan P
+1766,ACH43,SONY,108,Cali,Jennifer
+1589,ACH01,Kalley,1878,Cali,Juan P
+1140,ACH022,RICO,929,Bogota,Jose Cano
+9013,ACH43,Kalley,1474,Bucaramanga,Juan P
+454,ACH022,SONY,951,Pereira,Juan Jose
+9019,ACH43,SONY,1251,Medellin,Camila B
+532,ACH01,Kalley,123,Medellin,Camila B
+6594,ACH43,Kalley,1170,Bucaramanga,Juan P
+7131,ACH43,SONY,1429,Bogota,Jennifer
+6496,ACH01,SONY,601,Bogota,Juan P
+5418,ACH43,RICO,460,Pereira,Juan Jose
+4233,ACH022,RICO,106,Bogota,Juan Jose
+3979,ACH01,RICO,418,Bucaramanga,Juan Jose
+5792,ACH43,RICO,940,Bucaramanga,Jennifer
+5927,ACH43,Kalley,534,Medellin,Jennifer
+1539,ACH022,SONY,251,Cali,Jose Cano
+533,ACH022,RICO,606,Bucaramanga,Jose Cano
+5412,ACH43,RICO,1105,Medellin,Juan Jose
+3228,ACH01,RICO,427,Bogota,Jose Cano
+3180,ACH01,RICO,1631,Pereira,Jennifer
+5492,ACH022,RICO,204,Medellin,Camila B
+7539,ACH022,RICO,362,Cali,Juan Jose
+8445,ACH01,SONY,1163,Bucaramanga,Juan P
+2422,ACH01,SONY,1218,Bucaramanga,Juan Jose
+6579,ACH01,Kalley,704,Bogota,Jennifer
+9890,ACH01,Kalley,1959,Cali,Jennifer
+2847,ACH022,SONY,1345,Medellin,Camila B
+1420,ACH01,RICO,259,Medellin,Jose Cano
+6279,ACH43,SONY,1891,Cali,Jennifer
+5979,ACH01,SONY,483,Bucaramanga,Jennifer
+2105,ACH022,Kalley,760,Medellin,Jennifer
+5752,ACH022,Kalley,332,Medellin,Camila B
+2331,ACH01,Kalley,1378,Medellin,Juan P
+4360,ACH01,RICO,415,Cali,Camila B
+2893,ACH01,Kalley,1239,Bogota,Camila B
+1683,ACH43,SONY,1298,Bucaramanga,Juan P
+6075,ACH01,Kalley,1086,Medellin,Juan Jose
+1807,ACH43,Kalley,864,Pereira,Juan P
+1582,ACH43,RICO,151,Medellin,Juan P
+8217,ACH43,SONY,465,Bogota,Juan P
+7883,ACH43,SONY,1428,Cali,Juan P
+2887,ACH01,RICO,382,Pereira,Juan P
+6829,ACH01,RICO,574,Bogota,Camila B
+1309,ACH022,SONY,920,Bucaramanga,Juan P
+1578,ACH01,Kalley,407,Bucaramanga,Juan Jose
+9869,ACH43,SONY,1059,Pereira,Camila B
+575,ACH43,Kalley,1879,Medellin,Juan P
+4717,ACH022,SONY,529,Medellin,Juan P
+6307,ACH43,RICO,1792,Cali,Juan Jose
+5130,ACH43,RICO,1713,Cali,Jennifer
+629,ACH43,SONY,1698,Pereira,Juan P
+5551,ACH43,RICO,1864,Pereira,Jennifer
+4963,ACH01,Kalley,153,Bucaramanga,Juan Jose
+9601,ACH022,Kalley,1414,Pereira,Jennifer
+267,ACH43,RICO,665,Cali,Juan P
+6196,ACH022,Kalley,1586,Pereira,Juan Jose
+7236,ACH022,RICO,1278,Cali,Juan Jose
+3076,ACH43,RICO,613,Pereira,Juan Jose
+3288,ACH01,Kalley,1605,Cali,Juan Jose
+6731,ACH022,Kalley,1762,Bogota,Jose Cano
+3555,ACH43,Kalley,995,Medellin,Camila B
+9163,ACH022,RICO,898,Pereira,Jose Cano
+8807,ACH43,Kalley,1631,Bucaramanga,Camila B
+382,ACH022,RICO,1215,Pereira,Juan Jose
+4956,ACH01,Kalley,771,Cali,Juan Jose
+3524,ACH022,Kalley,1032,Pereira,Juan P
+4275,ACH01,RICO,1527,Bogota,Juan Jose
+3184,ACH022,RICO,1641,Bogota,Jose Cano
+9897,ACH43,SONY,176,Pereira,Jose Cano
+5743,ACH01,RICO,1610,Cali,Jose Cano
+2114,ACH43,RICO,538,Pereira,Juan P
+1942,ACH01,RICO,1109,Medellin,Jennifer
+6752,ACH01,SONY,1441,Medellin,Juan P
+3476,ACH01,SONY,458,Pereira,Juan Jose
+9396,ACH022,Kalley,1343,Pereira,Jennifer
+5804,ACH022,Kalley,1234,Bogota,Camila B
+7649,ACH022,Kalley,377,Pereira,Camila B
+3859,ACH43,SONY,448,Medellin,Juan P
